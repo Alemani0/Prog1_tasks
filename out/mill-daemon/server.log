@@ -1,0 +1,561 @@
+pid:7371 2026-10-21T08:14:39.544360144 [t1] running server in /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+pid:7371 2026-10-21T08:14:39.564057646 [t1] acceptTimeout=Some(30 minutes)
+pid:7371 2026-10-21T08:14:39.575387794 [t1] server file locked
+pid:7371 2026-10-21T08:14:39.583399272 [t1] listening on port 36989
+pid:7371 2026-10-21T08:14:39.586441296 [t1] handling run for Socket[addr=/127.0.0.1,port=55958,localport=36989]
+pid:7371 2026-10-21T08:14:39.601705247 [t28] prepareConnection Socket[addr=/127.0.0.1,port=55958,localport=36989]
+pid:7371 2026-10-21T08:14:39.603991592 [t28] 1 active connections
+pid:7371 2026-10-21T08:14:39.60957573 [t29] handleConnection: starting RPC server
+pid:7371 2026-10-21T08:14:39.643432349 [t29] handleConnection: running RPC server
+pid:7371 2026-10-21T08:14:39.643798339 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=55958,localport=36989]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:7371 2026-10-21T08:14:39.704648054 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=55958,localport=36989]] Initialized, waiting for messages.
+pid:7371 2026-10-21T08:14:52.548938097 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=55958,localport=36989]] Transport wire broken.
+pid:7371 2026-10-21T08:14:52.549551098 [t29] handleConnection: RPC server finished normally, exitCode=0
+pid:7371 2026-10-21T08:14:52.550356879 [t28] done=true, idle=true, lastClientAlive=true
+pid:7371 2026-10-21T08:14:52.554683929 [t28] 0 active connections
+pid:7371 2026-10-21T08:37:14.153939048 [t1] handling run for Socket[addr=/127.0.0.1,port=36812,localport=36989]
+pid:7371 2026-10-21T08:37:14.154764429 [t82] prepareConnection Socket[addr=/127.0.0.1,port=36812,localport=36989]
+pid:7371 2026-10-21T08:37:14.15526866 [t82] 1 active connections
+pid:7371 2026-10-21T08:37:14.155639042 [t83] handleConnection: starting RPC server
+pid:7371 2026-10-21T08:37:14.155812085 [t83] handleConnection: running RPC server
+pid:7371 2026-10-21T08:37:14.155913511 [t83] [MillDaemon-Socket[addr=/127.0.0.1,port=36812,localport=36989]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:7371 2026-10-21T08:37:14.156858121 [t83] [MillDaemon-Socket[addr=/127.0.0.1,port=36812,localport=36989]] Initialized, waiting for messages.
+pid:7371 2026-10-21T08:37:14.401110508 [t83] [MillDaemon-Socket[addr=/127.0.0.1,port=36812,localport=36989]] Transport wire broken.
+pid:7371 2026-10-21T08:37:14.401495118 [t83] handleConnection: RPC server finished normally, exitCode=1
+pid:7371 2026-10-21T08:37:14.402164533 [t82] done=true, idle=true, lastClientAlive=true
+pid:7371 2026-10-21T08:37:14.402734532 [t82] 0 active connections
+pid:7371 2026-10-21T08:37:20.171545571 [t1] handling run for Socket[addr=/127.0.0.1,port=49758,localport=36989]
+pid:7371 2026-10-21T08:37:20.172061097 [t100] prepareConnection Socket[addr=/127.0.0.1,port=49758,localport=36989]
+pid:7371 2026-10-21T08:37:20.172335388 [t100] 1 active connections
+pid:7371 2026-10-21T08:37:20.17266006 [t101] handleConnection: starting RPC server
+pid:7371 2026-10-21T08:37:20.17327309 [t101] handleConnection: running RPC server
+pid:7371 2026-10-21T08:37:20.173412054 [t101] [MillDaemon-Socket[addr=/127.0.0.1,port=49758,localport=36989]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:7371 2026-10-21T08:37:20.174775847 [t101] [MillDaemon-Socket[addr=/127.0.0.1,port=49758,localport=36989]] Initialized, waiting for messages.
+pid:7371 2026-10-21T08:37:25.023197437 [t101] [MillDaemon-Socket[addr=/127.0.0.1,port=49758,localport=36989]] Transport wire broken.
+pid:7371 2026-10-21T08:37:25.023956826 [t101] handleConnection: RPC server finished normally, exitCode=1
+pid:7371 2026-10-21T08:37:25.024515623 [t100] done=true, idle=true, lastClientAlive=false
+pid:7371 2026-10-21T08:37:25.025409688 [t100] 0 active connections
+pid:7371 2026-10-21T08:40:35.792885526 [t1] handling run for Socket[addr=/127.0.0.1,port=52930,localport=36989]
+pid:7371 2026-10-21T08:40:35.793366312 [t157] prepareConnection Socket[addr=/127.0.0.1,port=52930,localport=36989]
+pid:7371 2026-10-21T08:40:35.793622807 [t157] 1 active connections
+pid:7371 2026-10-21T08:40:35.793918139 [t158] handleConnection: starting RPC server
+pid:7371 2026-10-21T08:40:35.79405821 [t158] handleConnection: running RPC server
+pid:7371 2026-10-21T08:40:35.794136279 [t158] [MillDaemon-Socket[addr=/127.0.0.1,port=52930,localport=36989]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:7371 2026-10-21T08:40:35.794601953 [t158] [MillDaemon-Socket[addr=/127.0.0.1,port=52930,localport=36989]] Initialized, waiting for messages.
+pid:7371 2026-10-21T08:40:36.703101585 [t158] [MillDaemon-Socket[addr=/127.0.0.1,port=52930,localport=36989]] Transport wire broken.
+pid:7371 2026-10-21T08:40:36.703613066 [t158] handleConnection: RPC server finished normally, exitCode=1
+pid:7371 2026-10-21T08:40:36.704705115 [t157] done=true, idle=true, lastClientAlive=true
+pid:7371 2026-10-21T08:40:36.705943616 [t157] 0 active connections
+pid:7371 2026-10-21T08:41:10.317561288 [t1] handling run for Socket[addr=/127.0.0.1,port=58728,localport=36989]
+pid:7371 2026-10-21T08:41:10.317972737 [t183] prepareConnection Socket[addr=/127.0.0.1,port=58728,localport=36989]
+pid:7371 2026-10-21T08:41:10.318184124 [t183] 1 active connections
+pid:7371 2026-10-21T08:41:10.318435731 [t184] handleConnection: starting RPC server
+pid:7371 2026-10-21T08:41:10.318574293 [t184] handleConnection: running RPC server
+pid:7371 2026-10-21T08:41:10.318639153 [t184] [MillDaemon-Socket[addr=/127.0.0.1,port=58728,localport=36989]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:7371 2026-10-21T08:41:10.318977116 [t184] [MillDaemon-Socket[addr=/127.0.0.1,port=58728,localport=36989]] Initialized, waiting for messages.
+pid:7371 2026-10-21T08:41:11.637020946 [t184] [MillDaemon-Socket[addr=/127.0.0.1,port=58728,localport=36989]] Transport wire broken.
+pid:7371 2026-10-21T08:41:11.637600585 [t184] handleConnection: RPC server finished normally, exitCode=0
+pid:7371 2026-10-21T08:41:11.638551625 [t183] done=true, idle=true, lastClientAlive=true
+pid:7371 2026-10-21T08:41:11.639459097 [t183] 0 active connections
+pid:7371 2026-10-21T08:42:20.205684213 [t1] handling run for Socket[addr=/127.0.0.1,port=37022,localport=36989]
+pid:7371 2026-10-21T08:42:20.206292018 [t224] prepareConnection Socket[addr=/127.0.0.1,port=37022,localport=36989]
+pid:7371 2026-10-21T08:42:20.206483411 [t224] 1 active connections
+pid:7371 2026-10-21T08:42:20.20669756 [t225] handleConnection: starting RPC server
+pid:7371 2026-10-21T08:42:20.206838745 [t225] handleConnection: running RPC server
+pid:7371 2026-10-21T08:42:20.206912217 [t225] [MillDaemon-Socket[addr=/127.0.0.1,port=37022,localport=36989]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:7371 2026-10-21T08:42:20.207225528 [t225] [MillDaemon-Socket[addr=/127.0.0.1,port=37022,localport=36989]] Initialized, waiting for messages.
+pid:7371 2026-10-21T08:42:21.179135603 [t225] [MillDaemon-Socket[addr=/127.0.0.1,port=37022,localport=36989]] Transport wire broken.
+pid:7371 2026-10-21T08:42:21.179975542 [t225] handleConnection: RPC server finished normally, exitCode=0
+pid:7371 2026-10-21T08:42:21.181044621 [t224] done=true, idle=true, lastClientAlive=true
+pid:7371 2026-10-21T08:42:21.182105835 [t224] 0 active connections
+pid:7371 2026-10-21T08:43:25.281539576 [t1] handling run for Socket[addr=/127.0.0.1,port=37036,localport=36989]
+pid:7371 2026-10-21T08:43:25.281941441 [t266] prepareConnection Socket[addr=/127.0.0.1,port=37036,localport=36989]
+pid:7371 2026-10-21T08:43:25.282166543 [t266] 1 active connections
+pid:7371 2026-10-21T08:43:25.282369291 [t267] handleConnection: starting RPC server
+pid:7371 2026-10-21T08:43:25.282520033 [t267] handleConnection: running RPC server
+pid:7371 2026-10-21T08:43:25.282589533 [t267] [MillDaemon-Socket[addr=/127.0.0.1,port=37036,localport=36989]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:7371 2026-10-21T08:43:25.282908066 [t267] [MillDaemon-Socket[addr=/127.0.0.1,port=37036,localport=36989]] Initialized, waiting for messages.
+pid:7371 2026-10-21T08:43:25.689254595 [t267] [MillDaemon-Socket[addr=/127.0.0.1,port=37036,localport=36989]] Transport wire broken.
+pid:7371 2026-10-21T08:43:25.689991063 [t267] handleConnection: RPC server finished normally, exitCode=0
+pid:7371 2026-10-21T08:43:25.690606724 [t266] done=true, idle=true, lastClientAlive=true
+pid:7371 2026-10-21T08:43:25.691303725 [t266] 0 active connections
+pid:7371 2026-10-21T10:43:19.334391572 [t27] shutting down due inactivity
+pid:7371 2026-10-21T10:43:19.338232907 [t1] removing /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/socketPort
+pid:7371 2026-10-21T10:43:19.338885687 [t1] removed /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/socketPort
+pid:7371 2026-10-21T10:43:19.339111066 [t1] releasing daemonLock
+pid:7371 2026-10-21T10:43:19.34370115 [t1] daemonLock released
+pid:7371 2026-10-21T10:43:19.345944407 [t1] exiting server
+pid:14255 2026-10-21T11:41:43.592870024 [t1] running server in /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+pid:14255 2026-10-21T11:41:43.610644955 [t1] acceptTimeout=Some(30 minutes)
+pid:14255 2026-10-21T11:41:43.621509385 [t1] server file locked
+pid:14255 2026-10-21T11:41:43.628134556 [t1] listening on port 35559
+pid:14255 2026-10-21T11:41:43.630812075 [t1] handling run for Socket[addr=/127.0.0.1,port=33054,localport=35559]
+pid:14255 2026-10-21T11:41:43.633899358 [t28] prepareConnection Socket[addr=/127.0.0.1,port=33054,localport=35559]
+pid:14255 2026-10-21T11:41:43.635622731 [t28] 1 active connections
+pid:14255 2026-10-21T11:41:43.640280196 [t29] handleConnection: starting RPC server
+pid:14255 2026-10-21T11:41:43.670221536 [t29] handleConnection: running RPC server
+pid:14255 2026-10-21T11:41:43.670607848 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=33054,localport=35559]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:14255 2026-10-21T11:41:43.728251451 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=33054,localport=35559]] Initialized, waiting for messages.
+pid:14255 2026-10-21T11:41:54.948006379 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=33054,localport=35559]] Transport wire broken.
+pid:14255 2026-10-21T11:41:54.948678504 [t29] handleConnection: RPC server finished normally, exitCode=0
+pid:14255 2026-10-21T11:41:54.94973981 [t28] done=true, idle=true, lastClientAlive=true
+pid:14255 2026-10-21T11:41:54.95265106 [t28] 0 active connections
+pid:14255 2026-10-21T12:11:54.95531557 [t27] shutting down due inactivity
+pid:14255 2026-10-21T12:11:55.016842736 [t1] removing /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/socketPort
+pid:14255 2026-10-21T12:11:55.01718047 [t1] removed /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/socketPort
+pid:14255 2026-10-21T12:11:55.017262598 [t1] releasing daemonLock
+pid:14255 2026-10-21T12:11:55.018194735 [t1] daemonLock released
+pid:14255 2026-10-21T12:11:55.018411872 [t1] exiting server
+pid:5374 2026-10-27T08:08:36.181693221 [t1] running server in /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+pid:5374 2026-10-27T08:08:36.199404626 [t1] acceptTimeout=Some(30 minutes)
+pid:5374 2026-10-27T08:08:36.209810063 [t1] server file locked
+pid:5374 2026-10-27T08:08:36.218676611 [t1] listening on port 38911
+pid:5374 2026-10-27T08:08:36.221532923 [t1] handling run for Socket[addr=/127.0.0.1,port=57262,localport=38911]
+pid:5374 2026-10-27T08:08:36.224893537 [t28] prepareConnection Socket[addr=/127.0.0.1,port=57262,localport=38911]
+pid:5374 2026-10-27T08:08:36.227140013 [t28] 1 active connections
+pid:5374 2026-10-27T08:08:36.232381888 [t29] handleConnection: starting RPC server
+pid:5374 2026-10-27T08:08:36.267115562 [t29] handleConnection: running RPC server
+pid:5374 2026-10-27T08:08:36.267538963 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=57262,localport=38911]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:5374 2026-10-27T08:08:36.332204842 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=57262,localport=38911]] Initialized, waiting for messages.
+pid:5374 2026-10-27T08:08:45.313446237 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=57262,localport=38911]] Transport wire broken.
+pid:5374 2026-10-27T08:08:45.314089482 [t29] handleConnection: RPC server finished normally, exitCode=1
+pid:5374 2026-10-27T08:08:45.315008699 [t28] done=true, idle=true, lastClientAlive=true
+pid:5374 2026-10-27T08:08:45.316832869 [t28] 0 active connections
+pid:5374 2026-10-27T08:09:14.95276603 [t1] handling run for Socket[addr=/127.0.0.1,port=48972,localport=38911]
+pid:5374 2026-10-27T08:09:14.953474731 [t62] prepareConnection Socket[addr=/127.0.0.1,port=48972,localport=38911]
+pid:5374 2026-10-27T08:09:14.953825201 [t62] 1 active connections
+pid:5374 2026-10-27T08:09:14.954100076 [t63] handleConnection: starting RPC server
+pid:5374 2026-10-27T08:09:14.95436127 [t63] handleConnection: running RPC server
+pid:5374 2026-10-27T08:09:14.95452185 [t63] [MillDaemon-Socket[addr=/127.0.0.1,port=48972,localport=38911]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:5374 2026-10-27T08:09:14.955902329 [t63] [MillDaemon-Socket[addr=/127.0.0.1,port=48972,localport=38911]] Initialized, waiting for messages.
+pid:5374 2026-10-27T08:09:19.975337773 [t63] [MillDaemon-Socket[addr=/127.0.0.1,port=48972,localport=38911]] Transport wire broken.
+pid:5374 2026-10-27T08:09:19.975672117 [t63] handleConnection: RPC server finished normally, exitCode=0
+pid:5374 2026-10-27T08:09:19.976879397 [t62] done=true, idle=true, lastClientAlive=true
+pid:5374 2026-10-27T08:09:19.977768386 [t62] 0 active connections
+pid:5374 2026-10-27T08:39:19.979559305 [t27] shutting down due inactivity
+pid:5374 2026-10-27T08:39:19.982201338 [t1] removing /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/socketPort
+pid:5374 2026-10-27T08:39:19.982581879 [t1] removed /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/socketPort
+pid:5374 2026-10-27T08:39:19.982723147 [t1] releasing daemonLock
+pid:5374 2026-10-27T08:39:19.98464141 [t1] daemonLock released
+pid:5374 2026-10-27T08:39:19.984902675 [t1] exiting server
+pid:3136 2026-10-27T13:00:19.099716858 [t1] running server in /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+pid:3136 2026-10-27T13:00:19.119448103 [t1] acceptTimeout=Some(30 minutes)
+pid:3136 2026-10-27T13:00:19.131350831 [t1] server file locked
+pid:3136 2026-10-27T13:00:19.140905965 [t1] listening on port 39367
+pid:3136 2026-10-27T13:00:19.144062662 [t1] handling run for Socket[addr=/127.0.0.1,port=57856,localport=39367]
+pid:3136 2026-10-27T13:00:19.147288922 [t28] prepareConnection Socket[addr=/127.0.0.1,port=57856,localport=39367]
+pid:3136 2026-10-27T13:00:19.149328186 [t28] 1 active connections
+pid:3136 2026-10-27T13:00:19.154566029 [t29] handleConnection: starting RPC server
+pid:3136 2026-10-27T13:00:19.208143741 [t29] handleConnection: running RPC server
+pid:3136 2026-10-27T13:00:19.21238048 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=57856,localport=39367]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:3136 2026-10-27T13:00:19.289785343 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=57856,localport=39367]] Initialized, waiting for messages.
+pid:3136 2026-10-27T13:00:20.677293424 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=57856,localport=39367]] Transport wire broken.
+pid:3136 2026-10-27T13:00:20.677948219 [t29] handleConnection: RPC server finished normally, exitCode=1
+pid:3136 2026-10-27T13:00:20.678686204 [t28] done=true, idle=true, lastClientAlive=true
+pid:3136 2026-10-27T13:00:20.680934734 [t28] 0 active connections
+pid:3136 2026-10-27T13:00:26.200659885 [t1] handling run for Socket[addr=/127.0.0.1,port=45366,localport=39367]
+pid:3136 2026-10-27T13:00:26.201225057 [t48] prepareConnection Socket[addr=/127.0.0.1,port=45366,localport=39367]
+pid:3136 2026-10-27T13:00:26.201579728 [t48] 1 active connections
+pid:3136 2026-10-27T13:00:26.20185554 [t49] handleConnection: starting RPC server
+pid:3136 2026-10-27T13:00:26.202045743 [t49] handleConnection: running RPC server
+pid:3136 2026-10-27T13:00:26.202170426 [t49] [MillDaemon-Socket[addr=/127.0.0.1,port=45366,localport=39367]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:3136 2026-10-27T13:00:26.203149326 [t49] [MillDaemon-Socket[addr=/127.0.0.1,port=45366,localport=39367]] Initialized, waiting for messages.
+pid:3136 2026-10-27T13:00:26.439279174 [t49] [MillDaemon-Socket[addr=/127.0.0.1,port=45366,localport=39367]] Transport wire broken.
+pid:3136 2026-10-27T13:00:26.439645322 [t49] handleConnection: RPC server finished normally, exitCode=1
+pid:3136 2026-10-27T13:00:26.440124395 [t48] done=true, idle=true, lastClientAlive=true
+pid:3136 2026-10-27T13:00:26.4405533 [t48] 0 active connections
+pid:3136 2026-10-27T13:00:41.690953862 [t1] handling run for Socket[addr=/127.0.0.1,port=56872,localport=39367]
+pid:3136 2026-10-27T13:00:41.691521013 [t66] prepareConnection Socket[addr=/127.0.0.1,port=56872,localport=39367]
+pid:3136 2026-10-27T13:00:41.691824599 [t66] 1 active connections
+pid:3136 2026-10-27T13:00:41.692112315 [t67] handleConnection: starting RPC server
+pid:3136 2026-10-27T13:00:41.692291309 [t67] handleConnection: running RPC server
+pid:3136 2026-10-27T13:00:41.692431437 [t67] [MillDaemon-Socket[addr=/127.0.0.1,port=56872,localport=39367]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:3136 2026-10-27T13:00:41.693500399 [t67] [MillDaemon-Socket[addr=/127.0.0.1,port=56872,localport=39367]] Initialized, waiting for messages.
+pid:3136 2026-10-27T13:00:41.882460693 [t67] [MillDaemon-Socket[addr=/127.0.0.1,port=56872,localport=39367]] Transport wire broken.
+pid:3136 2026-10-27T13:00:41.883020555 [t67] handleConnection: RPC server finished normally, exitCode=1
+pid:3136 2026-10-27T13:00:41.883661387 [t66] done=true, idle=true, lastClientAlive=true
+pid:3136 2026-10-27T13:00:41.88521685 [t66] 0 active connections
+pid:3136 2026-10-27T13:01:26.323522833 [t1] handling run for Socket[addr=/127.0.0.1,port=39116,localport=39367]
+pid:3136 2026-10-27T13:01:26.324046199 [t84] prepareConnection Socket[addr=/127.0.0.1,port=39116,localport=39367]
+pid:3136 2026-10-27T13:01:26.32438101 [t84] 1 active connections
+pid:3136 2026-10-27T13:01:26.324659552 [t85] handleConnection: starting RPC server
+pid:3136 2026-10-27T13:01:26.324857658 [t85] handleConnection: running RPC server
+pid:3136 2026-10-27T13:01:26.324986269 [t85] [MillDaemon-Socket[addr=/127.0.0.1,port=39116,localport=39367]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:3136 2026-10-27T13:01:26.325732779 [t85] [MillDaemon-Socket[addr=/127.0.0.1,port=39116,localport=39367]] Initialized, waiting for messages.
+pid:3136 2026-10-27T13:01:26.609227289 [t85] [MillDaemon-Socket[addr=/127.0.0.1,port=39116,localport=39367]] Transport wire broken.
+pid:3136 2026-10-27T13:01:26.609634034 [t85] handleConnection: RPC server finished normally, exitCode=0
+pid:3136 2026-10-27T13:01:26.610614857 [t84] done=true, idle=true, lastClientAlive=true
+pid:3136 2026-10-27T13:01:26.611374274 [t84] 0 active connections
+pid:3136 2026-10-27T13:01:31.407120586 [t1] handling run for Socket[addr=/127.0.0.1,port=39124,localport=39367]
+pid:3136 2026-10-27T13:01:31.407650731 [t102] prepareConnection Socket[addr=/127.0.0.1,port=39124,localport=39367]
+pid:3136 2026-10-27T13:01:31.40801538 [t102] 1 active connections
+pid:3136 2026-10-27T13:01:31.408294353 [t103] handleConnection: starting RPC server
+pid:3136 2026-10-27T13:01:31.408481528 [t103] handleConnection: running RPC server
+pid:3136 2026-10-27T13:01:31.408572684 [t103] [MillDaemon-Socket[addr=/127.0.0.1,port=39124,localport=39367]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:3136 2026-10-27T13:01:31.40925338 [t103] [MillDaemon-Socket[addr=/127.0.0.1,port=39124,localport=39367]] Initialized, waiting for messages.
+pid:3136 2026-10-27T13:01:35.398256006 [t103] [MillDaemon-Socket[addr=/127.0.0.1,port=39124,localport=39367]] Transport wire broken.
+pid:3136 2026-10-27T13:01:35.398556659 [t103] handleConnection: RPC server finished normally, exitCode=1
+pid:3136 2026-10-27T13:01:35.399267428 [t102] done=true, idle=true, lastClientAlive=true
+pid:3136 2026-10-27T13:01:35.399912256 [t102] 0 active connections
+pid:3136 2026-10-27T13:03:01.596770795 [t1] handling run for Socket[addr=/127.0.0.1,port=54758,localport=39367]
+pid:3136 2026-10-27T13:03:01.597294748 [t154] prepareConnection Socket[addr=/127.0.0.1,port=54758,localport=39367]
+pid:3136 2026-10-27T13:03:01.597525325 [t154] 1 active connections
+pid:3136 2026-10-27T13:03:01.597755108 [t155] handleConnection: starting RPC server
+pid:3136 2026-10-27T13:03:01.597892152 [t155] handleConnection: running RPC server
+pid:3136 2026-10-27T13:03:01.598007001 [t155] [MillDaemon-Socket[addr=/127.0.0.1,port=54758,localport=39367]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:3136 2026-10-27T13:03:01.5986115 [t155] [MillDaemon-Socket[addr=/127.0.0.1,port=54758,localport=39367]] Initialized, waiting for messages.
+pid:3136 2026-10-27T13:03:01.746372205 [t155] [MillDaemon-Socket[addr=/127.0.0.1,port=54758,localport=39367]] Transport wire broken.
+pid:3136 2026-10-27T13:03:01.746685116 [t155] handleConnection: RPC server finished normally, exitCode=1
+pid:3136 2026-10-27T13:03:01.747478916 [t154] done=true, idle=true, lastClientAlive=true
+pid:3136 2026-10-27T13:03:01.747955298 [t154] 0 active connections
+pid:3136 2026-10-27T13:03:06.405155432 [t1] handling run for Socket[addr=/127.0.0.1,port=42004,localport=39367]
+pid:3136 2026-10-27T13:03:06.405581836 [t172] prepareConnection Socket[addr=/127.0.0.1,port=42004,localport=39367]
+pid:3136 2026-10-27T13:03:06.405811649 [t172] 1 active connections
+pid:3136 2026-10-27T13:03:06.406064387 [t173] handleConnection: starting RPC server
+pid:3136 2026-10-27T13:03:06.406213823 [t173] handleConnection: running RPC server
+pid:3136 2026-10-27T13:03:06.406297087 [t173] [MillDaemon-Socket[addr=/127.0.0.1,port=42004,localport=39367]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:3136 2026-10-27T13:03:06.406656141 [t173] [MillDaemon-Socket[addr=/127.0.0.1,port=42004,localport=39367]] Initialized, waiting for messages.
+pid:3136 2026-10-27T13:03:06.527367263 [t173] [MillDaemon-Socket[addr=/127.0.0.1,port=42004,localport=39367]] Transport wire broken.
+pid:3136 2026-10-27T13:03:06.527657626 [t173] handleConnection: RPC server finished normally, exitCode=1
+pid:3136 2026-10-27T13:03:06.528589387 [t172] done=true, idle=true, lastClientAlive=true
+pid:3136 2026-10-27T13:03:06.529651855 [t172] 0 active connections
+pid:3136 2026-10-27T13:03:17.854388534 [t1] handling run for Socket[addr=/127.0.0.1,port=57384,localport=39367]
+pid:3136 2026-10-27T13:03:17.85489288 [t190] prepareConnection Socket[addr=/127.0.0.1,port=57384,localport=39367]
+pid:3136 2026-10-27T13:03:17.855134133 [t190] 1 active connections
+pid:3136 2026-10-27T13:03:17.855733944 [t191] handleConnection: starting RPC server
+pid:3136 2026-10-27T13:03:17.85598229 [t191] handleConnection: running RPC server
+pid:3136 2026-10-27T13:03:17.856106459 [t191] [MillDaemon-Socket[addr=/127.0.0.1,port=57384,localport=39367]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:3136 2026-10-27T13:03:17.856487897 [t191] [MillDaemon-Socket[addr=/127.0.0.1,port=57384,localport=39367]] Initialized, waiting for messages.
+pid:3136 2026-10-27T13:03:17.97883656 [t191] [MillDaemon-Socket[addr=/127.0.0.1,port=57384,localport=39367]] Transport wire broken.
+pid:3136 2026-10-27T13:03:17.979337004 [t191] handleConnection: RPC server finished normally, exitCode=1
+pid:3136 2026-10-27T13:03:17.980276918 [t190] done=true, idle=true, lastClientAlive=true
+pid:3136 2026-10-27T13:03:17.980862043 [t190] 0 active connections
+pid:3136 2026-10-27T13:03:51.399307897 [t1] handling run for Socket[addr=/127.0.0.1,port=53704,localport=39367]
+pid:3136 2026-10-27T13:03:51.399775369 [t208] prepareConnection Socket[addr=/127.0.0.1,port=53704,localport=39367]
+pid:3136 2026-10-27T13:03:51.399997167 [t208] 1 active connections
+pid:3136 2026-10-27T13:03:51.400257349 [t209] handleConnection: starting RPC server
+pid:3136 2026-10-27T13:03:51.400389812 [t209] handleConnection: running RPC server
+pid:3136 2026-10-27T13:03:51.400455908 [t209] [MillDaemon-Socket[addr=/127.0.0.1,port=53704,localport=39367]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:3136 2026-10-27T13:03:51.400823428 [t209] [MillDaemon-Socket[addr=/127.0.0.1,port=53704,localport=39367]] Initialized, waiting for messages.
+pid:3136 2026-10-27T13:03:52.461519515 [t209] [MillDaemon-Socket[addr=/127.0.0.1,port=53704,localport=39367]] Transport wire broken.
+pid:3136 2026-10-27T13:03:52.462187002 [t209] handleConnection: RPC server finished normally, exitCode=0
+pid:3136 2026-10-27T13:03:52.462972275 [t208] done=true, idle=true, lastClientAlive=true
+pid:3136 2026-10-27T13:03:52.464225938 [t208] 0 active connections
+pid:3136 2026-10-27T13:04:16.822575368 [t1] handling run for Socket[addr=/127.0.0.1,port=51102,localport=39367]
+pid:3136 2026-10-27T13:04:16.822983698 [t251] prepareConnection Socket[addr=/127.0.0.1,port=51102,localport=39367]
+pid:3136 2026-10-27T13:04:16.823218318 [t251] 1 active connections
+pid:3136 2026-10-27T13:04:16.823454566 [t252] handleConnection: starting RPC server
+pid:3136 2026-10-27T13:04:16.823598547 [t252] handleConnection: running RPC server
+pid:3136 2026-10-27T13:04:16.823672639 [t252] [MillDaemon-Socket[addr=/127.0.0.1,port=51102,localport=39367]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:3136 2026-10-27T13:04:16.824181976 [t252] [MillDaemon-Socket[addr=/127.0.0.1,port=51102,localport=39367]] Initialized, waiting for messages.
+pid:3136 2026-10-27T13:04:17.200337056 [t252] [MillDaemon-Socket[addr=/127.0.0.1,port=51102,localport=39367]] Transport wire broken.
+pid:3136 2026-10-27T13:04:17.200601663 [t252] handleConnection: RPC server finished normally, exitCode=0
+pid:3136 2026-10-27T13:04:17.201563058 [t251] done=true, idle=true, lastClientAlive=true
+pid:3136 2026-10-27T13:04:17.201955539 [t251] 0 active connections
+pid:3136 2026-10-27T13:34:17.203750199 [t27] shutting down due inactivity
+pid:3136 2026-10-27T13:34:17.205589417 [t1] removing /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/socketPort
+pid:3136 2026-10-27T13:34:17.205847575 [t1] removed /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/socketPort
+pid:3136 2026-10-27T13:34:17.205932203 [t1] releasing daemonLock
+pid:3136 2026-10-27T13:34:17.206509998 [t1] daemonLock released
+pid:3136 2026-10-27T13:34:17.206604798 [t1] exiting server
+pid:8710 2026-10-27T13:47:43.560725972 [t1] running server in /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+pid:8710 2026-10-27T13:47:43.577454912 [t1] acceptTimeout=Some(30 minutes)
+pid:8710 2026-10-27T13:47:43.586725646 [t1] server file locked
+pid:8710 2026-10-27T13:47:43.595840352 [t1] listening on port 34021
+pid:8710 2026-10-27T13:47:43.598397163 [t1] handling run for Socket[addr=/127.0.0.1,port=45512,localport=34021]
+pid:8710 2026-10-27T13:47:43.602011274 [t28] prepareConnection Socket[addr=/127.0.0.1,port=45512,localport=34021]
+pid:8710 2026-10-27T13:47:43.60432845 [t28] 1 active connections
+pid:8710 2026-10-27T13:47:43.611130814 [t29] handleConnection: starting RPC server
+pid:8710 2026-10-27T13:47:43.641765988 [t29] handleConnection: running RPC server
+pid:8710 2026-10-27T13:47:43.642160838 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=45512,localport=34021]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:8710 2026-10-27T13:47:43.702089181 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=45512,localport=34021]] Initialized, waiting for messages.
+pid:8710 2026-10-27T13:47:44.98501007 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=45512,localport=34021]] Transport wire broken.
+pid:8710 2026-10-27T13:47:44.985599058 [t29] handleConnection: RPC server finished normally, exitCode=1
+pid:8710 2026-10-27T13:47:44.98679046 [t28] done=true, idle=true, lastClientAlive=true
+pid:8710 2026-10-27T13:47:44.989379709 [t28] 0 active connections
+pid:8710 2026-10-27T13:47:48.903048088 [t1] handling run for Socket[addr=/127.0.0.1,port=45526,localport=34021]
+pid:8710 2026-10-27T13:47:48.904370972 [t48] prepareConnection Socket[addr=/127.0.0.1,port=45526,localport=34021]
+pid:8710 2026-10-27T13:47:48.904879425 [t48] 1 active connections
+pid:8710 2026-10-27T13:47:48.905297461 [t49] handleConnection: starting RPC server
+pid:8710 2026-10-27T13:47:48.906083515 [t49] handleConnection: running RPC server
+pid:8710 2026-10-27T13:47:48.906449859 [t49] [MillDaemon-Socket[addr=/127.0.0.1,port=45526,localport=34021]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:8710 2026-10-27T13:47:48.907937025 [t49] [MillDaemon-Socket[addr=/127.0.0.1,port=45526,localport=34021]] Initialized, waiting for messages.
+pid:8710 2026-10-27T13:47:49.737083133 [t49] [MillDaemon-Socket[addr=/127.0.0.1,port=45526,localport=34021]] Transport wire broken.
+pid:8710 2026-10-27T13:47:49.7377471 [t49] handleConnection: RPC server finished normally, exitCode=0
+pid:8710 2026-10-27T13:47:49.738775849 [t48] done=true, idle=true, lastClientAlive=false
+pid:8710 2026-10-27T13:47:49.740987805 [t48] 0 active connections
+pid:8710 2026-10-27T14:05:44.462108259 [t1] handling run for Socket[addr=/127.0.0.1,port=57998,localport=34021]
+pid:8710 2026-10-27T14:05:44.462746518 [t66] prepareConnection Socket[addr=/127.0.0.1,port=57998,localport=34021]
+pid:8710 2026-10-27T14:05:44.463235564 [t66] 1 active connections
+pid:8710 2026-10-27T14:05:44.463539892 [t67] handleConnection: starting RPC server
+pid:8710 2026-10-27T14:05:44.463754805 [t67] handleConnection: running RPC server
+pid:8710 2026-10-27T14:05:44.46403917 [t67] [MillDaemon-Socket[addr=/127.0.0.1,port=57998,localport=34021]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:8710 2026-10-27T14:05:44.466008994 [t67] [MillDaemon-Socket[addr=/127.0.0.1,port=57998,localport=34021]] Initialized, waiting for messages.
+pid:8710 2026-10-27T14:05:44.891807414 [t67] [MillDaemon-Socket[addr=/127.0.0.1,port=57998,localport=34021]] Transport wire broken.
+pid:8710 2026-10-27T14:05:44.892114989 [t67] handleConnection: RPC server finished normally, exitCode=0
+pid:8710 2026-10-27T14:05:44.892316106 [t66] done=true, idle=true, lastClientAlive=true
+pid:8710 2026-10-27T14:05:44.892638558 [t66] 0 active connections
+pid:8710 2026-10-27T14:08:18.214373152 [t1] handling run for Socket[addr=/127.0.0.1,port=35110,localport=34021]
+pid:8710 2026-10-27T14:08:18.215121797 [t84] prepareConnection Socket[addr=/127.0.0.1,port=35110,localport=34021]
+pid:8710 2026-10-27T14:08:18.215531518 [t84] 1 active connections
+pid:8710 2026-10-27T14:08:18.216091513 [t85] handleConnection: starting RPC server
+pid:8710 2026-10-27T14:08:18.216697673 [t85] handleConnection: running RPC server
+pid:8710 2026-10-27T14:08:18.216979513 [t85] [MillDaemon-Socket[addr=/127.0.0.1,port=35110,localport=34021]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:8710 2026-10-27T14:08:18.218042857 [t85] [MillDaemon-Socket[addr=/127.0.0.1,port=35110,localport=34021]] Initialized, waiting for messages.
+pid:8710 2026-10-27T14:08:18.596085146 [t85] [MillDaemon-Socket[addr=/127.0.0.1,port=35110,localport=34021]] Transport wire broken.
+pid:8710 2026-10-27T14:08:18.597030001 [t85] handleConnection: RPC server finished normally, exitCode=0
+pid:8710 2026-10-27T14:08:18.597441615 [t84] done=true, idle=true, lastClientAlive=true
+pid:8710 2026-10-27T14:08:18.598906115 [t84] 0 active connections
+pid:9828 2026-11-03T08:44:15.97176239 [t1] running server in /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+pid:9828 2026-11-03T08:44:15.990897771 [t1] acceptTimeout=Some(30 minutes)
+pid:9828 2026-11-03T08:44:16.004897519 [t1] server file locked
+pid:9828 2026-11-03T08:44:16.013573056 [t1] listening on port 45691
+pid:9828 2026-11-03T08:44:16.015873855 [t1] handling run for Socket[addr=/127.0.0.1,port=49436,localport=45691]
+pid:9828 2026-11-03T08:44:16.019052695 [t28] prepareConnection Socket[addr=/127.0.0.1,port=49436,localport=45691]
+pid:9828 2026-11-03T08:44:16.021224975 [t28] 1 active connections
+pid:9828 2026-11-03T08:44:16.026290918 [t29] handleConnection: starting RPC server
+pid:9828 2026-11-03T08:44:16.062535003 [t29] handleConnection: running RPC server
+pid:9828 2026-11-03T08:44:16.06292531 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=49436,localport=45691]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:9828 2026-11-03T08:44:16.129216963 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=49436,localport=45691]] Initialized, waiting for messages.
+pid:9828 2026-11-03T08:44:30.714682519 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=49436,localport=45691]] Transport wire broken.
+pid:9828 2026-11-03T08:44:30.715130137 [t29] handleConnection: RPC server finished normally, exitCode=0
+pid:9828 2026-11-03T08:44:30.715449468 [t28] done=true, idle=true, lastClientAlive=true
+pid:9828 2026-11-03T08:44:30.717776791 [t28] 0 active connections
+pid:9828 2026-11-03T08:45:35.043841859 [t1] handling run for Socket[addr=/127.0.0.1,port=47786,localport=45691]
+pid:9828 2026-11-03T08:45:35.046050916 [t93] prepareConnection Socket[addr=/127.0.0.1,port=47786,localport=45691]
+pid:9828 2026-11-03T08:45:35.046569057 [t93] 1 active connections
+pid:9828 2026-11-03T08:45:35.049328086 [t94] handleConnection: starting RPC server
+pid:9828 2026-11-03T08:45:35.049741888 [t94] handleConnection: running RPC server
+pid:9828 2026-11-03T08:45:35.049917537 [t94] [MillDaemon-Socket[addr=/127.0.0.1,port=47786,localport=45691]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:9828 2026-11-03T08:45:35.051793193 [t94] [MillDaemon-Socket[addr=/127.0.0.1,port=47786,localport=45691]] Initialized, waiting for messages.
+pid:9828 2026-11-03T08:45:36.288872261 [t94] [MillDaemon-Socket[addr=/127.0.0.1,port=47786,localport=45691]] Transport wire broken.
+pid:9828 2026-11-03T08:45:36.290020865 [t94] handleConnection: RPC server finished normally, exitCode=0
+pid:9828 2026-11-03T08:45:36.291186225 [t93] done=true, idle=true, lastClientAlive=false
+pid:9828 2026-11-03T08:45:36.291798404 [t93] 0 active connections
+pid:9828 2026-11-03T09:05:58.568830942 [t1] handling run for Socket[addr=/127.0.0.1,port=54924,localport=45691]
+pid:9828 2026-11-03T09:05:58.57043007 [t135] prepareConnection Socket[addr=/127.0.0.1,port=54924,localport=45691]
+pid:9828 2026-11-03T09:05:58.570929132 [t135] 1 active connections
+pid:9828 2026-11-03T09:05:58.571296219 [t136] handleConnection: starting RPC server
+pid:9828 2026-11-03T09:05:58.57155303 [t136] handleConnection: running RPC server
+pid:9828 2026-11-03T09:05:58.571679157 [t136] [MillDaemon-Socket[addr=/127.0.0.1,port=54924,localport=45691]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:9828 2026-11-03T09:05:58.572286089 [t136] [MillDaemon-Socket[addr=/127.0.0.1,port=54924,localport=45691]] Initialized, waiting for messages.
+pid:9828 2026-11-03T09:06:04.595800558 [t136] [MillDaemon-Socket[addr=/127.0.0.1,port=54924,localport=45691]] Transport wire broken.
+pid:9828 2026-11-03T09:06:04.596909288 [t136] handleConnection: RPC server finished normally, exitCode=1
+pid:9828 2026-11-03T09:06:04.597617765 [t135] done=true, idle=true, lastClientAlive=true
+pid:9828 2026-11-03T09:06:04.598473542 [t135] 0 active connections
+pid:9828 2026-11-03T09:06:15.810313279 [t1] handling run for Socket[addr=/127.0.0.1,port=38184,localport=45691]
+pid:9828 2026-11-03T09:06:15.810907999 [t175] prepareConnection Socket[addr=/127.0.0.1,port=38184,localport=45691]
+pid:9828 2026-11-03T09:06:15.811606048 [t175] 1 active connections
+pid:9828 2026-11-03T09:06:15.812052723 [t176] handleConnection: starting RPC server
+pid:9828 2026-11-03T09:06:15.812338579 [t176] handleConnection: running RPC server
+pid:9828 2026-11-03T09:06:15.812429065 [t176] [MillDaemon-Socket[addr=/127.0.0.1,port=38184,localport=45691]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:9828 2026-11-03T09:06:15.813107112 [t176] [MillDaemon-Socket[addr=/127.0.0.1,port=38184,localport=45691]] Initialized, waiting for messages.
+pid:9828 2026-11-03T09:06:17.673418081 [t176] [MillDaemon-Socket[addr=/127.0.0.1,port=38184,localport=45691]] Transport wire broken.
+pid:9828 2026-11-03T09:06:17.673733514 [t176] handleConnection: RPC server finished normally, exitCode=0
+pid:9828 2026-11-03T09:06:17.674138156 [t175] done=true, idle=true, lastClientAlive=true
+pid:9828 2026-11-03T09:06:17.674476262 [t175] 0 active connections
+pid:9828 2026-11-03T09:08:11.869696233 [t1] handling run for Socket[addr=/127.0.0.1,port=45414,localport=45691]
+pid:9828 2026-11-03T09:08:11.870239516 [t216] prepareConnection Socket[addr=/127.0.0.1,port=45414,localport=45691]
+pid:9828 2026-11-03T09:08:11.87051473 [t216] 1 active connections
+pid:9828 2026-11-03T09:08:11.870740784 [t217] handleConnection: starting RPC server
+pid:9828 2026-11-03T09:08:11.870910451 [t217] handleConnection: running RPC server
+pid:9828 2026-11-03T09:08:11.87098228 [t217] [MillDaemon-Socket[addr=/127.0.0.1,port=45414,localport=45691]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:9828 2026-11-03T09:08:11.871449169 [t217] [MillDaemon-Socket[addr=/127.0.0.1,port=45414,localport=45691]] Initialized, waiting for messages.
+pid:9828 2026-11-03T09:08:12.988600875 [t217] [MillDaemon-Socket[addr=/127.0.0.1,port=45414,localport=45691]] Transport wire broken.
+pid:9828 2026-11-03T09:08:12.989063206 [t217] handleConnection: RPC server finished normally, exitCode=0
+pid:9828 2026-11-03T09:08:12.989882417 [t216] done=true, idle=true, lastClientAlive=true
+pid:9828 2026-11-03T09:08:12.990777051 [t216] 0 active connections
+pid:9828 2026-11-03T09:08:53.401956235 [t1] handling run for Socket[addr=/127.0.0.1,port=51958,localport=45691]
+pid:9828 2026-11-03T09:08:53.402594233 [t258] prepareConnection Socket[addr=/127.0.0.1,port=51958,localport=45691]
+pid:9828 2026-11-03T09:08:53.402899927 [t258] 1 active connections
+pid:9828 2026-11-03T09:08:53.403137575 [t259] handleConnection: starting RPC server
+pid:9828 2026-11-03T09:08:53.403317973 [t259] handleConnection: running RPC server
+pid:9828 2026-11-03T09:08:53.403447333 [t259] [MillDaemon-Socket[addr=/127.0.0.1,port=51958,localport=45691]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:9828 2026-11-03T09:08:53.403825906 [t259] [MillDaemon-Socket[addr=/127.0.0.1,port=51958,localport=45691]] Initialized, waiting for messages.
+pid:9828 2026-11-03T09:08:54.31503161 [t259] [MillDaemon-Socket[addr=/127.0.0.1,port=51958,localport=45691]] Transport wire broken.
+pid:9828 2026-11-03T09:08:54.315505575 [t259] handleConnection: RPC server finished normally, exitCode=0
+pid:9828 2026-11-03T09:08:54.316622927 [t258] done=true, idle=true, lastClientAlive=true
+pid:9828 2026-11-03T09:08:54.317623229 [t258] 0 active connections
+pid:9828 2026-11-03T09:18:51.878337776 [t1] handling run for Socket[addr=/127.0.0.1,port=57980,localport=45691]
+pid:9828 2026-11-03T09:18:51.878849797 [t299] prepareConnection Socket[addr=/127.0.0.1,port=57980,localport=45691]
+pid:9828 2026-11-03T09:18:51.879073236 [t299] 1 active connections
+pid:9828 2026-11-03T09:18:51.879308513 [t300] handleConnection: starting RPC server
+pid:9828 2026-11-03T09:18:51.879437906 [t300] handleConnection: running RPC server
+pid:9828 2026-11-03T09:18:51.879501708 [t300] [MillDaemon-Socket[addr=/127.0.0.1,port=57980,localport=45691]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:9828 2026-11-03T09:18:51.879796777 [t300] [MillDaemon-Socket[addr=/127.0.0.1,port=57980,localport=45691]] Initialized, waiting for messages.
+pid:9828 2026-11-03T09:18:52.766957811 [t300] [MillDaemon-Socket[addr=/127.0.0.1,port=57980,localport=45691]] Transport wire broken.
+pid:9828 2026-11-03T09:18:52.76783765 [t300] handleConnection: RPC server finished normally, exitCode=0
+pid:9828 2026-11-03T09:18:52.768131535 [t299] done=true, idle=true, lastClientAlive=false
+pid:9828 2026-11-03T09:18:52.769100726 [t299] 0 active connections
+pid:5109 2026-11-03T13:59:18.522920252 [t1] running server in /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+pid:5109 2026-11-03T13:59:18.54240709 [t1] acceptTimeout=Some(30 minutes)
+pid:5109 2026-11-03T13:59:18.556992447 [t1] server file locked
+pid:5109 2026-11-03T13:59:18.567722438 [t1] listening on port 43931
+pid:5109 2026-11-03T13:59:18.569667395 [t1] handling run for Socket[addr=/127.0.0.1,port=48586,localport=43931]
+pid:5109 2026-11-03T13:59:18.573218702 [t28] prepareConnection Socket[addr=/127.0.0.1,port=48586,localport=43931]
+pid:5109 2026-11-03T13:59:18.57539674 [t28] 1 active connections
+pid:5109 2026-11-03T13:59:18.581082499 [t29] handleConnection: starting RPC server
+pid:5109 2026-11-03T13:59:18.618595312 [t29] handleConnection: running RPC server
+pid:5109 2026-11-03T13:59:18.618976083 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=48586,localport=43931]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:5109 2026-11-03T13:59:18.699383522 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=48586,localport=43931]] Initialized, waiting for messages.
+pid:5109 2026-11-03T13:59:20.61439335 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=48586,localport=43931]] Transport wire broken.
+pid:5109 2026-11-03T13:59:20.616174124 [t29] handleConnection: RPC server finished normally, exitCode=1
+pid:5109 2026-11-03T13:59:20.617473008 [t28] done=true, idle=true, lastClientAlive=false
+pid:5109 2026-11-03T13:59:20.618996184 [t28] 0 active connections
+pid:5109 2026-11-03T14:00:00.131762679 [t1] handling run for Socket[addr=/127.0.0.1,port=46840,localport=43931]
+pid:5109 2026-11-03T14:00:00.132660221 [t48] prepareConnection Socket[addr=/127.0.0.1,port=46840,localport=43931]
+pid:5109 2026-11-03T14:00:00.133055364 [t48] 1 active connections
+pid:5109 2026-11-03T14:00:00.133368791 [t49] handleConnection: starting RPC server
+pid:5109 2026-11-03T14:00:00.133623448 [t49] handleConnection: running RPC server
+pid:5109 2026-11-03T14:00:00.133769238 [t49] [MillDaemon-Socket[addr=/127.0.0.1,port=46840,localport=43931]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:5109 2026-11-03T14:00:00.135239725 [t49] [MillDaemon-Socket[addr=/127.0.0.1,port=46840,localport=43931]] Initialized, waiting for messages.
+pid:5109 2026-11-03T14:00:04.024755516 [t49] [MillDaemon-Socket[addr=/127.0.0.1,port=46840,localport=43931]] Transport wire broken.
+pid:5109 2026-11-03T14:00:04.025628702 [t49] handleConnection: RPC server finished normally, exitCode=0
+pid:5109 2026-11-03T14:00:04.02648513 [t48] done=true, idle=true, lastClientAlive=true
+pid:5109 2026-11-03T14:00:04.02706801 [t48] 0 active connections
+pid:5109 2026-11-03T14:00:47.995569133 [t1] handling run for Socket[addr=/127.0.0.1,port=52124,localport=43931]
+pid:5109 2026-11-03T14:00:47.996084552 [t93] prepareConnection Socket[addr=/127.0.0.1,port=52124,localport=43931]
+pid:5109 2026-11-03T14:00:47.996469147 [t93] 1 active connections
+pid:5109 2026-11-03T14:00:47.996761979 [t94] handleConnection: starting RPC server
+pid:5109 2026-11-03T14:00:47.996929825 [t94] handleConnection: running RPC server
+pid:5109 2026-11-03T14:00:47.997035076 [t94] [MillDaemon-Socket[addr=/127.0.0.1,port=52124,localport=43931]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:5109 2026-11-03T14:00:47.99768043 [t94] [MillDaemon-Socket[addr=/127.0.0.1,port=52124,localport=43931]] Initialized, waiting for messages.
+pid:5109 2026-11-03T14:00:48.452529903 [t94] [MillDaemon-Socket[addr=/127.0.0.1,port=52124,localport=43931]] Transport wire broken.
+pid:5109 2026-11-03T14:00:48.453227094 [t94] handleConnection: RPC server finished normally, exitCode=0
+pid:5109 2026-11-03T14:00:48.454098102 [t93] done=true, idle=true, lastClientAlive=true
+pid:5109 2026-11-03T14:00:48.455080714 [t93] 0 active connections
+pid:5109 2026-11-03T14:00:52.17691997 [t1] handling run for Socket[addr=/127.0.0.1,port=52132,localport=43931]
+pid:5109 2026-11-03T14:00:52.177456831 [t111] prepareConnection Socket[addr=/127.0.0.1,port=52132,localport=43931]
+pid:5109 2026-11-03T14:00:52.177760874 [t111] 1 active connections
+pid:5109 2026-11-03T14:00:52.178009032 [t112] handleConnection: starting RPC server
+pid:5109 2026-11-03T14:00:52.178193747 [t112] handleConnection: running RPC server
+pid:5109 2026-11-03T14:00:52.17828775 [t112] [MillDaemon-Socket[addr=/127.0.0.1,port=52132,localport=43931]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:5109 2026-11-03T14:00:52.178882066 [t112] [MillDaemon-Socket[addr=/127.0.0.1,port=52132,localport=43931]] Initialized, waiting for messages.
+pid:5109 2026-11-03T14:00:52.534419107 [t112] [MillDaemon-Socket[addr=/127.0.0.1,port=52132,localport=43931]] Transport wire broken.
+pid:5109 2026-11-03T14:00:52.534976906 [t112] handleConnection: RPC server finished normally, exitCode=0
+pid:5109 2026-11-03T14:00:52.536119404 [t111] done=true, idle=true, lastClientAlive=true
+pid:5109 2026-11-03T14:00:52.537239429 [t111] 0 active connections
+pid:5109 2026-11-03T14:04:37.878876287 [t1] handling run for Socket[addr=/127.0.0.1,port=33100,localport=43931]
+pid:5109 2026-11-03T14:04:37.879773951 [t129] prepareConnection Socket[addr=/127.0.0.1,port=33100,localport=43931]
+pid:5109 2026-11-03T14:04:37.880169172 [t129] 1 active connections
+pid:5109 2026-11-03T14:04:37.880448937 [t130] handleConnection: starting RPC server
+pid:5109 2026-11-03T14:04:37.880657859 [t130] handleConnection: running RPC server
+pid:5109 2026-11-03T14:04:37.880762109 [t130] [MillDaemon-Socket[addr=/127.0.0.1,port=33100,localport=43931]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:5109 2026-11-03T14:04:37.881522915 [t130] [MillDaemon-Socket[addr=/127.0.0.1,port=33100,localport=43931]] Initialized, waiting for messages.
+pid:5109 2026-11-03T14:04:38.329408492 [t130] [MillDaemon-Socket[addr=/127.0.0.1,port=33100,localport=43931]] Transport wire broken.
+pid:5109 2026-11-03T14:04:38.329716037 [t130] handleConnection: RPC server finished normally, exitCode=0
+pid:5109 2026-11-03T14:04:38.33079559 [t129] done=true, idle=true, lastClientAlive=true
+pid:5109 2026-11-03T14:04:38.331416508 [t129] 0 active connections
+pid:5109 2026-11-03T14:08:33.000603421 [t1] handling run for Socket[addr=/127.0.0.1,port=49686,localport=43931]
+pid:5109 2026-11-03T14:08:33.001084878 [t147] prepareConnection Socket[addr=/127.0.0.1,port=49686,localport=43931]
+pid:5109 2026-11-03T14:08:33.001377807 [t147] 1 active connections
+pid:5109 2026-11-03T14:08:33.001651151 [t148] handleConnection: starting RPC server
+pid:5109 2026-11-03T14:08:33.001793209 [t148] handleConnection: running RPC server
+pid:5109 2026-11-03T14:08:33.001887748 [t148] [MillDaemon-Socket[addr=/127.0.0.1,port=49686,localport=43931]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:5109 2026-11-03T14:08:33.002287531 [t148] [MillDaemon-Socket[addr=/127.0.0.1,port=49686,localport=43931]] Initialized, waiting for messages.
+pid:5109 2026-11-03T14:08:33.368272293 [t148] [MillDaemon-Socket[addr=/127.0.0.1,port=49686,localport=43931]] Transport wire broken.
+pid:5109 2026-11-03T14:08:33.368510383 [t148] handleConnection: RPC server finished normally, exitCode=0
+pid:5109 2026-11-03T14:08:33.369400819 [t147] done=true, idle=true, lastClientAlive=true
+pid:5109 2026-11-03T14:08:33.369972956 [t147] 0 active connections
+pid:5575 2026-11-10T12:18:01.091720575 [t1] running server in /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+pid:5575 2026-11-10T12:18:01.111353906 [t1] acceptTimeout=Some(30 minutes)
+pid:5575 2026-11-10T12:18:01.127853506 [t1] server file locked
+pid:5575 2026-11-10T12:18:01.136826204 [t1] listening on port 39713
+pid:5575 2026-11-10T12:18:01.139403806 [t1] handling run for Socket[addr=/127.0.0.1,port=35334,localport=39713]
+pid:5575 2026-11-10T12:18:01.142856872 [t28] prepareConnection Socket[addr=/127.0.0.1,port=35334,localport=39713]
+pid:5575 2026-11-10T12:18:01.145000792 [t28] 1 active connections
+pid:5575 2026-11-10T12:18:01.150347596 [t29] handleConnection: starting RPC server
+pid:5575 2026-11-10T12:18:01.185356942 [t29] handleConnection: running RPC server
+pid:5575 2026-11-10T12:18:01.185733535 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=35334,localport=39713]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:5575 2026-11-10T12:18:01.252617778 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=35334,localport=39713]] Initialized, waiting for messages.
+pid:5575 2026-11-10T12:18:13.430065807 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=35334,localport=39713]] Transport wire broken.
+pid:5575 2026-11-10T12:18:13.431339539 [t29] handleConnection: RPC server finished normally, exitCode=1
+pid:5575 2026-11-10T12:18:13.432183029 [t28] done=true, idle=true, lastClientAlive=false
+pid:5575 2026-11-10T12:18:13.433462108 [t28] 0 active connections
+pid:5575 2026-11-10T12:18:27.819479224 [t1] handling run for Socket[addr=/127.0.0.1,port=52592,localport=39713]
+pid:5575 2026-11-10T12:18:27.820439801 [t71] prepareConnection Socket[addr=/127.0.0.1,port=52592,localport=39713]
+pid:5575 2026-11-10T12:18:27.82081079 [t71] 1 active connections
+pid:5575 2026-11-10T12:18:27.821101271 [t72] handleConnection: starting RPC server
+pid:5575 2026-11-10T12:18:27.821324961 [t72] handleConnection: running RPC server
+pid:5575 2026-11-10T12:18:27.821434196 [t72] [MillDaemon-Socket[addr=/127.0.0.1,port=52592,localport=39713]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:5575 2026-11-10T12:18:27.822151378 [t72] [MillDaemon-Socket[addr=/127.0.0.1,port=52592,localport=39713]] Initialized, waiting for messages.
+pid:5575 2026-11-10T12:18:29.841480912 [t72] [MillDaemon-Socket[addr=/127.0.0.1,port=52592,localport=39713]] Transport wire broken.
+pid:5575 2026-11-10T12:18:29.841762289 [t72] handleConnection: RPC server finished normally, exitCode=0
+pid:5575 2026-11-10T12:18:29.842700368 [t71] done=true, idle=true, lastClientAlive=true
+pid:5575 2026-11-10T12:18:29.84345532 [t71] 0 active connections
+pid:8301 2026-11-15T20:33:02.872192073 [t1] running server in /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+pid:8301 2026-11-15T20:33:02.892707434 [t1] acceptTimeout=Some(30 minutes)
+pid:8301 2026-11-15T20:33:02.909439789 [t1] server file locked
+pid:8301 2026-11-15T20:33:02.920005881 [t1] listening on port 38337
+pid:8301 2026-11-15T20:33:02.923486325 [t1] handling run for Socket[addr=/127.0.0.1,port=52340,localport=38337]
+pid:8301 2026-11-15T20:33:02.926880398 [t28] prepareConnection Socket[addr=/127.0.0.1,port=52340,localport=38337]
+pid:8301 2026-11-15T20:33:02.929017904 [t28] 1 active connections
+pid:8301 2026-11-15T20:33:02.935284318 [t29] handleConnection: starting RPC server
+pid:8301 2026-11-15T20:33:02.971198279 [t29] handleConnection: running RPC server
+pid:8301 2026-11-15T20:33:02.971605669 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=52340,localport=38337]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:8301 2026-11-15T20:33:03.040144275 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=52340,localport=38337]] Initialized, waiting for messages.
+pid:8301 2026-11-15T20:33:08.747775741 [t29] [MillDaemon-Socket[addr=/127.0.0.1,port=52340,localport=38337]] Transport wire broken.
+pid:8301 2026-11-15T20:33:08.7485775 [t29] handleConnection: RPC server finished normally, exitCode=1
+pid:8301 2026-11-15T20:33:08.749766284 [t28] done=true, idle=true, lastClientAlive=true
+pid:8301 2026-11-15T20:33:08.751561924 [t28] 0 active connections
+pid:8301 2026-11-15T20:37:12.606609666 [t1] handling run for Socket[addr=/127.0.0.1,port=37664,localport=38337]
+pid:8301 2026-11-15T20:37:12.60713382 [t75] prepareConnection Socket[addr=/127.0.0.1,port=37664,localport=38337]
+pid:8301 2026-11-15T20:37:12.60747557 [t75] 1 active connections
+pid:8301 2026-11-15T20:37:12.607760378 [t76] handleConnection: starting RPC server
+pid:8301 2026-11-15T20:37:12.607969719 [t76] handleConnection: running RPC server
+pid:8301 2026-11-15T20:37:12.608091233 [t76] [MillDaemon-Socket[addr=/127.0.0.1,port=37664,localport=38337]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:8301 2026-11-15T20:37:12.610310297 [t76] [MillDaemon-Socket[addr=/127.0.0.1,port=37664,localport=38337]] Initialized, waiting for messages.
+pid:8301 2026-11-15T20:37:13.223636718 [t76] [MillDaemon-Socket[addr=/127.0.0.1,port=37664,localport=38337]] Transport wire broken.
+pid:8301 2026-11-15T20:37:13.224631561 [t76] handleConnection: RPC server finished normally, exitCode=1
+pid:8301 2026-11-15T20:37:13.225127233 [t75] done=true, idle=true, lastClientAlive=false
+pid:8301 2026-11-15T20:37:13.225595117 [t75] 0 active connections
+pid:8301 2026-11-15T20:37:17.447869896 [t1] handling run for Socket[addr=/127.0.0.1,port=37670,localport=38337]
+pid:8301 2026-11-15T20:37:17.449204755 [t93] prepareConnection Socket[addr=/127.0.0.1,port=37670,localport=38337]
+pid:8301 2026-11-15T20:37:17.449517903 [t93] 1 active connections
+pid:8301 2026-11-15T20:37:17.449790971 [t94] handleConnection: starting RPC server
+pid:8301 2026-11-15T20:37:17.450032949 [t94] handleConnection: running RPC server
+pid:8301 2026-11-15T20:37:17.450169659 [t94] [MillDaemon-Socket[addr=/127.0.0.1,port=37670,localport=38337]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:8301 2026-11-15T20:37:17.451555844 [t94] [MillDaemon-Socket[addr=/127.0.0.1,port=37670,localport=38337]] Initialized, waiting for messages.
+pid:8301 2026-11-15T20:37:18.969725454 [t94] [MillDaemon-Socket[addr=/127.0.0.1,port=37670,localport=38337]] Transport wire broken.
+pid:8301 2026-11-15T20:37:18.971105742 [t94] handleConnection: RPC server finished normally, exitCode=1
+pid:8301 2026-11-15T20:37:18.971803728 [t93] done=true, idle=true, lastClientAlive=false
+pid:8301 2026-11-15T20:37:18.972979672 [t93] 0 active connections
+pid:8301 2026-11-15T20:38:30.071406558 [t1] handling run for Socket[addr=/127.0.0.1,port=55242,localport=38337]
+pid:8301 2026-11-15T20:38:30.075514363 [t135] prepareConnection Socket[addr=/127.0.0.1,port=55242,localport=38337]
+pid:8301 2026-11-15T20:38:30.076012397 [t135] 1 active connections
+pid:8301 2026-11-15T20:38:30.076450779 [t136] handleConnection: starting RPC server
+pid:8301 2026-11-15T20:38:30.08082595 [t136] handleConnection: running RPC server
+pid:8301 2026-11-15T20:38:30.081748503 [t136] [MillDaemon-Socket[addr=/127.0.0.1,port=55242,localport=38337]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:8301 2026-11-15T20:38:30.085087368 [t136] [MillDaemon-Socket[addr=/127.0.0.1,port=55242,localport=38337]] Initialized, waiting for messages.
+pid:8301 2026-11-15T20:38:31.428608565 [t136] [MillDaemon-Socket[addr=/127.0.0.1,port=55242,localport=38337]] Transport wire broken.
+pid:8301 2026-11-15T20:38:31.428928049 [t136] handleConnection: RPC server finished normally, exitCode=1
+pid:8301 2026-11-15T20:38:31.429783402 [t135] done=true, idle=true, lastClientAlive=true
+pid:8301 2026-11-15T20:38:31.430167529 [t135] 0 active connections
+pid:8301 2026-11-15T20:39:35.188373503 [t1] handling run for Socket[addr=/127.0.0.1,port=57512,localport=38337]
+pid:8301 2026-11-15T20:39:35.188832531 [t177] prepareConnection Socket[addr=/127.0.0.1,port=57512,localport=38337]
+pid:8301 2026-11-15T20:39:35.189088498 [t177] 1 active connections
+pid:8301 2026-11-15T20:39:35.189306688 [t178] handleConnection: starting RPC server
+pid:8301 2026-11-15T20:39:35.189492402 [t178] handleConnection: running RPC server
+pid:8301 2026-11-15T20:39:35.189602113 [t178] [MillDaemon-Socket[addr=/127.0.0.1,port=57512,localport=38337]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:8301 2026-11-15T20:39:35.190216171 [t178] [MillDaemon-Socket[addr=/127.0.0.1,port=57512,localport=38337]] Initialized, waiting for messages.
+pid:8301 2026-11-15T20:39:35.693590223 [t178] [MillDaemon-Socket[addr=/127.0.0.1,port=57512,localport=38337]] Transport wire broken.
+pid:8301 2026-11-15T20:39:35.694013763 [t178] handleConnection: RPC server finished normally, exitCode=1
+pid:8301 2026-11-15T20:39:35.694878355 [t177] done=true, idle=true, lastClientAlive=true
+pid:8301 2026-11-15T20:39:35.695850123 [t177] 0 active connections
+pid:8301 2026-11-15T20:40:42.297494993 [t1] handling run for Socket[addr=/127.0.0.1,port=58772,localport=38337]
+pid:8301 2026-11-15T20:40:42.298001419 [t197] prepareConnection Socket[addr=/127.0.0.1,port=58772,localport=38337]
+pid:8301 2026-11-15T20:40:42.29821001 [t197] 1 active connections
+pid:8301 2026-11-15T20:40:42.298439811 [t198] handleConnection: starting RPC server
+pid:8301 2026-11-15T20:40:42.298600156 [t198] handleConnection: running RPC server
+pid:8301 2026-11-15T20:40:42.298711757 [t198] [MillDaemon-Socket[addr=/127.0.0.1,port=58772,localport=38337]] Initializing Mill RPC server... Waiting for the `initialize` message.
+pid:8301 2026-11-15T20:40:42.299105162 [t198] [MillDaemon-Socket[addr=/127.0.0.1,port=58772,localport=38337]] Initialized, waiting for messages.
+pid:8301 2026-11-15T20:40:42.791999138 [t198] [MillDaemon-Socket[addr=/127.0.0.1,port=58772,localport=38337]] Transport wire broken.
+pid:8301 2026-11-15T20:40:42.792359372 [t198] handleConnection: RPC server finished normally, exitCode=1
+pid:8301 2026-11-15T20:40:42.793023326 [t197] done=true, idle=true, lastClientAlive=true
+pid:8301 2026-11-15T20:40:42.793459352 [t197] 0 active connections
+pid:8301 2026-11-15T21:10:42.795109741 [t27] shutting down due inactivity
+pid:8301 2026-11-15T21:10:42.799736527 [t1] removing /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/socketPort
+pid:8301 2026-11-15T21:10:42.80062631 [t1] removed /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/socketPort
+pid:8301 2026-11-15T21:10:42.800988155 [t1] releasing daemonLock
+pid:8301 2026-11-15T21:10:42.802200271 [t1] daemonLock released
+pid:8301 2026-11-15T21:10:42.802339668 [t1] exiting server

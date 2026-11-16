@@ -15,8 +15,8 @@ def max(xs: List[Int]): Int = {
     }
 }
 
-def power(x: Double, n:Int): Double = {
-    n match
+def power(x: Double, k:Int): Double = {
+    k match
         case 0               => 1
         case b if b > 0      => x * power(x,b-1)
         case _               => (1 / x) * power(x,n+1)

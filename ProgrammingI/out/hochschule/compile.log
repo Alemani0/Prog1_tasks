@@ -1,0 +1,7 @@
+compiling 1 Scala source to out/hochschule/compile.dest/classes ...
+[[31merror[39m] [31msrc/main/scala/lecture08Hochschule/Hochschule.scala[0m:[31m22[0m:[31m39[0m
+[0m[33mclass[0m [36mCourseRegistry[0m([33mval[0m [36menrollments[0m: mutable.[32mMap[0m[[32mCourse[0m, mutable.[32mSet[0m[[32mStudent[0m]]) {
+                                      [31m^^^^^^^[0m
+Not found: mutable - did you mean Runnable?
+
+[[31merror[39m] one error found

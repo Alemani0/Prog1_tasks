@@ -1,0 +1,28 @@
+compiling 3 Scala sources to out/numberByHand/compile.dest/classes ...
+[[33mwarn[39m] [33msrc/main/scala/lecture05NumberByHand/.scala-build/lecture05NumberByHand_dda973b1f6/src_generated/main/checkanswer.worksheet.scala[0m:[33m9[0m:[33m1[0m
+[0m-[32m77[0m.toBinaryString.takeRight([32m8[0m)
+[33m^[0m
+Illegal literal
+
+[[33mwarn[39m] [33msrc/main/scala/lecture05NumberByHand/.scala-build/lecture05NumberByHand_dda973b1f6/src_generated/main/checkanswer.worksheet.scala[0m:[33m17[0m:[33m8[0m
+[0m[33mobject[0m [36mcheckanswer$u002Eworksheet_sc[0m {
+       [33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+The identifier `checkanswer$u002Eworksheet_sc` should not contain `$`, which is reserved for internal compiler use.
+
+[[33mwarn[39m] [33msrc/main/scala/lecture05NumberByHand/.scala-build/lecture05NumberByHand_dda973b1f6/src_generated/main/checkanswer.worksheet.scala[0m:[33m11[0m:[33m5[0m
+[0m[32m0.1[0m + [32m0.2[0m
+    [33m^^^^^[0m
+A pure expression does nothing in statement position
+
+[[33mwarn[39m] [33msrc/main/scala/lecture05NumberByHand/.scala-build/lecture05NumberByHand_dda973b1f6/src_generated/main/numbers.worksheet.scala[0m:[33m31[0m:[33m8[0m
+[0m[33mobject[0m [36mnumbers$u002Eworksheet_sc[0m {
+       [33m^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+The identifier `numbers$u002Eworksheet_sc` should not contain `$`, which is reserved for internal compiler use.
+
+[[33mwarn[39m] [33msrc/main/scala/lecture05NumberByHand/.scala-build/lecture05NumberByHand_dda973b1f6/src_generated/main/numbers.worksheet.scala[0m:[33m17[0m:[33m5[0m
+[0m[32m0.1[0m + [32m0.2[0m
+    [33m^^^^^[0m
+A pure expression does nothing in statement position
+
+[[33mwarn[39m] 5 warnings found
+done compiling
