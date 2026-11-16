@@ -1,0 +1,22 @@
+{
+  "hochschule.sources": {
+    "hochschule.allSources": {
+      "hochschule.allSourceFiles": {
+        "hochschule.compile": {
+          "hochschule.localRunClasspath": {
+            "hochschule.allLocalMainClasses": {
+              "hochschule.finalMainClassOpt": {
+                "hochschule.finalMainClass": {},
+                "hochschule.run": {}
+              }
+            },
+            "hochschule.localClasspath": {
+              "hochschule.runClasspath": {}
+            }
+          }
+        },
+        "hochschule.zincIncrementalCompilation": {}
+      }
+    }
+  }
+}

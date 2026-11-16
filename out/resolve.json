@@ -1,0 +1,31 @@
+{
+    "value": [
+        "energyBill",
+        "numbers",
+        "selective",
+        "clean",
+        "init",
+        "inspect",
+        "java",
+        "javac",
+        "javap",
+        "jfr",
+        "jps",
+        "jstack",
+        "path",
+        "plan",
+        "resolve",
+        "show",
+        "showNamed",
+        "shutdown",
+        "updateMillScripts",
+        "version",
+        "visualize",
+        "visualizePlan"
+    ],
+    "valueHash": -1800217451,
+    "inputsHash": 787201726,
+    "millVersion": "1.1.10",
+    "millJvmVersion": "21.0.10",
+    "classLoaderSigHash": -922733126
+}

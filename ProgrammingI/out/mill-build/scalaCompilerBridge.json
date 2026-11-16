@@ -1,0 +1,8 @@
+{
+    "value": "qref:v1:e53b0f13:/home/alex/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.8.2/scala3-sbt-bridge-3.8.2.jar",
+    "valueHash": -1335258877,
+    "inputsHash": 1041014180,
+    "millVersion": "1.1.10",
+    "millJvmVersion": "21.0.10",
+    "classLoaderSigHash": -353824999
+}

@@ -1,0 +1,29 @@
+{
+    "workerCache": {
+        "mill.javalib.classgraph.ClassgraphWorkerModule/classgraphWorkerClassloader": {
+            "identityHashCode": 553460322,
+            "inputHash": 1555410790
+        },
+        "mill.javalib.JvmWorkerModule/internalWorkerClassLoader": {
+            "identityHashCode": 1560426856,
+            "inputHash": -692754201
+        },
+        "mill.javalib.classgraph.ClassgraphWorkerModule/classgraphWorker": {
+            "identityHashCode": 1203956262,
+            "inputHash": 493730746
+        },
+        "mill.javalib.JvmWorkerModule/internalWorker": {
+            "identityHashCode": 621827657,
+            "inputHash": 956476933
+        }
+    },
+    "evalWatched": [
+        "/home/alex/Schreibtisch/Pt-1/ProgrammingI/src/main/scala/lecture08Hochschule/resources",
+        "/home/alex/Schreibtisch/Pt-1/ProgrammingI/src/main/scala/lecture08Hochschule",
+        "/home/alex/Schreibtisch/Pt-1/ProgrammingI/src/main/scala/lecture08Hochschule/compile-resources"
+    ],
+    "moduleWatched": [],
+    "classLoaderIdentity": null,
+    "runClasspath": [],
+    "runClasspathHash": 473519988
+}

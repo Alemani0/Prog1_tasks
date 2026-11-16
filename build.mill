@@ -1,0 +1,47 @@
+package build
+import mill.*, scalalib.*
+
+object energyBill extends ScalaModule {
+  def scalaVersion = "3.9.0"
+  def mainClass = Some("EnergyBill$package")
+  override def moduleDir =
+    super.moduleDir / os.up / "src" / "main" /
+    "scala" / "lecture05numberstpyes"
+  def sources = Task.Sources(moduleDir)
+}
+
+object numbers extends ScalaModule {
+  def scalaVersion = "3.9.0"
+  def mainClass = Some("Numbers$package")
+  override def moduleDir =
+    super.moduleDir / os.up / "src" / "main" /
+    "scala" / "lecture05NumberByHand"
+  def sources = Task.Sources(moduleDir)
+}
+
+object grades extends ScalaModule {
+  def scalaVersion = "3.9.0"
+  def mainClass = Some("Grades$package")
+  override def moduleDir =
+    super.moduleDir / os.up / "src" / "main" /
+    "scala" / "lecture07Grades"
+  def sources = Task.Sources(moduleDir)
+}
+
+object hochschule extends ScalaModule {
+  def scalaVersion = "3.9.0"
+  def mainClass = Some("Hochschule$package")
+  override def moduleDir =
+    super.moduleDir / os.up / "src" / "main" /
+    "scala" / "lecture08Hochschule"
+  def sources = Task.Sources(moduleDir)
+}
+
+object eventinvitation extends ScalaModule {
+  def scalaVersion = "3.9.0"
+  def mainClass = Some("eventinvitation$package")
+  override def moduleDir =
+    super.moduleDir / os.up / "src" / "main" /
+    "scala" / "lecture09event"
+  def sources = Task.Sources(moduleDir)
+}

@@ -1,0 +1,15 @@
+{
+    "value": {
+        "seenScripts": [
+            [
+                "/home/alex/Schreibtisch/Pt-1/ProgrammingI/build.mill",
+                "// package build\nimport mill.*, scalalib.*\n\nobject energyBill extends ScalaModule {\n  def scalaVersion = \"3.9.0\"\n  def mainClass = Some(\"EnergyBill$package\")\n  override def moduleDir =\n    super.moduleDir / os.up / \"src\" / \"main\" /\n    \"scala\" / \"lecture05numberstpyes\"\n  def sources = Task.Sources(moduleDir)\n}\n\nobject numbers extends ScalaModule {\n  def scalaVersion = \"3.9.0\"\n  def mainClass = Some(\"Numbers$package\")\n  override def moduleDir =\n    super.moduleDir / os.up / \"src\" / \"main\" /\n    \"scala\" / \"lecture05NumberByHand\"\n  def sources = Task.Sources(moduleDir)\n}\n\nobject grades extends ScalaModule {\n  def scalaVersion = \"3.9.0\"\n  def mainClass = Some(\"Grades$package\")\n  override def moduleDir =\n    super.moduleDir / os.up / \"src\" / \"main\" /\n    \"scala\" / \"lecture07Grades\"\n  def sources = Task.Sources(moduleDir)\n}\n\nobject hochschule extends ScalaModule {\n  def scalaVersion = \"3.9.0\"\n  def mainClass = Some(\"Hochschule$package\")\n  override def moduleDir =\n    super.moduleDir / os.up / \"src\" / \"main\" /\n    \"scala\" / \"lecture08Hochschule\"\n  def sources = Task.Sources(moduleDir)\n}\n\nobject eventinvitation extends ScalaModule {\n  def scalaVersion = \"3.9.0\"\n  def mainClass = Some(\"eventinvitation$package\")\n  override def moduleDir =\n    super.moduleDir / os.up / \"src\" / \"main\" /\n    \"scala\" / \"lecture09event\"\n  def sources = Task.Sources(moduleDir)\n}"
+            ]
+        ]
+    },
+    "valueHash": 2018962334,
+    "inputsHash": 701381381,
+    "millVersion": "1.1.10",
+    "millJvmVersion": "21.0.10",
+    "classLoaderSigHash": -353824999
+}

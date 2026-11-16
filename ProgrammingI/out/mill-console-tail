@@ -1,0 +1,19 @@
+[33m./mill hochschule[39m[0K
+[0J[9999D[1A73/73+] [33m./mill hochschule[39m[0K
+[0J[9999D[1A72/80] [33m./mill hochschule[39m[0K
+[0J[9999D[1A[34m73] hochschule.compile[39m compiling 1 Scala source to out/hochschule/compile.dest/classes ...[0K
+72/80] [33m./mill hochschule[39m[0K
+[0J[9999D[1A72/80] [33m./mill hochschule[39m[0K
+73] [33mhochschule.compile[39m[0K
+[0J[9999D[2A[34m73][39m [[31merror[39m] [31msrc/main/scala/lecture08Hochschule/Hochschule.scala[39m:[31m22[39m:[31m39[39m[0K
+[34m73][39m [33mclass[39m [36mCourseRegistry[39m([33mval[39m [36menrollments[39m: mutable.[32mMap[39m[[32mCourse[39m, mutable.[32mSet[39m[[32mStudent[39m]]) {[0K
+[34m73][39m                                       [31m^^^^^^^[39m[0K
+[34m73][39m Not found: mutable - did you mean Runnable?[0K
+[34m73][39m [0K
+72/80] [33m./mill hochschule[39m[0K
+73] [33mhochschule.compile[39m[0K
+[0J[9999D[2A[34m73][39m [[31merror[39m] one error found[0K
+72/80] [33m./mill hochschule[39m[0K
+73] [33mhochschule.compile[39m[0K
+[0J[9999D[2A73/80, [31m1 FAILED[39m] ./mill hochschule[0K
+[0J

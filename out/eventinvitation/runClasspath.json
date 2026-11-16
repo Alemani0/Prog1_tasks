@@ -1,0 +1,13 @@
+{
+    "value": [
+        "qref:v1:b87d5459:/home/alex/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/3.9.0/scala-library-3.9.0.jar",
+        "ref:v0:c984eca8:/home/alex/Schreibtisch/Pt-1/ProgrammingI/src/main/scala/lecture09event/compile-resources",
+        "ref:v0:c984eca8:/home/alex/Schreibtisch/Pt-1/ProgrammingI/src/main/scala/lecture09event/resources",
+        "ref:v0:d0bb61e0:/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/eventinvitation/compile.dest/classes"
+    ],
+    "valueHash": -2078878451,
+    "inputsHash": -1695793098,
+    "millVersion": "1.1.10",
+    "millJvmVersion": "21.0.10",
+    "classLoaderSigHash": -922733126
+}

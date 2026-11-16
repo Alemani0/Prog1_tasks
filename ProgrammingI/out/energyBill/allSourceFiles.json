@@ -1,0 +1,13 @@
+{
+    "value": [
+        "ref:v0:741473ac:/home/alex/Schreibtisch/Pt-1/ProgrammingI/src/main/scala/lecture05numberstpyes/EnergyBill.scala",
+        "ref:v0:9dacdcd0:/home/alex/Schreibtisch/Pt-1/ProgrammingI/src/main/scala/lecture05numberstpyes/EnergyBillCalc.scala",
+        "ref:v0:4629fdec:/home/alex/Schreibtisch/Pt-1/ProgrammingI/src/main/scala/lecture05numberstpyes/Energy.scala",
+        "ref:v0:654ab4c7:/home/alex/Schreibtisch/Pt-1/ProgrammingI/src/main/scala/lecture05numberstpyes/EnergyBillTable.scala"
+    ],
+    "valueHash": 869473668,
+    "inputsHash": 1101043167,
+    "millVersion": "1.1.10",
+    "millJvmVersion": "21.0.10",
+    "classLoaderSigHash": -922733126
+}

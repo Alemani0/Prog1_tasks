@@ -1,0 +1,10 @@
+{
+    "value": [
+        "qref:v1:b87d5459:/home/alex/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/3.9.0/scala-library-3.9.0.jar"
+    ],
+    "valueHash": -699530232,
+    "inputsHash": 914864323,
+    "millVersion": "1.1.10",
+    "millJvmVersion": "21.0.10",
+    "classLoaderSigHash": -922733126
+}

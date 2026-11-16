@@ -1,0 +1,106 @@
+{
+  "hochschule.run": {
+    "hochschule.javaHome": {
+      "mill.javalib.CoursierConfigModule/coursierEnv": {},
+      "hochschule.jvmVersion": {
+        "hochschule.jvmId": {}
+      },
+      "hochschule.jvmIndexVersion": {}
+    },
+    "hochschule.finalMainClassOpt": {
+      "hochschule.mainClass": {},
+      "hochschule.allLocalMainClasses": {
+        "mill.javalib.classgraph.ClassgraphWorkerModule/classgraphWorker": {
+          "mill.javalib.classgraph.ClassgraphWorkerModule/classgraphWorkerClassloader": {
+            "mill.javalib.classgraph.ClassgraphWorkerModule/classgraphWorkerClasspath": {
+              "mill.javalib.classgraph.ClassgraphWorkerModule/repositories": {},
+              "mill.javalib.classgraph.ClassgraphWorkerModule/checkGradleModules": {}
+            }
+          }
+        },
+        "hochschule.localRunClasspath": {
+          "hochschule.localRunClasspath.super.RunModule": {},
+          "hochschule.resources": {},
+          "hochschule.compile": {
+            "hochschule.javacOptions": {},
+            "hochschule.mandatoryJavacOptions": {},
+            "mill.javalib.JvmWorkerModule/internalWorker": {
+              "mill.javalib.JvmWorkerModule/repositories": {},
+              "mill.javalib.JvmWorkerModule/checkGradleModules": {},
+              "mill.javalib.JvmWorkerModule/classpath": {},
+              "mill.javalib.JvmWorkerModule/internalWorkerClassLoader": {},
+              "mill.javalib.JvmWorkerModule/zincLogDebug": {},
+              "mill.javalib.JvmWorkerModule/useFileLocks": {}
+            },
+            "hochschule.upstreamCompileOutput": {},
+            "hochschule.allSourceFiles": {
+              "hochschule.allSources": {
+                "hochschule.sources": {},
+                "hochschule.generatedSources": {}
+              },
+              "hochschule.wrappedSources": {}
+            },
+            "hochschule.compileClasspath": {
+              "hochschule.resolvedMvnDeps": {
+                "hochschule.resolvedMvnDeps.super.javalib.JavaModule": {}
+              }
+            },
+            "hochschule.allScalacOptions": {
+              "hochschule.mandatoryScalacOptions": {},
+              "hochschule.enablePluginScalacOptions": {},
+              "hochschule.scalacOptions": {}
+            },
+            "hochschule.scalaCompilerClasspath": {},
+            "hochschule.scalacPluginClasspath": {
+              "hochschule.scalacPluginMvnDeps": {}
+            },
+            "hochschule.scalaCompilerBridge": {},
+            "hochschule.zincIncrementalCompilation": {},
+            "hochschule.zincAuxiliaryClassFileExtensions": {
+              "hochschule.zincAuxiliaryClassFileExtensions.super.javalib.JavaModule": {}
+            },
+            "hochschule.zincReportCachedProblems": {}
+          }
+        }
+      }
+    },
+    "hochschule.runClasspath": {
+      "hochschule.runClasspath.super.RunModule": {},
+      "hochschule.resolvedRunMvnDeps": {
+        "hochschule.scalaVersion": {},
+        "hochschule.resolvedDepsWarnNonPlatform": {},
+        "hochschule.platformSuffix": {},
+        "hochschule.mvnDeps": {},
+        "hochschule.mandatoryMvnDeps": {
+          "hochschule.mandatoryMvnDeps.super.javalib.JavaModule": {},
+          "hochschule.scalaLibraryMvnDeps": {}
+        },
+        "hochschule.compileMvnDeps": {},
+        "hochschule.runMvnDeps": {},
+        "hochschule.bomMvnDeps": {},
+        "hochschule.depManagement": {},
+        "hochschule.transitiveCoursierProjects": {},
+        "hochschule.repositories": {},
+        "hochschule.checkGradleModules": {},
+        "hochschule.artifactTypes": {}
+      },
+      "hochschule.transitiveLocalClasspath": {},
+      "hochschule.localClasspath": {
+        "hochschule.localCompileClasspath": {
+          "hochschule.unmanagedClasspath": {},
+          "hochschule.unmanagedClasspathExistenceCheck": {},
+          "hochschule.compileResources": {}
+        }
+      }
+    },
+    "hochschule.forkArgs": {},
+    "hochschule.allForkEnv": {
+      "hochschule.javaHomePathForkEnv": {},
+      "hochschule.forkEnv": {}
+    },
+    "hochschule.runUseArgsFile": {},
+    "hochschule.propagateEnv": {},
+    "hochschule.finalMainClass": {},
+    "hochschule.forkWorkingDir": {}
+  }
+}

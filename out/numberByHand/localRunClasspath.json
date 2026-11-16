@@ -1,0 +1,11 @@
+{
+    "value": [
+        "ref:v0:c984eca8:/home/alex/Schreibtisch/Pt-1/ProgrammingI/src/main/scala/lecture05NumberByHand/resources",
+        "ref:v0:d646536c:/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/numberByHand/compile.dest/classes"
+    ],
+    "valueHash": 1913041786,
+    "inputsHash": 1091866655,
+    "millVersion": "1.1.10",
+    "millJvmVersion": "21.0.10",
+    "classLoaderSigHash": -922733126
+}

@@ -1,0 +1,11 @@
+{
+    "value": [
+        "ref:v0:c984eca8:/home/alex/Schreibtisch/Pt-1/ProgrammingI/src/main/scala/lecture07Grades/resources",
+        "ref:v0:ff6a2ed7:/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/grades/compile.dest/classes"
+    ],
+    "valueHash": 237455415,
+    "inputsHash": 672644523,
+    "millVersion": "1.1.10",
+    "millJvmVersion": "21.0.10",
+    "classLoaderSigHash": -922733126
+}

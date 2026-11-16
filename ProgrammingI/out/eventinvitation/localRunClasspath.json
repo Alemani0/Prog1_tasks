@@ -1,0 +1,11 @@
+{
+    "value": [
+        "ref:v0:c984eca8:/home/alex/Schreibtisch/Pt-1/ProgrammingI/src/main/scala/lecture09event/resources",
+        "ref:v0:d0bb61e0:/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/eventinvitation/compile.dest/classes"
+    ],
+    "valueHash": 344113614,
+    "inputsHash": 2147444302,
+    "millVersion": "1.1.10",
+    "millJvmVersion": "21.0.10",
+    "classLoaderSigHash": -922733126
+}

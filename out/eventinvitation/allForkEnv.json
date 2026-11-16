@@ -1,0 +1,11 @@
+{
+    "value": {
+        "PATH": "/home/alex/.cache/coursier/arc/https/cdn.azul.com/zulu/bin/zulu21.48.15-ca-jdk21.0.10-linux_x64.tar.gz/zulu21.48.15-ca-jdk21.0.10-linux_x64/bin:/home/alex/.local/bin:/home/alex/.local/bin:/home/alex/.nvm/versions/node/v24.14.1/bin:/home/alex/.local/bin:/home/alex/.local/bin:/home/alex/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/alex/.local/share/coursier/bin:/home/alex/.config/Code/User/globalStorage/github.copilot-chat/debugCommand",
+        "MILL_WORKSPACE_ROOT": "/home/alex/Schreibtisch/Pt-1/ProgrammingI"
+    },
+    "valueHash": -1872810321,
+    "inputsHash": -1753870035,
+    "millVersion": "1.1.10",
+    "millJvmVersion": "21.0.10",
+    "classLoaderSigHash": -922733126
+}

@@ -1,0 +1,11 @@
+{
+    "value": [
+        1,
+        "eventinvitation$package"
+    ],
+    "valueHash": -383652033,
+    "inputsHash": 837168342,
+    "millVersion": "1.1.10",
+    "millJvmVersion": "21.0.10",
+    "classLoaderSigHash": -922733126
+}

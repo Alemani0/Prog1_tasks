@@ -1,0 +1,1133 @@
+{
+  "def build_.package_$#func$23()mill.api.Discover$ClassInfo": {
+    "call build_.package_$!func$23()mill.api.Discover$ClassInfo": {}
+  },
+  "def build_.package_$eventinvitation$#scalacPluginClasspath()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#sanitizeUri(os.Path)java.lang.String": {},
+  "def build_.package_$eventinvitation$#internalRepositories()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#runForkedTask$default$2()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#bspBuildTargetData()mill.api.Task": {
+    "call build_.package_$eventinvitation$#bspBuildTargetData()mill.api.Task": {}
+  },
+  "def build_.package_$eventinvitation$#scalaDocGenerated()mill.api.Task$Simple": {},
+  "def build_.package_$.func$11$$anonfun$1(mill.javalib.AssemblyModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$11$$anonfun$1(mill.javalib.AssemblyModule,scala.collection.immutable.Seq)java.lang.Object": {
+      "def build_.package_$.$deserializeLambda$(java.lang.invoke.SerializedLambda)java.lang.Object": {}
+    }
+  },
+  "def build_.package_$eventinvitation$#actualResolutionParamsOverride(coursier.params.ResolutionParams)mill.api.Task": {},
+  "def build_.package_$eventinvitation$#bspJvmBuildTargetTask()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#resolvedSemanticDbJavaPluginMvnDeps()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#bspExt()mill.api.ModuleRef": {
+    "external mill.scalalib.ScalaModule narrowed build_.package_$eventinvitation$": {},
+    "external mill.scalalib.ScalaModule": {},
+    "external mill.javalib.JavaModule narrowed mill.scalalib.ScalaModule": {},
+    "external mill.javalib.JavaModule": {},
+    "external mill.javalib.JavaModule narrowed build_.package_$eventinvitation$": {}
+  },
+  "def build_.package_$eventinvitation$#allScalacOptions()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#mill$scalalib$ScalaModule$$super$prepareOffline(mainargs.Flag)mill.api.Task$Command": {},
+  "def build_.package_$#func$19()mill.api.Discover$ClassInfo": {
+    "call build_.package_$!func$19()mill.api.Discover$ClassInfo": {}
+  },
+  "def build_.package_$eventinvitation$#genIdeaInternalExt()mill.api.ModuleRef": {},
+  "def build_.package_$eventinvitation$#coursierProject()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#mill$javalib$JavaModule$$super$jvmWorker()mill.api.ModuleRef": {},
+  "def build_.package_$eventinvitation$#compileModuleDeps()scala.collection.immutable.Seq": {},
+  "def build_.package_$eventinvitation$#mill$scalalib$ScalaModule$$super$zincAuxiliaryClassFileExtensions()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#jar()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#mill$scalalib$ScalaModule$$super$bspBuildTarget()mill.api.daemon.internal.bsp.BspBuildTarget": {},
+  "def build_.package_$eventinvitation$#repl(scala.collection.immutable.Seq)mill.api.Task$Command": {
+    "call mill.scalalib.ScalaModule#repl(scala.collection.immutable.Seq)mill.api.Task$Command": {}
+  },
+  "def build_.package_$eventinvitation$#runForkedTask(mill.api.Task,mill.api.Task)mill.api.Task": {
+    "external mill.javalib.RunModule narrowed mill.scalalib.ScalaModule": {},
+    "external mill.javalib.RunModule narrowed build_.package_$eventinvitation$": {},
+    "external mill.javalib.RunModule": {},
+    "external mill.javalib.RunModule narrowed mill.javalib.JavaModule": {}
+  },
+  "def build_.package_$eventinvitation$#zincAuxiliaryClassFileExtensions()mill.api.Task$Simple": {},
+  "def build_.package_$.func$21$$anonfun$1(mill.util.JdkCommandsModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$21$$anonfun$1(mill.util.JdkCommandsModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#recursiveRunModuleDeps()scala.collection.immutable.Seq": {},
+  "def build_.package_$eventinvitation$#ammoniteMainClass()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#configCompileModuleDeps()scala.collection.immutable.Map": {},
+  "def build_.package_$eventinvitation$#mill$javalib$RunModule$$bspExt$lzyINIT5()java.lang.Object": {
+    "call build_.package_$eventinvitation$!mill$javalib$RunModule$$bspExt$lzyINIT5()java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#bspCompileClassesPath(boolean)mill.api.Task": {
+    "call build_.package_$eventinvitation$#bspCompileClassesPath(boolean)mill.api.Task": {}
+  },
+  "def build_.package_$eventinvitation$#toString()java.lang.String": {
+    "external java.lang.Object narrowed mill.scalalib.ScalaModule": {},
+    "external java.lang.Object narrowed mill.javalib.RunModule": {},
+    "external java.lang.Object narrowed mill.javalib.OfflineSupportModule": {},
+    "external java.lang.Object narrowed mill.util.JdkCommandsModule": {},
+    "external java.lang.Object narrowed build_.package_$eventinvitation$": {
+      "external mill.api.Module$BaseClass narrowed build_.package_$eventinvitation$": {},
+      "external mill.api.internal.Cacher narrowed build_.package_$eventinvitation$": {},
+      "external mill.moduledefs.Cacher narrowed build_.package_$eventinvitation$": {}
+    },
+    "external java.lang.Object narrowed mill.javalib.AssemblyModule": {},
+    "external java.lang.Object narrowed mill.javalib.JavaModule": {},
+    "external java.lang.Object": {
+      "def build_.package_$hochschule$#sources$$anonfun$4$$anonfun$1(scala.collection.immutable.Seq,mill.api.TaskCtx)mill.api.daemon.Result": {
+        "call build_.package_$hochschule$!sources$$anonfun$4$$anonfun$1(scala.collection.immutable.Seq,mill.api.TaskCtx)mill.api.daemon.Result": {
+          "def build_.package_$hochschule$#sources$$anonfun$4()mill.api.Task$Simple": {
+            "call build_.package_$hochschule$!sources$$anonfun$4()mill.api.Task$Simple": {
+              "def build_.package_$hochschule$#sources()mill.api.Task$Simple": {}
+            }
+          },
+          "def build_.package_$hochschule$.$deserializeLambda$(java.lang.invoke.SerializedLambda)java.lang.Object": {}
+        }
+      },
+      "def build_.package_$numbers$#sources$$anonfun$2$$anonfun$1(scala.collection.immutable.Seq,mill.api.TaskCtx)mill.api.daemon.Result": {
+        "call build_.package_$numbers$!sources$$anonfun$2$$anonfun$1(scala.collection.immutable.Seq,mill.api.TaskCtx)mill.api.daemon.Result": {
+          "def build_.package_$numbers$#sources$$anonfun$2()mill.api.Task$Simple": {
+            "call build_.package_$numbers$!sources$$anonfun$2()mill.api.Task$Simple": {
+              "def build_.package_$numbers$#sources()mill.api.Task$Simple": {}
+            }
+          },
+          "def build_.package_$numbers$.$deserializeLambda$(java.lang.invoke.SerializedLambda)java.lang.Object": {}
+        }
+      },
+      "def build_.package_$energyBill$#sources$$anonfun$1$$anonfun$1(scala.collection.immutable.Seq,mill.api.TaskCtx)mill.api.daemon.Result": {
+        "call build_.package_$energyBill$!sources$$anonfun$1$$anonfun$1(scala.collection.immutable.Seq,mill.api.TaskCtx)mill.api.daemon.Result": {
+          "def build_.package_$energyBill$#sources$$anonfun$1()mill.api.Task$Simple": {
+            "call build_.package_$energyBill$!sources$$anonfun$1()mill.api.Task$Simple": {
+              "def build_.package_$energyBill$#sources()mill.api.Task$Simple": {}
+            }
+          },
+          "def build_.package_$energyBill$.$deserializeLambda$(java.lang.invoke.SerializedLambda)java.lang.Object": {}
+        },
+        "external mill.javalib.JavaModule narrowed build_.package_$energyBill$": {
+          "def build_.package_$energyBill$#bspCompileClasspath(boolean)mill.api.Task": {
+            "call build_.package_$energyBill$#bspCompileClasspath(boolean)mill.api.Task": {
+              "def build_.package_$energyBill$#bspCompileClasspath(boolean)mill.api.daemon.internal.TaskApi": {}
+            }
+          },
+          "def build_.package_$energyBill$#transitiveCoursierProjects()mill.api.Task": {},
+          "def build_.package_$energyBill$#compileModuleDeps()scala.collection.immutable.Seq": {},
+          "def build_.package_$energyBill$#resolveRelativeToOut(mill.api.Task$Named,scala.Function1)mill.javalib.UnresolvedPath$DestPath": {},
+          "def build_.package_$energyBill$#runMvnDeps()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#artifactTypes()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#javadocOptions()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#resolvedRunMvnDeps()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#mvnDeps()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#mill$javalib$JavaModule$$repositoriesTaskStable$lzyINIT1()java.lang.Object": {
+            "call build_.package_$energyBill$!mill$javalib$JavaModule$$repositoriesTaskStable$lzyINIT1()java.lang.Object": {
+              "def build_.package_$energyBill$#mill$javalib$JavaModule$$repositoriesTaskStable()mill.api.Task": {}
+            }
+          },
+          "def build_.package_$energyBill$#wrappedSources()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#jvmWorker()mill.api.ModuleRef": {
+            "external mill.javalib.WithJvmWorkerModule narrowed build_.package_$energyBill$": {
+              "def build_.package_$energyBill$#mill$javalib$JavaModule$$super$jvmWorker()mill.api.ModuleRef": {},
+              "external mill.javalib.RunModule narrowed build_.package_$energyBill$": {
+                "def build_.package_$energyBill$#runBackgroundTask$default$2()mill.api.Task": {},
+                "def build_.package_$energyBill$#runLocalTask$default$2()mill.api.Task": {},
+                "def build_.package_$energyBill$#runLocalTask(mill.api.Task,mill.api.Task)mill.api.Task": {},
+                "def build_.package_$energyBill$#allForkEnv()mill.api.Task$Simple": {},
+                "def build_.package_$energyBill$#mill$javalib$JavaModule$$super$runClasspath()mill.api.Task$Simple": {},
+                "def build_.package_$energyBill$#runLocal$default$1()mill.api.Task": {},
+                "def build_.package_$energyBill$#allLocalMainClasses()mill.api.Task$Simple": {},
+                "def build_.package_$energyBill$#forkArgs()mill.api.Task$Simple": {},
+                "def build_.package_$energyBill$#runForkedTask$default$2()mill.api.Task": {},
+                "def build_.package_$energyBill$#runBackgroundLogToConsole()boolean": {},
+                "def build_.package_$energyBill$#finalMainClass()mill.api.Task$Simple": {},
+                "def build_.package_$energyBill$#mill$javalib$RunModule$$bspExt$lzyINIT1()java.lang.Object": {
+                  "call build_.package_$energyBill$!mill$javalib$RunModule$$bspExt$lzyINIT1()java.lang.Object": {
+                    "def build_.package_$energyBill$#mill$javalib$RunModule$$bspExt()mill.api.ModuleRef": {}
+                  }
+                },
+                "def build_.package_$energyBill$#runForkedTask(mill.api.Task,mill.api.Task)mill.api.Task": {},
+                "def build_.package_$energyBill$#classgraphWorkerModule()mill.api.ModuleRef": {},
+                "def build_.package_$energyBill$#forkWorkingDir()mill.api.Task$Simple": {},
+                "def build_.package_$energyBill$#run$default$1()mill.api.Task": {},
+                "def build_.package_$energyBill$#forkEnv()mill.api.Task$Simple": {},
+                "def build_.package_$energyBill$#runner()mill.api.Task": {},
+                "def build_.package_$energyBill$#runUseArgsFile()mill.api.Task$Simple": {},
+                "def build_.package_$energyBill$#mill$javalib$JavaModule$$super$localRunClasspath()mill.api.Task$Simple": {},
+                "def build_.package_$energyBill$#runBackgroundTask(mill.api.Task,mill.api.Task)mill.api.Task": {},
+                "def build_.package_$energyBill$#finalMainClassOpt()mill.api.Task$Simple": {},
+                "def build_.package_$energyBill$#bspRunModule()scala.Function0": {},
+                "def build_.package_$energyBill$#launcher0()mill.api.Task": {},
+                "def build_.package_$energyBill$#propagateEnv()mill.api.Task$Simple": {},
+                "def build_.package_$energyBill$#javaHomePathForkEnv()mill.api.Task$Simple": {}
+              }
+            },
+            "external mill.javalib.SemanticDbJavaModule narrowed build_.package_$energyBill$": {
+              "def build_.package_$energyBill$#semanticDbEnablePluginScalacOptions()mill.api.Task$Simple": {},
+              "def build_.package_$energyBill$#compiledClassesAndSemanticDbFiles()mill.api.Task$Simple": {},
+              "def build_.package_$energyBill$#semanticDbPluginMvnDeps()mill.api.Task$Simple": {},
+              "def build_.package_$energyBill$#upstreamSemanticDbDatas()mill.api.Task": {},
+              "def build_.package_$energyBill$#compileFor(mill.javalib.CompileFor)mill.api.Task": {},
+              "def build_.package_$energyBill$#semanticDbJavaVersion()mill.api.Task$Simple": {},
+              "def build_.package_$energyBill$#semanticDbVersion()mill.api.Task$Simple": {},
+              "def build_.package_$energyBill$#resolvedSemanticDbJavaPluginMvnDeps()mill.api.Task$Simple": {},
+              "def build_.package_$energyBill$#bspBuildTargetCompileSemanticDb()mill.api.daemon.internal.TaskApi": {
+                "external mill.api.daemon.internal.SemanticDbJavaModuleApi narrowed build_.package_$energyBill$": {}
+              },
+              "def build_.package_$energyBill$#bspCompiledClassesAndSemanticDbFiles()mill.api.Task$Simple": {
+                "call build_.package_$energyBill$#bspCompiledClassesAndSemanticDbFiles()mill.api.Task$Simple": {}
+              }
+            }
+          },
+          "def build_.package_$energyBill$#resolveRelativeToOut$default$2()scala.Function1": {},
+          "def build_.package_$energyBill$#bspJvmBuildTargetTask()mill.api.Task": {},
+          "def build_.package_$energyBill$#artifactName()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#coursierDependencyTask()mill.api.Task": {},
+          "def build_.package_$energyBill$#internalDependenciesRepository()mill.api.Task": {},
+          "def build_.package_$energyBill$#compileGeneratedSources()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#genEclipseInternal()scala.Function0": {
+            "external mill.api.daemon.internal.JavaModuleApi narrowed build_.package_$energyBill$": {
+              "external mill.api.daemon.internal.ScalaModuleApi narrowed build_.package_$energyBill$": {}
+            }
+          },
+          "def build_.package_$energyBill$#sanitizeUri(mill.api.PathRef)java.lang.String": {},
+          "def build_.package_$energyBill$#jar()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#runModuleDeps()scala.collection.immutable.Seq": {},
+          "def build_.package_$energyBill$#transitiveCompileClasspathTask(mill.javalib.CompileFor)mill.api.Task": {},
+          "def build_.package_$energyBill$#resolvedMvnSources()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#unmanagedClasspathExistenceCheck()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#resolvedDepsWarnNonPlatform()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#docResources()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#allBomDeps()mill.api.Task": {},
+          "def build_.package_$energyBill$#upstreamAssemblyClasspath()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#bspLocalClasspath(boolean)mill.api.Task": {},
+          "def build_.package_$energyBill$#annotationProcessorsMvnDeps()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#mill$scalalib$ScalaModule$$super$mandatoryMvnDeps()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#docJarUseArgsFile()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#transitiveJars()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#localCompileClasspath()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#compileClassesPath()mill.javalib.UnresolvedPath$DestPath": {},
+          "def build_.package_$energyBill$#allMvnDeps()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#sourceJar()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#showModuleDeps$default$1()boolean": {},
+          "def build_.package_$energyBill$#resources()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#mandatoryJavacOptions()mill.api.Task$Simple": {
+            "call build_.package_$energyBill$#mandatoryJavacOptions()mill.api.Task$Simple": {}
+          },
+          "def build_.package_$energyBill$#resolvedMvnDeps0(boolean)mill.api.Task": {},
+          "def build_.package_$energyBill$#compileClasspathTask(mill.javalib.CompileFor)mill.api.Task": {},
+          "def build_.package_$energyBill$#mill$javalib$JavaModule$$recCompileModuleDeps$lzyINIT1()java.lang.Object": {
+            "call build_.package_$energyBill$!mill$javalib$JavaModule$$recCompileModuleDeps$lzyINIT1()java.lang.Object": {
+              "def build_.package_$energyBill$#mill$javalib$JavaModule$$recCompileModuleDeps()scala.collection.immutable.Seq": {}
+            }
+          },
+          "def build_.package_$energyBill$#coursierDependency()coursier.core.Dependency": {},
+          "def build_.package_$energyBill$#transitiveModuleRunModuleDeps()scala.collection.immutable.Seq": {},
+          "def build_.package_$energyBill$#bspBuildTargetCompile(boolean)mill.api.Task": {
+            "call build_.package_$energyBill$#bspBuildTargetCompile(boolean)mill.api.Task": {
+              "def build_.package_$energyBill$#bspBuildTargetCompile(boolean)mill.api.daemon.internal.TaskApi": {}
+            }
+          },
+          "def build_.package_$energyBill$#jvmOptions()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#genEclipseInternalExt$lzyINIT1()java.lang.Object": {
+            "call build_.package_$energyBill$!genEclipseInternalExt$lzyINIT1()java.lang.Object": {
+              "def build_.package_$energyBill$#genEclipseInternalExt()mill.api.ModuleRef": {}
+            }
+          },
+          "def build_.package_$energyBill$#showMvnDepsTree$default$1()mill.javalib.MvnDepsTreeArgs": {},
+          "def build_.package_$energyBill$#launcher()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#transitiveModuleDeps()scala.collection.immutable.Seq": {},
+          "def build_.package_$energyBill$#bspJavaModule()scala.Function0": {},
+          "def build_.package_$energyBill$#transitiveCompileClasspath()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#processedDependencyManagement(scala.collection.immutable.Seq)scala.collection.immutable.Seq": {},
+          "def build_.package_$energyBill$#bspCompileClassesPath(boolean)mill.api.Task": {
+            "call build_.package_$energyBill$#bspCompileClassesPath(boolean)mill.api.Task": {
+              "def build_.package_$energyBill$#bspCompileClassesPath(boolean)mill.api.daemon.internal.TaskApi": {}
+            }
+          },
+          "def build_.package_$energyBill$#mill$scalalib$ScalaModule$$super$bspBuildTarget()mill.api.daemon.internal.bsp.BspBuildTarget": {},
+          "def build_.package_$energyBill$#assemblyRules()scala.collection.immutable.Seq": {
+            "external mill.javalib.AssemblyModule narrowed build_.package_$energyBill$": {
+              "def build_.package_$energyBill$#mill$scalalib$ScalaModule$$super$manifest()mill.api.Task$Simple": {},
+              "def build_.package_$energyBill$#forkCmdArgs()mill.api.Task$Simple": {},
+              "def build_.package_$energyBill$#assemblyRules0()scala.collection.immutable.Seq": {},
+              "def build_.package_$energyBill$#forkShellArgs()mill.api.Task$Simple": {},
+              "def build_.package_$energyBill$#manifest0()mill.api.Task$Simple": {},
+              "def build_.package_$energyBill$#resolvedIvyAssembly()mill.api.Task$Simple": {},
+              "def build_.package_$energyBill$#assembly()mill.api.Task$Simple": {},
+              "def build_.package_$energyBill$#upstreamAssembly()mill.api.Task$Simple": {},
+              "def build_.package_$energyBill$#prependShellScript0()mill.api.Task$Simple": {},
+              "def build_.package_$energyBill$#prependShellScript()mill.api.Task$Simple": {}
+            }
+          },
+          "def build_.package_$energyBill$#compileMvnDeps()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#moduleDeps()scala.collection.immutable.Seq": {},
+          "def build_.package_$energyBill$#transitiveModuleCompileModuleDeps()scala.collection.immutable.Seq": {},
+          "def build_.package_$energyBill$#localRunClasspath()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#runModuleDepsChecked()scala.collection.immutable.Seq": {},
+          "def build_.package_$energyBill$#sourcesFolders()scala.collection.immutable.Seq": {},
+          "def build_.package_$energyBill$#coursierProject0()mill.api.Task": {},
+          "def build_.package_$energyBill$#compileModuleDepsChecked()scala.collection.immutable.Seq": {},
+          "def build_.package_$energyBill$#upstreamIvyAssemblyClasspath()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#recursiveModuleDeps()scala.collection.immutable.Seq": {},
+          "def build_.package_$energyBill$#localClasspath()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#coursierProject()mill.api.Task": {},
+          "def build_.package_$energyBill$#generatedSources()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#artifactNameParts()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#mill$javalib$JavaModule$$recModuleDeps$lzyINIT1()java.lang.Object": {
+            "call build_.package_$energyBill$!mill$javalib$JavaModule$$recModuleDeps$lzyINIT1()java.lang.Object": {
+              "def build_.package_$energyBill$#mill$javalib$JavaModule$$recModuleDeps()scala.collection.immutable.Seq": {}
+            }
+          },
+          "def build_.package_$energyBill$#bspTransitiveCompileClasspath(boolean)mill.api.Task": {},
+          "def build_.package_$energyBill$#sanitizeUri(os.Path)java.lang.String": {},
+          "def build_.package_$energyBill$#jdkCommandsJavaHome()mill.api.Task": {
+            "external mill.util.JdkCommandsModule narrowed build_.package_$energyBill$": {}
+          },
+          "def build_.package_$energyBill$#allSources()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#sanitizeUri(java.lang.String)java.lang.String": {},
+          "def build_.package_$energyBill$#platformSuffix()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#upstreamLocalAssemblyClasspath()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#zincReportCachedProblems()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#bomMvnDeps()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#bomModuleDepsChecked()scala.collection.immutable.Seq": {},
+          "def build_.package_$energyBill$#mill$javalib$JavaModule$$recRunModuleDeps$lzyINIT1()java.lang.Object": {
+            "call build_.package_$energyBill$!mill$javalib$JavaModule$$recRunModuleDeps$lzyINIT1()java.lang.Object": {
+              "def build_.package_$energyBill$#mill$javalib$JavaModule$$recRunModuleDeps()scala.collection.immutable.Seq": {}
+            }
+          },
+          "def build_.package_$energyBill$#bspBuildTargetCompileMerged()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#compileClasspath()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#javadocGenerated()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#runClasspath()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#genIdeaInternal()scala.Function0": {},
+          "def build_.package_$energyBill$#unmanagedClasspath()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#mill$scalalib$ScalaModule$$super$zincAuxiliaryClassFileExtensions()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#moduleDepsChecked()scala.collection.immutable.Seq": {},
+          "def build_.package_$energyBill$#internalRepositories()mill.api.Task": {
+            "external mill.javalib.CoursierModule narrowed build_.package_$energyBill$": {
+              "def build_.package_$energyBill$#mill$scalalib$ScalaModule$$super$mapDependencies()mill.api.Task": {},
+              "def build_.package_$energyBill$#repositoriesTask0()mill.api.Task": {},
+              "def build_.package_$energyBill$#resolutionParams()mill.api.Task": {},
+              "def build_.package_$energyBill$#resolutionCustomizer()mill.api.Task": {},
+              "def build_.package_$energyBill$#allRepositories()mill.api.Task": {},
+              "def build_.package_$energyBill$#millResolver()mill.api.Task": {},
+              "def build_.package_$energyBill$#defaultResolver()mill.api.Task": {},
+              "def build_.package_$energyBill$#coursierConfigModule()mill.api.ModuleRef": {},
+              "def build_.package_$energyBill$#repositories()mill.api.Task$Simple": {},
+              "def build_.package_$energyBill$#coursierCacheCustomizer()mill.api.Task": {},
+              "def build_.package_$energyBill$#checkGradleModules()mill.api.Task$Simple": {},
+              "external mill.javalib.JavaHomeModule narrowed build_.package_$energyBill$": {
+                "def build_.package_$energyBill$#jvmId()mill.api.Task$Simple": {},
+                "def build_.package_$energyBill$#javaHome()mill.api.Task$Simple": {},
+                "def build_.package_$energyBill$#useShortJvmPath(java.lang.String)boolean": {},
+                "def build_.package_$energyBill$#jvmVersion()mill.api.Task$Simple": {},
+                "def build_.package_$energyBill$#jvmIndexVersion()mill.api.Task$Simple": {}
+              }
+            }
+          },
+          "def build_.package_$energyBill$#annotationProcessorsJavacOptions()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#transitiveRunModuleDeps()scala.collection.immutable.Seq": {},
+          "def build_.package_$energyBill$#recursiveRunModuleDeps()scala.collection.immutable.Seq": {},
+          "def build_.package_$energyBill$#repositoriesTask()mill.api.Task": {},
+          "def build_.package_$energyBill$#compileResources()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#bspLocalRunClasspath(boolean)mill.api.Task": {},
+          "def build_.package_$energyBill$#defaultTask()java.lang.String": {
+            "def build_.package_$energyBill$#<init>(build_.package_)void": {
+              "call build_.package_$energyBill$!<init>(build_.package_)void": {
+                "def build_.package_#energyBill$lzyINIT1()java.lang.Object": {
+                  "call build_.package_!energyBill$lzyINIT1()java.lang.Object": {
+                    "def build_.package_#energyBill()build_.package_$energyBill$": {}
+                  }
+                }
+              }
+            }
+          },
+          "def build_.package_$energyBill$#zincIncrementalCompilation()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#javacOptions()mill.api.Task$Simple": {
+            "call build_.package_$energyBill$#javacOptions()mill.api.Task$Simple": {}
+          },
+          "def build_.package_$energyBill$#upstreamCompileOutput()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#annotationProcessorsResolvedMvnDeps()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#bomModuleDeps()scala.collection.immutable.Seq": {},
+          "def build_.package_$energyBill$#transitiveLocalClasspath()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#javaCompilerRuntimeOptions()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#depManagement()mill.api.Task$Simple": {},
+          "def build_.package_$energyBill$#mvnDepsTree(mill.javalib.MvnDepsTreeArgs)mill.api.Task": {},
+          "def build_.package_$energyBill$#mill$javalib$JavaModule$$recBomModuleDeps$lzyINIT1()java.lang.Object": {
+            "call build_.package_$energyBill$!mill$javalib$JavaModule$$recBomModuleDeps$lzyINIT1()java.lang.Object": {
+              "def build_.package_$energyBill$#mill$javalib$JavaModule$$recBomModuleDeps()scala.collection.immutable.Seq": {}
+            }
+          },
+          "external mill.scalalib.ScalaModule narrowed build_.package_$energyBill$": {
+            "def build_.package_$energyBill$#actualResolutionParamsOverride(coursier.params.ResolutionParams)mill.api.Task": {},
+            "def build_.package_$energyBill$#scalacPluginClasspath()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#scalaDocGenerated()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#scalaConsoleClasspath()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#bspExt$lzyINIT1()java.lang.Object": {
+              "call build_.package_$energyBill$!bspExt$lzyINIT1()java.lang.Object": {
+                "def build_.package_$energyBill$#bspExt()mill.api.ModuleRef": {}
+              }
+            },
+            "def build_.package_$energyBill$#scalaDocPluginClasspath()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#scalaCompilerBridge()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#manifest()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#crossFullScalaVersion()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#compile()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#bspBuildTarget()mill.api.daemon.internal.bsp.BspBuildTarget": {
+              "external mill.api.daemon.internal.bsp.BspModuleApi narrowed build_.package_$energyBill$": {
+                "def build_.package_$energyBill$#enableBsp()boolean": {}
+              },
+              "external mill.javalib.bsp.BspModule narrowed build_.package_$energyBill$": {
+                "def build_.package_$energyBill$#bspDisplayName()java.lang.String": {},
+                "def build_.package_$energyBill$#mill$javalib$JavaModule$$super$bspBuildTarget()mill.api.daemon.internal.bsp.BspBuildTarget": {},
+                "def build_.package_$energyBill$#bspDisplayName0()java.lang.String": {},
+                "def build_.package_$energyBill$#isScript()boolean": {},
+                "external mill.javalib.TestModule$JavaModuleBase narrowed build_.package_$energyBill$": {}
+              }
+            },
+            "def build_.package_$energyBill$#semanticDbDataDetailed()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#resolvePublishDependency()mill.api.Task": {},
+            "def build_.package_$energyBill$#genIdeaInternalExt$lzyINIT1()java.lang.Object": {
+              "call build_.package_$energyBill$!genIdeaInternalExt$lzyINIT1()java.lang.Object": {
+                "def build_.package_$energyBill$#genIdeaInternalExt()mill.api.ModuleRef": {}
+              }
+            },
+            "def build_.package_$energyBill$#semanticDbData()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#bindDependency()mill.api.Task": {},
+            "def build_.package_$energyBill$#artifactId()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#scalacOptions()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#ammoniteRepl()boolean": {},
+            "def build_.package_$energyBill$#mandatoryScalacOptions()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#consoleScalacOptions()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#resolvedMvnDeps()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#semanticDbScalaVersion()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#artifactSuffix()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#scalaOrganization()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#allScalacOptions()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#semanticDbPluginClasspath()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#mapDependencies()mill.api.Task": {},
+            "def build_.package_$energyBill$#docSources()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#artifactScalaVersion()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#console$default$1()mill.api.Args": {},
+            "def build_.package_$energyBill$#ammoniteVersion()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#resolvedAmmoniteReplMvnDeps()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#mandatoryMvnDeps()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#ammoniteMainClass()mill.api.Task": {},
+            "def build_.package_$energyBill$#bspBuildTargetData()mill.api.Task": {
+              "call build_.package_$energyBill$#bspBuildTargetData()mill.api.Task": {
+                "def build_.package_$energyBill$#bspBuildTargetData()mill.api.daemon.internal.TaskApi": {}
+              }
+            },
+            "def build_.package_$energyBill$#ammoniteReplClasspath()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#scalaLibraryMvnDeps()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#docJar()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#zincAuxiliaryClassFileExtensions()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#compileTask()mill.api.Task": {},
+            "def build_.package_$energyBill$#scalaDocPluginMvnDeps()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#scalacPluginMvnDeps()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#allSourceFiles()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#scalaDocOptions()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#scalaCompilerClasspath()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#scalaDocClasspath()mill.api.Task$Simple": {},
+            "def build_.package_$energyBill$#sourceFileExtensions()scala.collection.immutable.Seq": {}
+          }
+        }
+      },
+      "def build_.package_$grades$#sources$$anonfun$3$$anonfun$1(scala.collection.immutable.Seq,mill.api.TaskCtx)mill.api.daemon.Result": {
+        "call build_.package_$grades$!sources$$anonfun$3$$anonfun$1(scala.collection.immutable.Seq,mill.api.TaskCtx)mill.api.daemon.Result": {
+          "def build_.package_$grades$#sources$$anonfun$3()mill.api.Task$Simple": {
+            "call build_.package_$grades$!sources$$anonfun$3()mill.api.Task$Simple": {
+              "def build_.package_$grades$#sources()mill.api.Task$Simple": {}
+            }
+          },
+          "def build_.package_$grades$.$deserializeLambda$(java.lang.invoke.SerializedLambda)java.lang.Object": {}
+        }
+      }
+    }
+  },
+  "def build_.package_$eventinvitation$#resolvedDepsWarnNonPlatform()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#unmanagedClasspath()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#genEclipseInternal()scala.Function0": {},
+  "def build_.package_$eventinvitation$#unmanagedClasspathExistenceCheck()mill.api.Task$Simple": {},
+  "def build_.package_$#func$21()mill.api.Discover$ClassInfo": {
+    "call build_.package_$!func$21()mill.api.Discover$ClassInfo": {}
+  },
+  "def build_.package_$eventinvitation$#semanticDbScalaVersion()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#runLocal(mill.api.Task)mill.api.Task$Command": {
+    "call mill.javalib.RunModule#runLocal(mill.api.Task)mill.api.Task$Command": {}
+  },
+  "def build_.package_$eventinvitation$#javap(scala.collection.immutable.Seq)mill.api.Task$Command": {
+    "call mill.util.JdkCommandsModule#javap(scala.collection.immutable.Seq)mill.api.Task$Command": {}
+  },
+  "def build_.package_$eventinvitation$#mainClass$$anonfun$5()mill.api.Task$Simple": {
+    "call build_.package_$eventinvitation$!mainClass$$anonfun$5()mill.api.Task$Simple": {}
+  },
+  "def build_.package_$eventinvitation$#forkShellArgs()mill.api.Task$Simple": {},
+  "def build_.package_$.func$16$$anonfun$8(mill.javalib.RunModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$16$$anonfun$8(mill.javalib.RunModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$.func$20$$anonfun$1(mill.scalalib.ScalaModule)mill.api.Args": {
+    "call build_.package_$.func$20$$anonfun$1(mill.scalalib.ScalaModule)mill.api.Args": {}
+  },
+  "def build_.package_$eventinvitation$#moduleInternal$lzyINIT5()java.lang.Object": {
+    "call build_.package_$eventinvitation$!moduleInternal$lzyINIT5()java.lang.Object": {}
+  },
+  "def build_.package_$.func$22$$anonfun$13(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$22$$anonfun$13(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$.func$24$$anonfun$5(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$24$$anonfun$5(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#forkCmdArgs()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#semanticDbDataDetailed()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#scalaDocOptions()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#internalDependenciesRepository()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#javacOptions()mill.api.daemon.internal.TaskApi": {
+    "external mill.api.daemon.internal.JavaModuleApi narrowed mill.scalalib.ScalaModule": {
+      "external mill.api.daemon.internal.ScalaModuleApi narrowed mill.scalalib.ScalaModule": {}
+    },
+    "external mill.api.daemon.internal.JavaModuleApi narrowed build_.package_$eventinvitation$": {
+      "external mill.api.daemon.internal.ScalaModuleApi narrowed build_.package_$eventinvitation$": {}
+    },
+    "external mill.api.daemon.internal.JavaModuleApi narrowed mill.javalib.JavaModule": {}
+  },
+  "def build_.package_$#func$16()mill.api.Discover$ClassInfo": {
+    "call build_.package_$!func$16()mill.api.Discover$ClassInfo": {}
+  },
+  "def build_.package_$eventinvitation$#docSources()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#moduleDirectChildren()scala.collection.immutable.Seq": {
+    "external mill.api.daemon.internal.ModuleApi narrowed mill.javalib.JavaModule": {
+      "external mill.api.daemon.internal.RunModuleApi narrowed mill.javalib.JavaModule": {}
+    },
+    "external mill.api.daemon.internal.ModuleApi narrowed mill.util.JdkCommandsModule": {},
+    "external mill.api.Module narrowed build_.package_$eventinvitation$": {
+      "external mill.javalib.TestModule$ScalaModuleBase narrowed build_.package_$eventinvitation$": {},
+      "external mill.api.DefaultTaskModule narrowed build_.package_$eventinvitation$": {},
+      "external mill.javalib.OfflineSupportModule narrowed build_.package_$eventinvitation$": {}
+    },
+    "external mill.api.daemon.internal.ModuleApi narrowed mill.javalib.AssemblyModule": {},
+    "external mill.api.Module narrowed mill.scalalib.ScalaModule": {
+      "external mill.api.DefaultTaskModule narrowed mill.scalalib.ScalaModule": {},
+      "external mill.javalib.OfflineSupportModule narrowed mill.scalalib.ScalaModule": {},
+      "external mill.javalib.TestModule$ScalaModuleBase narrowed mill.scalalib.ScalaModule": {}
+    },
+    "external mill.api.Module narrowed mill.javalib.AssemblyModule": {
+      "external mill.javalib.OfflineSupportModule narrowed mill.javalib.AssemblyModule": {}
+    },
+    "external mill.api.Module narrowed mill.javalib.OfflineSupportModule": {
+      "external mill.javalib.OfflineSupportModule": {}
+    },
+    "external mill.api.Module narrowed mill.javalib.RunModule": {},
+    "external mill.api.Module narrowed mill.javalib.JavaModule": {
+      "external mill.api.DefaultTaskModule narrowed mill.javalib.JavaModule": {},
+      "external mill.javalib.OfflineSupportModule narrowed mill.javalib.JavaModule": {}
+    },
+    "external mill.api.daemon.internal.ModuleApi narrowed mill.scalalib.ScalaModule": {
+      "external mill.api.daemon.internal.RunModuleApi narrowed mill.scalalib.ScalaModule": {}
+    },
+    "external mill.api.daemon.internal.ModuleApi narrowed mill.javalib.OfflineSupportModule": {},
+    "external mill.api.daemon.internal.ModuleApi narrowed mill.javalib.RunModule": {
+      "external mill.api.daemon.internal.RunModuleApi narrowed mill.javalib.RunModule": {}
+    },
+    "external mill.api.Module narrowed mill.util.JdkCommandsModule": {},
+    "external mill.api.daemon.internal.ModuleApi narrowed build_.package_$eventinvitation$": {
+      "external mill.api.daemon.internal.RunModuleApi narrowed build_.package_$eventinvitation$": {}
+    }
+  },
+  "def build_.package_$#func$9()mill.api.Discover$ClassInfo": {
+    "call build_.package_$!func$9()mill.api.Discover$ClassInfo": {}
+  },
+  "def build_.package_$.func$14$$anonfun$3(mill.javalib.JavaModule)boolean": {
+    "call build_.package_$.func$14$$anonfun$3(mill.javalib.JavaModule)boolean": {}
+  },
+  "def build_.package_$eventinvitation$#resolvedIvyAssembly()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#compile()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#sourceJar()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#semanticDbPluginMvnDeps()mill.api.Task$Simple": {},
+  "def build_.package_$.func$16$$anonfun$7(mill.javalib.RunModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$16$$anonfun$7(mill.javalib.RunModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$.func$16$$anonfun$4(mill.javalib.RunModule)mill.api.Task": {
+    "call build_.package_$.func$16$$anonfun$4(mill.javalib.RunModule)mill.api.Task": {}
+  },
+  "def build_.package_$eventinvitation$#bspCompileClassesPath(boolean)mill.api.daemon.internal.TaskApi": {},
+  "def build_.package_$.func$22$$anonfun$11(mill.util.MainModule)java.lang.String": {
+    "call build_.package_$.func$22$$anonfun$11(mill.util.MainModule)java.lang.String": {}
+  },
+  "def build_.package_$eventinvitation$#repositories()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#millResolver()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#semanticDbEnablePluginScalacOptions()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#bspBuildTargetCompileMerged()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$.<clinit>()void": {
+    "call build_.package_$eventinvitation$.<clinit>()void": {}
+  },
+  "def build_.package_$eventinvitation$#runBackground(mill.api.Task)mill.api.Task$Command": {
+    "call mill.javalib.RunModule#runBackground(mill.api.Task)mill.api.Task$Command": {}
+  },
+  "def build_.package_$.func$20$$anonfun$2(mill.scalalib.ScalaModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$20$$anonfun$2(mill.scalalib.ScalaModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$.func$16$$anonfun$5(mill.javalib.RunModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$16$$anonfun$5(mill.javalib.RunModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$.func$23$$anonfun$1(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$23$$anonfun$1(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#upstreamAssembly()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#compileClasspath()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#sourcesFolders()scala.collection.immutable.Seq": {},
+  "def build_.package_$eventinvitation$#ideaConfigFiles(int)mill.api.Task": {},
+  "def build_.package_$eventinvitation$#configBomModuleDeps()scala.collection.immutable.Map": {},
+  "def build_.package_$eventinvitation$#mill$javalib$JavaModule$$recBomModuleDeps$lzyINIT5()java.lang.Object": {
+    "call build_.package_$eventinvitation$!mill$javalib$JavaModule$$recBomModuleDeps$lzyINIT5()java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#bspBuildTargetCompile(boolean)mill.api.daemon.internal.TaskApi": {},
+  "def build_.package_$eventinvitation$#bspBuildTargetCompile(boolean)mill.api.Task": {
+    "call build_.package_$eventinvitation$#bspBuildTargetCompile(boolean)mill.api.Task": {}
+  },
+  "def build_.package_$eventinvitation$#genEclipseInternalExt$lzyINIT5()java.lang.Object": {
+    "call build_.package_$eventinvitation$!genEclipseInternalExt$lzyINIT5()java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#jfr(scala.collection.immutable.Seq)mill.api.Task$Command": {
+    "call mill.util.JdkCommandsModule#jfr(scala.collection.immutable.Seq)mill.api.Task$Command": {}
+  },
+  "def build_.package_$eventinvitation$#jvmIndexVersion()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#recursiveModuleDeps()scala.collection.immutable.Seq": {},
+  "def build_.package_$eventinvitation$#allBomDeps()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#showModuleDeps(boolean)mill.api.Task$Command": {
+    "call mill.javalib.JavaModule#showModuleDeps(boolean)mill.api.Task$Command": {}
+  },
+  "def build_.package_$.func$22$$anonfun$2(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$22$$anonfun$2(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$#func$24()mill.api.Discover$ClassInfo": {
+    "call build_.package_$!func$24()mill.api.Discover$ClassInfo": {}
+  },
+  "def build_.package_$.func$22$$anonfun$4(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$22$$anonfun$4(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#scalaConsoleClasspath()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#isScript()boolean": {},
+  "def build_.package_$eventinvitation$#scalaDocPluginClasspath()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#annotationProcessorsJavacOptions()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#classgraphWorkerModule()mill.api.ModuleRef": {},
+  "def build_.package_$eventinvitation$#transitiveCoursierProjects()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#prependShellScript0()mill.api.Task$Simple": {},
+  "def build_.package_$.func$21$$anonfun$5(mill.util.JdkCommandsModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$21$$anonfun$5(mill.util.JdkCommandsModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$#func$15()mill.api.Discover$ClassInfo": {
+    "call build_.package_$!func$15()mill.api.Discover$ClassInfo": {}
+  },
+  "def build_.package_$eventinvitation$#allMvnDeps()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#compiledClassesAndSemanticDbFiles()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#bindDependency()mill.api.Task": {
+    "external mill.javalib.CoursierModule narrowed build_.package_$eventinvitation$": {},
+    "external mill.javalib.CoursierModule narrowed mill.javalib.JavaModule": {},
+    "external mill.javalib.CoursierModule narrowed mill.scalalib.ScalaModule": {},
+    "external mill.javalib.CoursierModule narrowed mill.javalib.RunModule": {}
+  },
+  "def build_.package_$eventinvitation$#finalMainClassOpt()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#javaCompilerRuntimeOptions()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#scalaDocPluginMvnDeps()mill.api.Task$Simple": {},
+  "def build_.package_$.func$14$$anonfun$6(mill.javalib.JavaModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$14$$anonfun$6(mill.javalib.JavaModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#forkArgs()mill.api.Task$Simple": {},
+  "def build_.package_$.func$14$$anonfun$4(mill.javalib.JavaModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$14$$anonfun$4(mill.javalib.JavaModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#artifactScalaVersion()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#semanticDbJavaVersion()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#transitiveJars()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#localRunClasspath()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#runLocalTask(mill.api.Task,mill.api.Task)mill.api.Task": {},
+  "def build_.package_$eventinvitation$#jvmVersion()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#compileFor(mill.javalib.CompileFor)mill.api.Task": {
+    "external mill.javalib.SemanticDbJavaModule narrowed mill.javalib.JavaModule": {},
+    "external mill.javalib.SemanticDbJavaModule narrowed build_.package_$eventinvitation$": {},
+    "external mill.javalib.SemanticDbJavaModule narrowed mill.scalalib.ScalaModule": {}
+  },
+  "def build_.package_$.func$14$$anonfun$1(mill.javalib.JavaModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$14$$anonfun$1(mill.javalib.JavaModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#moduleDepsChecked()scala.collection.immutable.Seq": {},
+  "def build_.package_$eventinvitation$#upstreamCompileOutput()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#moduleInternal()mill.api.Module$moduleInternal$": {},
+  "def build_.package_$.func$22$$anonfun$12(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$22$$anonfun$12(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#mill$api$Module$$millModuleDirectChildrenImpl$lzyINIT5()java.lang.Object": {
+    "call build_.package_$eventinvitation$!mill$api$Module$$millModuleDirectChildrenImpl$lzyINIT5()java.lang.Object": {}
+  },
+  "def build_.package_$.func$20$$anonfun$3(mill.scalalib.ScalaModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$20$$anonfun$3(mill.scalalib.ScalaModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#moduleNestedCtx()mill.api.ModuleCtx$Nested": {
+    "call build_.package_$eventinvitation$#moduleNestedCtx()mill.api.ModuleCtx$Nested": {}
+  },
+  "def build_.package_$eventinvitation$#sources$$anonfun$5$$anonfun$1(scala.collection.immutable.Seq,mill.api.TaskCtx)mill.api.daemon.Result": {
+    "call build_.package_$eventinvitation$!sources$$anonfun$5$$anonfun$1(scala.collection.immutable.Seq,mill.api.TaskCtx)mill.api.daemon.Result": {}
+  },
+  "def build_.package_$eventinvitation$#jvmOptions()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#bspCompileClasspath(boolean)mill.api.daemon.internal.TaskApi": {},
+  "def build_.package_$#func$17()mill.api.Discover$ClassInfo": {
+    "call build_.package_$!func$17()mill.api.Discover$ClassInfo": {}
+  },
+  "def build_.package_$eventinvitation$#jps(scala.collection.immutable.Seq)mill.api.Task$Command": {
+    "call mill.util.JdkCommandsModule#jps(scala.collection.immutable.Seq)mill.api.Task$Command": {}
+  },
+  "def build_.package_$eventinvitation$#upstreamAssemblyClasspath()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#mandatoryMvnDeps()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#resolutionParams()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#runner()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#sources()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#mvnDeps()mill.api.Task$Simple": {},
+  "def build_.package_$.func$22$$anonfun$9(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$22$$anonfun$9(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#mill$scalalib$ScalaModule$$super$mapDependencies()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#compileModuleDepsChecked()scala.collection.immutable.Seq": {},
+  "def build_.package_$.func$22$$anonfun$8(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$22$$anonfun$8(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#bomModuleDepsChecked()scala.collection.immutable.Seq": {},
+  "def build_.package_$eventinvitation$#mandatoryJavacOptions()mill.api.Task$Simple": {
+    "call build_.package_$eventinvitation$#mandatoryJavacOptions()mill.api.Task$Simple": {}
+  },
+  "def build_.package_$eventinvitation$#repositoriesTask0()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#resolutionCustomizer()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#mill$javalib$JavaModule$$recCompileModuleDeps$lzyINIT5()java.lang.Object": {
+    "call build_.package_$eventinvitation$!mill$javalib$JavaModule$$recCompileModuleDeps$lzyINIT5()java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#moduleDeps()scala.collection.immutable.Seq": {},
+  "def build_.package_$eventinvitation$#runBackgroundTask(mill.api.Task,mill.api.Task)mill.api.Task": {},
+  "def build_.package_$eventinvitation$#resolveRelativeToOut$default$2()scala.Function1": {},
+  "def build_.package_$eventinvitation$#bspLocalRunClasspath(boolean)mill.api.Task": {},
+  "def build_.package_$eventinvitation$#resolvedMvnSources()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#mill$api$Module$_setter_$moduleLinearized_$eq(scala.collection.immutable.Seq)void": {},
+  "def build_.package_$eventinvitation$#transitiveModuleRunModuleDeps()scala.collection.immutable.Seq": {},
+  "def build_.package_$.func$21$$anonfun$3(mill.util.JdkCommandsModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$21$$anonfun$3(mill.util.JdkCommandsModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#allSources()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#allRepositories()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#bomMvnDeps()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#javadocOptions()mill.api.Task$Simple": {},
+  "def build_.package_$.func$24$$anonfun$3(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$24$$anonfun$3(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#propagateEnv()mill.api.Task$Simple": {},
+  "def build_.package_$.func$24$$anonfun$2(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$24$$anonfun$2(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#zincReportCachedProblems()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#prependShellScript()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#scalacHelp(scala.collection.immutable.Seq)mill.api.Task$Command": {
+    "call mill.scalalib.ScalaModule#scalacHelp(scala.collection.immutable.Seq)mill.api.Task$Command": {}
+  },
+  "def build_.package_$eventinvitation$#launcher()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#bspBuildTarget()mill.api.daemon.internal.bsp.BspBuildTarget": {
+    "external mill.javalib.bsp.BspModule narrowed mill.javalib.JavaModule": {
+      "external mill.javalib.TestModule$JavaModuleBase narrowed mill.javalib.JavaModule": {}
+    },
+    "external mill.javalib.bsp.BspModule narrowed mill.scalalib.ScalaModule": {
+      "external mill.javalib.TestModule$JavaModuleBase narrowed mill.scalalib.ScalaModule": {}
+    },
+    "external mill.api.daemon.internal.bsp.BspModuleApi narrowed mill.scalalib.ScalaModule": {},
+    "external mill.api.daemon.internal.bsp.BspModuleApi narrowed build_.package_$eventinvitation$": {},
+    "external mill.api.daemon.internal.bsp.BspModuleApi narrowed mill.javalib.JavaModule": {},
+    "external mill.javalib.bsp.BspModule narrowed build_.package_$eventinvitation$": {
+      "external mill.javalib.TestModule$JavaModuleBase narrowed build_.package_$eventinvitation$": {}
+    }
+  },
+  "def build_.package_$.func$16$$anonfun$6(mill.javalib.RunModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$16$$anonfun$6(mill.javalib.RunModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#mill$javalib$JavaModule$$recModuleDeps()scala.collection.immutable.Seq": {},
+  "def build_.package_$eventinvitation$#sourceFileExtensions()scala.collection.immutable.Seq": {},
+  "def build_.package_$.func$20$$anonfun$4(mill.scalalib.ScalaModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$20$$anonfun$4(mill.scalalib.ScalaModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#bspBuildTargetCompileSemanticDb()mill.api.daemon.internal.TaskApi": {
+    "external mill.api.daemon.internal.SemanticDbJavaModuleApi narrowed build_.package_$eventinvitation$": {},
+    "external mill.api.daemon.internal.SemanticDbJavaModuleApi narrowed mill.scalalib.ScalaModule": {},
+    "external mill.api.daemon.internal.SemanticDbJavaModuleApi narrowed mill.javalib.JavaModule": {}
+  },
+  "def build_.package_$.func$20$$anonfun$5(mill.scalalib.ScalaModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$20$$anonfun$5(mill.scalalib.ScalaModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#sanitizeUri(mill.api.PathRef)java.lang.String": {},
+  "def build_.package_$eventinvitation$#coursierProject0()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#runLocalTask$default$2()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#jshell(scala.collection.immutable.Seq)mill.api.Task$Command": {
+    "call mill.javalib.JavaModule#jshell(scala.collection.immutable.Seq)mill.api.Task$Command": {}
+  },
+  "def build_.package_$.func$23$$anonfun$6(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$23$$anonfun$6(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#runLocal$default$1()mill.api.Task": {
+    "call mill.javalib.RunModule#runLocal$default$1()mill.api.Task": {}
+  },
+  "def build_.package_$eventinvitation$#mill$javalib$AssemblyModule$$super$prepareOffline(mainargs.Flag)mill.api.Task$Command": {},
+  "def build_.package_$eventinvitation$#genEclipseInternalExt()mill.api.ModuleRef": {},
+  "def build_.package_$eventinvitation$#manifest()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#bspCompiledClassesAndSemanticDbFiles()mill.api.daemon.internal.TaskApi": {},
+  "def build_.package_$eventinvitation$#defaultResolver()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#bspCompiledClassesAndSemanticDbFiles()mill.api.Task$Simple": {
+    "call build_.package_$eventinvitation$#bspCompiledClassesAndSemanticDbFiles()mill.api.Task$Simple": {}
+  },
+  "def build_.package_$eventinvitation$#coursierConfigModule()mill.api.ModuleRef": {},
+  "def build_.package_$eventinvitation$#scalacOptions()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#coursierDependency()coursier.core.Dependency": {},
+  "def build_.package_$eventinvitation$#manifest0()mill.api.Task$Simple": {},
+  "def build_.package_$.func$22$$anonfun$7(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$22$$anonfun$7(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_.build_$package_$eventinvitation$$$_$mainClass$$anonfun$5$$anonfun$1(scala.collection.immutable.Seq,mill.api.TaskCtx)mill.api.daemon.Result": {
+    "call build_.package_.build_$package_$eventinvitation$$$_$mainClass$$anonfun$5$$anonfun$1(scala.collection.immutable.Seq,mill.api.TaskCtx)mill.api.daemon.Result": {}
+  },
+  "def build_.package_$eventinvitation$#runMain(java.lang.String,scala.collection.immutable.Seq)mill.api.Task$Command": {
+    "call mill.javalib.RunModule#runMain(java.lang.String,scala.collection.immutable.Seq)mill.api.Task$Command": {}
+  },
+  "def build_.package_$eventinvitation$#resources()mill.api.Task$Simple": {},
+  "def build_.package_$.func$14$$anonfun$5(mill.javalib.JavaModule)mill.javalib.MvnDepsTreeArgs": {
+    "call build_.package_$.func$14$$anonfun$5(mill.javalib.JavaModule)mill.javalib.MvnDepsTreeArgs": {}
+  },
+  "def build_.package_$eventinvitation$#mandatoryJavacOptions()mill.api.daemon.internal.TaskApi": {},
+  "def build_.package_$eventinvitation$#ammoniteRepl()boolean": {},
+  "def build_.package_$eventinvitation$#configRunModuleDeps()scala.collection.immutable.Map": {
+    "external mill.api.ConfigModuleDepsModule narrowed mill.javalib.JavaModule": {},
+    "external mill.api.ConfigModuleDepsModule narrowed mill.scalalib.ScalaModule": {},
+    "external mill.api.ConfigModuleDepsModule narrowed build_.package_$eventinvitation$": {}
+  },
+  "def build_.package_$eventinvitation$#jstack(scala.collection.immutable.Seq)mill.api.Task$Command": {
+    "call mill.util.JdkCommandsModule#jstack(scala.collection.immutable.Seq)mill.api.Task$Command": {}
+  },
+  "def build_.package_$eventinvitation$#localCompileClasspath()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#javacOptions()mill.api.Task$Simple": {
+    "call build_.package_$eventinvitation$#javacOptions()mill.api.Task$Simple": {}
+  },
+  "def build_.package_$.func$22$$anonfun$15(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$22$$anonfun$15(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#mill$scalalib$ScalaModule$$super$mandatoryMvnDeps()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#allLocalMainClasses()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#transitiveCompileClasspath()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#runMainBackground(java.lang.String,scala.collection.immutable.Seq)mill.api.Task$Command": {
+    "call mill.javalib.RunModule#runMainBackground(java.lang.String,scala.collection.immutable.Seq)mill.api.Task$Command": {}
+  },
+  "def build_.package_$eventinvitation$#prepareOffline(mainargs.Flag)mill.api.Task$Command": {
+    "call mill.javalib.OfflineSupportModule#prepareOffline(mainargs.Flag)mill.api.Task$Command": {},
+    "call mill.javalib.JavaModule#prepareOffline(mainargs.Flag)mill.api.Task$Command": {},
+    "call mill.scalalib.ScalaModule#prepareOffline(mainargs.Flag)mill.api.Task$Command": {},
+    "call mill.javalib.AssemblyModule#prepareOffline(mainargs.Flag)mill.api.Task$Command": {}
+  },
+  "def build_.package_$eventinvitation$#javaHomePathForkEnv()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#bspJavaModule()scala.Function0": {},
+  "def build_.package_$eventinvitation$#launcher0()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#genIdeaInternalExt$lzyINIT5()java.lang.Object": {
+    "call build_.package_$eventinvitation$!genIdeaInternalExt$lzyINIT5()java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#runMvnDeps()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#scalaCompilerBridge()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#mapDependencies()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#bspTransitiveCompileClasspath(boolean)mill.api.Task": {},
+  "def build_.package_$eventinvitation$#ammoniteVersion()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#mill$javalib$JavaModule$$super$localRunClasspath()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#mill$javalib$JavaModule$$super$prepareOffline(mainargs.Flag)mill.api.Task$Command": {},
+  "def build_.package_$eventinvitation$#processedDependencyManagement(scala.collection.immutable.Seq)scala.collection.immutable.Seq": {},
+  "def build_.package_$eventinvitation$#assemblyRules()scala.collection.immutable.Seq": {
+    "external mill.javalib.AssemblyModule": {},
+    "external mill.javalib.AssemblyModule narrowed mill.javalib.JavaModule": {},
+    "external mill.javalib.AssemblyModule narrowed build_.package_$eventinvitation$": {},
+    "external mill.javalib.AssemblyModule narrowed mill.scalalib.ScalaModule": {}
+  },
+  "def build_.package_$eventinvitation$#docJar()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#mill$javalib$JavaModule$$recRunModuleDeps()scala.collection.immutable.Seq": {},
+  "def build_.package_$eventinvitation$#defaultTask()java.lang.String": {},
+  "def build_.package_$eventinvitation$#resolvedMvnDeps0(boolean)mill.api.Task": {},
+  "def build_.package_$eventinvitation$#scalaVersion()mill.api.Task$Simple": {},
+  "def build_.package_$.func$14$$anonfun$2(mill.javalib.JavaModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$14$$anonfun$2(mill.javalib.JavaModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#mandatoryScalacOptions()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#scalaLibraryMvnDeps()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#bspDisplayName0()java.lang.String": {},
+  "def build_.package_$eventinvitation$#semanticDbPluginClasspath()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#moduleDirJava()java.nio.file.Path": {},
+  "def build_.package_$eventinvitation$#runUseArgsFile()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#mill$javalib$JavaModule$$repositoriesTaskStable$lzyINIT5()java.lang.Object": {
+    "call build_.package_$eventinvitation$!mill$javalib$JavaModule$$repositoriesTaskStable$lzyINIT5()java.lang.Object": {}
+  },
+  "def build_.package_$.func$22$$anonfun$5(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$22$$anonfun$5(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#mill$scalalib$ScalaModule$$super$manifest()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#moduleLinearized()scala.collection.immutable.Seq": {},
+  "def build_.package_$eventinvitation$#wrappedSources()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#platformSuffix()mill.api.Task$Simple": {},
+  "def build_.package_$.func$23$$anonfun$2(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$23$$anonfun$2(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#javaHome()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#transitiveCompileClasspathTask(mill.javalib.CompileFor)mill.api.Task": {},
+  "def build_.package_$eventinvitation$#upstreamSemanticDbDatas()mill.api.Task": {},
+  "def build_.package_$#func$22()mill.api.Discover$ClassInfo": {
+    "call build_.package_$!func$22()mill.api.Discover$ClassInfo": {}
+  },
+  "def build_.package_$eventinvitation$#assemblyRules0()scala.collection.immutable.Seq": {},
+  "def build_.package_$.func$24$$anonfun$4(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$24$$anonfun$4(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$.func$16$$anonfun$1(mill.javalib.RunModule)mill.api.Task": {
+    "call build_.package_$.func$16$$anonfun$1(mill.javalib.RunModule)mill.api.Task": {}
+  },
+  "def build_.package_$eventinvitation$#semanticDbVersion()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#upstreamIvyAssemblyClasspath()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#resolveRelativeToOut(mill.api.Task$Named,scala.Function1)mill.javalib.UnresolvedPath$DestPath": {},
+  "def build_.package_$eventinvitation$#console(mill.api.Args)mill.api.Task$Command": {
+    "call mill.scalalib.ScalaModule#console(mill.api.Args)mill.api.Task$Command": {}
+  },
+  "def build_.package_$eventinvitation$#coursierCacheCustomizer()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#compileGeneratedSources()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#ammoniteReplClasspath()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#scalaVersion$$anonfun$5()mill.api.Task$Simple": {
+    "call build_.package_$eventinvitation$!scalaVersion$$anonfun$5()mill.api.Task$Simple": {}
+  },
+  "def build_.package_$eventinvitation$#crossFullScalaVersion()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#mill$api$Module$$millModuleDirectChildrenImpl()scala.collection.immutable.Seq": {},
+  "def build_.package_$#func$14()mill.api.Discover$ClassInfo": {
+    "call build_.package_$!func$14()mill.api.Discover$ClassInfo": {}
+  },
+  "def build_.package_$.func$21$$anonfun$4(mill.util.JdkCommandsModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$21$$anonfun$4(mill.util.JdkCommandsModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$.func$22$$anonfun$14(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$22$$anonfun$14(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#mill$javalib$JavaModule$$repositoriesTaskStable()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#artifactNameParts()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#javadocGenerated()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$.$deserializeLambda$(java.lang.invoke.SerializedLambda)java.lang.Object": {},
+  "def build_.package_$eventinvitation$#intellijModulePathJava()java.nio.file.Path": {},
+  "def build_.package_$eventinvitation$#docResources()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#bspRunModule()scala.Function0": {},
+  "def build_.package_$eventinvitation$#mill$javalib$JavaModule$$recRunModuleDeps$lzyINIT5()java.lang.Object": {
+    "call build_.package_$eventinvitation$!mill$javalib$JavaModule$$recRunModuleDeps$lzyINIT5()java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#generatedSources()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#allSourceFiles()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#ideaJavaModuleFacets(int)mill.api.Task": {
+    "external mill.javalib.GenIdeaModule narrowed build_.package_$eventinvitation$": {},
+    "external mill.javalib.GenIdeaModule narrowed mill.javalib.JavaModule": {},
+    "external mill.javalib.GenIdeaModule narrowed mill.scalalib.ScalaModule": {}
+  },
+  "def build_.package_$.func$22$$anonfun$6(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$22$$anonfun$6(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$.func$22$$anonfun$1(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$22$$anonfun$1(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$#func$10()mill.api.Discover$ClassInfo": {
+    "call build_.package_$!func$10()mill.api.Discover$ClassInfo": {}
+  },
+  "def build_.package_$eventinvitation$#scalaCompilerClasspath()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#moduleSegments()mill.api.daemon.Segments": {},
+  "def build_.package_$.func$16$$anonfun$2(mill.javalib.RunModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$16$$anonfun$2(mill.javalib.RunModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#depManagement()mill.api.Task$Simple": {},
+  "def build_.package_$.func$23$$anonfun$5(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$23$$anonfun$5(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#checkGradleModules()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#runBackgroundLogToConsole()boolean": {},
+  "def build_.package_$eventinvitation$#javac(scala.collection.immutable.Seq)mill.api.Task$Command": {
+    "call mill.util.JdkCommandsModule#javac(scala.collection.immutable.Seq)mill.api.Task$Command": {}
+  },
+  "def build_.package_$.func$21$$anonfun$2(mill.util.JdkCommandsModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$21$$anonfun$2(mill.util.JdkCommandsModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#genIdeaInternal()scala.Function0": {},
+  "def build_.package_$.func$22$$anonfun$10(mill.util.MainModule)java.lang.String": {
+    "call build_.package_$.func$22$$anonfun$10(mill.util.MainModule)java.lang.String": {}
+  },
+  "def build_.package_$#func$20()mill.api.Discover$ClassInfo": {
+    "call build_.package_$!func$20()mill.api.Discover$ClassInfo": {}
+  },
+  "def build_.package_$.func$23$$anonfun$4(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$23$$anonfun$4(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#showModuleDeps$default$1()boolean": {
+    "call mill.javalib.JavaModule#showModuleDeps$default$1()boolean": {}
+  },
+  "def build_.package_$eventinvitation$#runModuleDeps()scala.collection.immutable.Seq": {},
+  "def build_.package_$eventinvitation$#bspCompileClasspath(boolean)mill.api.Task": {
+    "call build_.package_$eventinvitation$#bspCompileClasspath(boolean)mill.api.Task": {}
+  },
+  "def build_.package_$eventinvitation$#bomModuleDeps()scala.collection.immutable.Seq": {},
+  "def build_.package_$eventinvitation$#moduleDynamicBuildOverrides()scala.collection.immutable.Map": {
+    "external mill.api.ModuleCtx$Wrapper narrowed mill.util.JdkCommandsModule": {},
+    "external mill.api.ModuleCtx$Wrapper narrowed mill.scalalib.ScalaModule": {},
+    "external mill.api.ModuleCtx$Wrapper narrowed mill.javalib.OfflineSupportModule": {},
+    "external mill.api.ModuleCtx$Wrapper narrowed mill.javalib.RunModule": {},
+    "external mill.api.ModuleCtx$Wrapper narrowed build_.package_$eventinvitation$": {},
+    "external mill.api.ModuleCtx$Wrapper narrowed mill.javalib.AssemblyModule": {},
+    "external mill.api.ModuleCtx$Wrapper narrowed mill.javalib.JavaModule": {}
+  },
+  "def build_.package_$eventinvitation$#scalacPluginMvnDeps()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#sources$$anonfun$5$$anonfun$1$$anonfun$1(os.FilePath)mill.api.PathRef": {
+    "call build_.package_$eventinvitation$!sources$$anonfun$5$$anonfun$1$$anonfun$1(os.FilePath)mill.api.PathRef": {}
+  },
+  "def build_.package_$eventinvitation$#bspBuildTargetData()mill.api.daemon.internal.TaskApi": {},
+  "def build_.package_$eventinvitation$#compileResources()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#docJarUseArgsFile()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#moduleDir()os.Path": {
+    "call build_.package_$eventinvitation$#moduleDir()os.Path": {}
+  },
+  "def build_.package_$eventinvitation$#semanticDbData()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#sources$$anonfun$5()mill.api.Task$Simple": {
+    "call build_.package_$eventinvitation$!sources$$anonfun$5()mill.api.Task$Simple": {}
+  },
+  "def build_.package_$eventinvitation$#jdkCommandsJavaHome()mill.api.Task": {
+    "external mill.util.JdkCommandsModule narrowed mill.scalalib.ScalaModule": {},
+    "external mill.util.JdkCommandsModule": {},
+    "external mill.util.JdkCommandsModule narrowed mill.javalib.JavaModule": {},
+    "external mill.util.JdkCommandsModule narrowed build_.package_$eventinvitation$": {}
+  },
+  "def build_.package_$eventinvitation$#mill$javalib$JavaModule$$recModuleDeps$lzyINIT5()java.lang.Object": {
+    "call build_.package_$eventinvitation$!mill$javalib$JavaModule$$recModuleDeps$lzyINIT5()java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#resolvePublishDependency()mill.api.Task": {},
+  "def build_.package_$#func$13()mill.api.Discover$ClassInfo": {
+    "call build_.package_$!func$13()mill.api.Discover$ClassInfo": {}
+  },
+  "def build_.package_$eventinvitation$#mill$javalib$JavaModule$$super$bspBuildTarget()mill.api.daemon.internal.bsp.BspBuildTarget": {},
+  "def build_.package_$.func$24$$anonfun$1(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$24$$anonfun$1(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#mill$javalib$JavaModule$$super$runClasspath()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#localClasspath()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#mill$javalib$RunModule$$bspExt()mill.api.ModuleRef": {},
+  "def build_.package_$#func$18()mill.api.Discover$ClassInfo": {
+    "call build_.package_$!func$18()mill.api.Discover$ClassInfo": {}
+  },
+  "def build_.package_$eventinvitation$#bspExt$lzyINIT5()java.lang.Object": {
+    "call build_.package_$eventinvitation$!bspExt$lzyINIT5()java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#coursierDependencyTask()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#runClasspath()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#zincIncrementalCompilation()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#transitiveModuleDeps()scala.collection.immutable.Seq": {},
+  "def build_.package_$eventinvitation$#configModuleDeps()scala.collection.immutable.Map": {},
+  "def build_.package_$eventinvitation$#repositoriesTask()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#runModuleDepsChecked()scala.collection.immutable.Seq": {},
+  "def build_.package_$eventinvitation$#mill$javalib$JavaModule$$recBomModuleDeps()scala.collection.immutable.Seq": {},
+  "def build_.package_$eventinvitation$#sanitizeUri(java.lang.String)java.lang.String": {},
+  "def build_.package_$eventinvitation$#jvmWorker()mill.api.ModuleRef": {
+    "external mill.javalib.WithJvmWorkerModule narrowed mill.scalalib.ScalaModule": {},
+    "external mill.javalib.WithJvmWorkerModule narrowed mill.javalib.RunModule": {},
+    "external mill.javalib.WithJvmWorkerModule narrowed build_.package_$eventinvitation$": {},
+    "external mill.javalib.WithJvmWorkerModule narrowed mill.javalib.JavaModule": {}
+  },
+  "def build_.package_$eventinvitation$#build_$package_$eventinvitation$$$$outer()build_.package_": {},
+  "def build_.package_$eventinvitation$#finalMainClass()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#transitiveModuleCompileModuleDeps()scala.collection.immutable.Seq": {},
+  "def build_.package_$eventinvitation$#enableBsp()boolean": {},
+  "def build_.package_$eventinvitation$#showMvnDepsTree(mill.javalib.MvnDepsTreeArgs)mill.api.Task$Command": {
+    "call mill.javalib.JavaModule#showMvnDepsTree(mill.javalib.MvnDepsTreeArgs)mill.api.Task$Command": {}
+  },
+  "def build_.package_$eventinvitation$#showMvnDepsTree$default$1()mill.javalib.MvnDepsTreeArgs": {
+    "call mill.javalib.JavaModule#showMvnDepsTree$default$1()mill.javalib.MvnDepsTreeArgs": {}
+  },
+  "def build_.package_$eventinvitation$#annotationProcessorsResolvedMvnDeps()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#run$default$1()mill.api.Task": {
+    "call mill.javalib.RunModule#run$default$1()mill.api.Task": {}
+  },
+  "def build_.package_$eventinvitation$#jvmId()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#consoleScalacOptions()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#bspDisplayName()java.lang.String": {},
+  "def build_.package_$eventinvitation$#forkEnv()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#compileClassesPath()mill.javalib.UnresolvedPath$DestPath": {},
+  "def build_.package_$#millDiscover$lzyINIT1()java.lang.Object": {
+    "call build_.package_$!millDiscover$lzyINIT1()java.lang.Object": {}
+  },
+  "def build_.package_$.func$22$$anonfun$3(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$22$$anonfun$3(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$#func$12()mill.api.Discover$ClassInfo": {
+    "call build_.package_$!func$12()mill.api.Discover$ClassInfo": {}
+  },
+  "def build_.package_$eventinvitation$#console$default$1()mill.api.Args": {
+    "call mill.scalalib.ScalaModule#console$default$1()mill.api.Args": {}
+  },
+  "def build_.package_$eventinvitation$#transitiveRunModuleDeps()scala.collection.immutable.Seq": {},
+  "def build_.package_$eventinvitation$#<init>(build_.package_)void": {
+    "call build_.package_$eventinvitation$!<init>(build_.package_)void": {}
+  },
+  "def build_.package_$eventinvitation$#compileClasspathTask(mill.javalib.CompileFor)mill.api.Task": {},
+  "def build_.package_$eventinvitation$#forkWorkingDir()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#skipIdea()boolean": {
+    "external mill.api.daemon.internal.idea.GenIdeaModuleApi narrowed mill.scalalib.ScalaModule": {},
+    "external mill.api.daemon.internal.idea.GenIdeaModuleApi narrowed mill.javalib.JavaModule": {},
+    "external mill.api.daemon.internal.idea.GenIdeaModuleApi narrowed build_.package_$eventinvitation$": {}
+  },
+  "def build_.package_$eventinvitation$#artifactId()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#artifactName()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#compileMvnDeps()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#allForkEnv()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#resolvedRunMvnDeps()mill.api.Task$Simple": {},
+  "def build_.package_$.func$23$$anonfun$3(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$23$$anonfun$3(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#transitiveLocalClasspath()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#annotationProcessorsMvnDeps()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#runBackgroundTask$default$2()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#compileTask()mill.api.Task": {},
+  "def build_.package_$eventinvitation$#upstreamLocalAssemblyClasspath()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#assembly()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#javaRun(scala.collection.immutable.Seq)mill.api.Task$Command": {
+    "call mill.util.JdkCommandsModule#javaRun(scala.collection.immutable.Seq)mill.api.Task$Command": {}
+  },
+  "def build_.package_$eventinvitation$#useShortJvmPath(java.lang.String)boolean": {
+    "external mill.javalib.JavaHomeModule narrowed build_.package_$eventinvitation$": {},
+    "external mill.javalib.JavaHomeModule narrowed mill.javalib.RunModule": {},
+    "external mill.javalib.JavaHomeModule narrowed mill.javalib.JavaModule": {},
+    "external mill.javalib.JavaHomeModule narrowed mill.scalalib.ScalaModule": {}
+  },
+  "def build_.package_$eventinvitation$#runMainLocal(java.lang.String,scala.collection.immutable.Seq)mill.api.Task$Command": {
+    "call mill.javalib.RunModule#runMainLocal(java.lang.String,scala.collection.immutable.Seq)mill.api.Task$Command": {}
+  },
+  "def build_.package_$eventinvitation$#mill$javalib$JavaModule$$recCompileModuleDeps()scala.collection.immutable.Seq": {},
+  "def build_.package_.build_$package_$eventinvitation$$$_$scalaVersion$$anonfun$5$$anonfun$1(scala.collection.immutable.Seq,mill.api.TaskCtx)mill.api.daemon.Result": {
+    "call build_.package_.build_$package_$eventinvitation$$$_$scalaVersion$$anonfun$5$$anonfun$1(scala.collection.immutable.Seq,mill.api.TaskCtx)mill.api.daemon.Result": {}
+  },
+  "def build_.package_#eventinvitation$lzyINIT1()java.lang.Object": {
+    "call build_.package_!eventinvitation$lzyINIT1()java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#mainClass()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#scalaDocClasspath()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#resolvedAmmoniteReplMvnDeps()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#mvnDepsTree(mill.javalib.MvnDepsTreeArgs)mill.api.Task": {},
+  "def build_.package_$eventinvitation$#scalaOrganization()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#artifactSuffix()mill.api.Task$Simple": {},
+  "def build_.package_$.func$24$$anonfun$6(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$24$$anonfun$6(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$.func$21$$anonfun$6(mill.util.JdkCommandsModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$21$$anonfun$6(mill.util.JdkCommandsModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$.func$15$$anonfun$1(mill.javalib.OfflineSupportModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$15$$anonfun$1(mill.javalib.OfflineSupportModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  },
+  "def build_.package_$eventinvitation$#run(mill.api.Task)mill.api.Task$Command": {
+    "call mill.javalib.RunModule#run(mill.api.Task)mill.api.Task$Command": {}
+  },
+  "def build_.package_$#func$11()mill.api.Discover$ClassInfo": {
+    "call build_.package_$!func$11()mill.api.Discover$ClassInfo": {}
+  },
+  "def build_.package_$eventinvitation$#resolvedMvnDeps()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#artifactTypes()mill.api.Task$Simple": {},
+  "def build_.package_$eventinvitation$#bspLocalClasspath(boolean)mill.api.Task": {},
+  "def build_.package_#eventinvitation()build_.package_$eventinvitation$": {},
+  "def build_.package_$.func$16$$anonfun$3(mill.javalib.RunModule,scala.collection.immutable.Seq)java.lang.Object": {
+    "call build_.package_$.func$16$$anonfun$3(mill.javalib.RunModule,scala.collection.immutable.Seq)java.lang.Object": {}
+  }
+}

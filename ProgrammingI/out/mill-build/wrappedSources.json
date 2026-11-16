@@ -1,0 +1,13 @@
+{
+    "value": [
+        {
+            "original": "ref:v0:a2107ac1:/home/alex/Schreibtisch/Pt-1/ProgrammingI/build.mill",
+            "generated": "ref:v0:1853ac38:/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-build/generatedScriptSources.dest/wrapped/build_/build.mill"
+        }
+    ],
+    "valueHash": 104314093,
+    "inputsHash": -1880846547,
+    "millVersion": "1.1.10",
+    "millJvmVersion": "21.0.10",
+    "classLoaderSigHash": -353824999
+}

@@ -1,0 +1,11 @@
+{
+    "value": [
+        1,
+        "EnergyBill$package"
+    ],
+    "valueHash": -1202146664,
+    "inputsHash": -147952688,
+    "millVersion": "1.1.10",
+    "millJvmVersion": "21.0.10",
+    "classLoaderSigHash": -922733126
+}

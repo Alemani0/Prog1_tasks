@@ -1,0 +1,1689 @@
+2026-10-21T06:14:39Z launchOrConnectToServer: mill.client.lock.Locks@7580c949
+2026-10-21T06:14:39Z Acquiring the launcher lock: PidLock{@4a47efe5, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-10-21T06:14:39Z launchOrConnectToServer attempt
+2026-10-21T06:14:39Z Checking if the daemon lock is available: PidLock{@5d0c6fef, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-21T06:14:39Z The daemon lock is available, starting the server.
+2026-10-21T06:14:39Z The server has started: OsProcess(7371)
+2026-10-21T06:14:39Z Waiting for the server to take the daemon lock: PidLock{@5d0c6fef, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-21T06:14:39Z The server OsProcess(7371) has taken the daemon lock: PidLock{@5d0c6fef, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-21T06:14:39Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-21T06:14:39Z launchOrConnectToServer attempt
+2026-10-21T06:14:39Z Checking if the daemon lock is available: PidLock{@5d0c6fef, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID exception
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID: 7371
+2026-10-21T06:14:39Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-21T06:14:39Z launchOrConnectToServer attempt
+2026-10-21T06:14:39Z Checking if the daemon lock is available: PidLock{@5d0c6fef, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID: 7371
+2026-10-21T06:14:39Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-21T06:14:39Z launchOrConnectToServer attempt
+2026-10-21T06:14:39Z Checking if the daemon lock is available: PidLock{@5d0c6fef, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-21T06:14:39Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:14:39Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:14:39Z Read PID: 7371
+2026-10-21T06:14:39Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-21T06:14:39Z Read server port
+2026-10-21T06:14:39Z Connecting: 36989
+2026-10-21T06:14:39Z runWithConnection (RPC): Launched(36989,Some(Socket[addr=localhost/127.0.0.1,port=36989,localport=55958]),OsProcess(7371))
+2026-10-21T06:14:52Z runWithConnection exit code: 0
+2026-10-21T06:37:14Z launchOrConnectToServer: mill.client.lock.Locks@11ace615
+2026-10-21T06:37:14Z Acquiring the launcher lock: PidLock{@2e299b0f, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-10-21T06:37:14Z launchOrConnectToServer attempt
+2026-10-21T06:37:14Z Checking if the daemon lock is available: PidLock{@623d1ee5, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-21T06:37:14Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:37:14Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:37:14Z Read PID: 7371
+2026-10-21T06:37:14Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-21T06:37:14Z Read server port
+2026-10-21T06:37:14Z Connecting: 36989
+2026-10-21T06:37:14Z runWithConnection (RPC): Launched(36989,Some(Socket[addr=localhost/127.0.0.1,port=36989,localport=36812]),OsProcess(7371))
+2026-10-21T06:37:14Z runWithConnection exit code: 1
+2026-10-21T06:37:20Z launchOrConnectToServer: mill.client.lock.Locks@7f05ccb1
+2026-10-21T06:37:20Z Acquiring the launcher lock: PidLock{@fe2deea, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-10-21T06:37:20Z launchOrConnectToServer attempt
+2026-10-21T06:37:20Z Checking if the daemon lock is available: PidLock{@3d8be5fa, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-21T06:37:20Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:37:20Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:37:20Z Read PID: 7371
+2026-10-21T06:37:20Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-21T06:37:20Z Read server port
+2026-10-21T06:37:20Z Connecting: 36989
+2026-10-21T06:37:20Z runWithConnection (RPC): Launched(36989,Some(Socket[addr=localhost/127.0.0.1,port=36989,localport=49758]),OsProcess(7371))
+2026-10-21T06:37:25Z runWithConnection exit code: 1
+2026-10-21T06:40:35Z launchOrConnectToServer: mill.client.lock.Locks@b776649
+2026-10-21T06:40:35Z Acquiring the launcher lock: PidLock{@467b87cc, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-10-21T06:40:35Z launchOrConnectToServer attempt
+2026-10-21T06:40:35Z Checking if the daemon lock is available: PidLock{@af9286f, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-21T06:40:35Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:40:35Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:40:35Z Read PID: 7371
+2026-10-21T06:40:35Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-21T06:40:35Z Read server port
+2026-10-21T06:40:35Z Connecting: 36989
+2026-10-21T06:40:35Z runWithConnection (RPC): Launched(36989,Some(Socket[addr=localhost/127.0.0.1,port=36989,localport=52930]),OsProcess(7371))
+2026-10-21T06:40:36Z runWithConnection exit code: 1
+2026-10-21T06:41:10Z launchOrConnectToServer: mill.client.lock.Locks@4d4a3f93
+2026-10-21T06:41:10Z Acquiring the launcher lock: PidLock{@752cb9c4, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-10-21T06:41:10Z launchOrConnectToServer attempt
+2026-10-21T06:41:10Z Checking if the daemon lock is available: PidLock{@4f022a12, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-21T06:41:10Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:41:10Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:41:10Z Read PID: 7371
+2026-10-21T06:41:10Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-21T06:41:10Z Read server port
+2026-10-21T06:41:10Z Connecting: 36989
+2026-10-21T06:41:10Z runWithConnection (RPC): Launched(36989,Some(Socket[addr=localhost/127.0.0.1,port=36989,localport=58728]),OsProcess(7371))
+2026-10-21T06:41:11Z runWithConnection exit code: 0
+2026-10-21T06:42:20Z launchOrConnectToServer: mill.client.lock.Locks@555a0196
+2026-10-21T06:42:20Z Acquiring the launcher lock: PidLock{@7acff809, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-10-21T06:42:20Z launchOrConnectToServer attempt
+2026-10-21T06:42:20Z Checking if the daemon lock is available: PidLock{@192bdd60, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-21T06:42:20Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:42:20Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:42:20Z Read PID: 7371
+2026-10-21T06:42:20Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-21T06:42:20Z Read server port
+2026-10-21T06:42:20Z Connecting: 36989
+2026-10-21T06:42:20Z runWithConnection (RPC): Launched(36989,Some(Socket[addr=localhost/127.0.0.1,port=36989,localport=37022]),OsProcess(7371))
+2026-10-21T06:42:21Z runWithConnection exit code: 0
+2026-10-21T06:43:25Z launchOrConnectToServer: mill.client.lock.Locks@2691865b
+2026-10-21T06:43:25Z Acquiring the launcher lock: PidLock{@700ee2f2, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-10-21T06:43:25Z launchOrConnectToServer attempt
+2026-10-21T06:43:25Z Checking if the daemon lock is available: PidLock{@356cbb29, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-21T06:43:25Z The daemon lock is not available, there is already a server running.
+2026-10-21T06:43:25Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T06:43:25Z Read PID: 7371
+2026-10-21T06:43:25Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-21T06:43:25Z Read server port
+2026-10-21T06:43:25Z Connecting: 36989
+2026-10-21T06:43:25Z runWithConnection (RPC): Launched(36989,Some(Socket[addr=localhost/127.0.0.1,port=36989,localport=37036]),OsProcess(7371))
+2026-10-21T06:43:25Z runWithConnection exit code: 0
+2026-10-21T09:41:43Z launchOrConnectToServer: mill.client.lock.Locks@4601f2e3
+2026-10-21T09:41:43Z Acquiring the launcher lock: PidLock{@34e1a456, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-10-21T09:41:43Z launchOrConnectToServer attempt
+2026-10-21T09:41:43Z Checking if the daemon lock is available: PidLock{@12e46d3e, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-21T09:41:43Z The daemon lock is available, starting the server.
+2026-10-21T09:41:43Z The server has started: OsProcess(14255)
+2026-10-21T09:41:43Z Waiting for the server to take the daemon lock: PidLock{@12e46d3e, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-21T09:41:43Z The server OsProcess(14255) has taken the daemon lock: PidLock{@12e46d3e, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-21T09:41:43Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-21T09:41:43Z launchOrConnectToServer attempt
+2026-10-21T09:41:43Z Checking if the daemon lock is available: PidLock{@12e46d3e, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 7371
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID exception
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 14255
+2026-10-21T09:41:43Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-21T09:41:43Z launchOrConnectToServer attempt
+2026-10-21T09:41:43Z Checking if the daemon lock is available: PidLock{@12e46d3e, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 14255
+2026-10-21T09:41:43Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-21T09:41:43Z launchOrConnectToServer attempt
+2026-10-21T09:41:43Z Checking if the daemon lock is available: PidLock{@12e46d3e, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-21T09:41:43Z The daemon lock is not available, there is already a server running.
+2026-10-21T09:41:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-21T09:41:43Z Read PID: 14255
+2026-10-21T09:41:43Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-21T09:41:43Z Read server port
+2026-10-21T09:41:43Z Connecting: 35559
+2026-10-21T09:41:43Z runWithConnection (RPC): Launched(35559,Some(Socket[addr=localhost/127.0.0.1,port=35559,localport=33054]),OsProcess(14255))
+2026-10-21T09:41:54Z runWithConnection exit code: 0
+2026-10-27T07:08:35Z launchOrConnectToServer: mill.client.lock.Locks@931f0ef
+2026-10-27T07:08:35Z Acquiring the launcher lock: PidLock{@6f6a490c, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-10-27T07:08:35Z launchOrConnectToServer attempt
+2026-10-27T07:08:35Z Checking if the daemon lock is available: PidLock{@6604e505, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T07:08:35Z The daemon lock is available, starting the server.
+2026-10-27T07:08:35Z The server has started: OsProcess(5374)
+2026-10-27T07:08:35Z Waiting for the server to take the daemon lock: PidLock{@6604e505, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T07:08:36Z The server OsProcess(5374) has taken the daemon lock: PidLock{@6604e505, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T07:08:36Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-27T07:08:36Z launchOrConnectToServer attempt
+2026-10-27T07:08:36Z Checking if the daemon lock is available: PidLock{@6604e505, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 14255
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 5374
+2026-10-27T07:08:36Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-27T07:08:36Z launchOrConnectToServer attempt
+2026-10-27T07:08:36Z Checking if the daemon lock is available: PidLock{@6604e505, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 5374
+2026-10-27T07:08:36Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-27T07:08:36Z launchOrConnectToServer attempt
+2026-10-27T07:08:36Z Checking if the daemon lock is available: PidLock{@6604e505, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T07:08:36Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:08:36Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:08:36Z Read PID: 5374
+2026-10-27T07:08:36Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-27T07:08:36Z Read server port
+2026-10-27T07:08:36Z Connecting: 38911
+2026-10-27T07:08:36Z runWithConnection (RPC): Launched(38911,Some(Socket[addr=localhost/127.0.0.1,port=38911,localport=57262]),OsProcess(5374))
+2026-10-27T07:08:45Z runWithConnection exit code: 1
+2026-10-27T07:09:14Z launchOrConnectToServer: mill.client.lock.Locks@47aa2f30
+2026-10-27T07:09:14Z Acquiring the launcher lock: PidLock{@110180b2, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-10-27T07:09:14Z launchOrConnectToServer attempt
+2026-10-27T07:09:14Z Checking if the daemon lock is available: PidLock{@3da6defe, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T07:09:14Z The daemon lock is not available, there is already a server running.
+2026-10-27T07:09:14Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T07:09:14Z Read PID: 5374
+2026-10-27T07:09:14Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-27T07:09:14Z Read server port
+2026-10-27T07:09:14Z Connecting: 38911
+2026-10-27T07:09:14Z runWithConnection (RPC): Launched(38911,Some(Socket[addr=localhost/127.0.0.1,port=38911,localport=48972]),OsProcess(5374))
+2026-10-27T07:09:19Z runWithConnection exit code: 0
+2026-10-27T12:00:18Z launchOrConnectToServer: mill.client.lock.Locks@5570473c
+2026-10-27T12:00:18Z Acquiring the launcher lock: PidLock{@4b835b27, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-10-27T12:00:18Z launchOrConnectToServer attempt
+2026-10-27T12:00:18Z Checking if the daemon lock is available: PidLock{@1a481b81, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T12:00:18Z The daemon lock is available, starting the server.
+2026-10-27T12:00:18Z The server has started: OsProcess(3136)
+2026-10-27T12:00:18Z Waiting for the server to take the daemon lock: PidLock{@1a481b81, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T12:00:19Z The server OsProcess(3136) has taken the daemon lock: PidLock{@1a481b81, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T12:00:19Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-27T12:00:19Z launchOrConnectToServer attempt
+2026-10-27T12:00:19Z Checking if the daemon lock is available: PidLock{@1a481b81, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 5374
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID exception
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 3136
+2026-10-27T12:00:19Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-27T12:00:19Z launchOrConnectToServer attempt
+2026-10-27T12:00:19Z Checking if the daemon lock is available: PidLock{@1a481b81, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 3136
+2026-10-27T12:00:19Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-27T12:00:19Z launchOrConnectToServer attempt
+2026-10-27T12:00:19Z Checking if the daemon lock is available: PidLock{@1a481b81, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T12:00:19Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:19Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:19Z Read PID: 3136
+2026-10-27T12:00:19Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-27T12:00:19Z Read server port
+2026-10-27T12:00:19Z Connecting: 39367
+2026-10-27T12:00:19Z runWithConnection (RPC): Launched(39367,Some(Socket[addr=localhost/127.0.0.1,port=39367,localport=57856]),OsProcess(3136))
+2026-10-27T12:00:20Z runWithConnection exit code: 1
+2026-10-27T12:00:26Z launchOrConnectToServer: mill.client.lock.Locks@6ce00734
+2026-10-27T12:00:26Z Acquiring the launcher lock: PidLock{@3c1e7ae, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-10-27T12:00:26Z launchOrConnectToServer attempt
+2026-10-27T12:00:26Z Checking if the daemon lock is available: PidLock{@4d0b37de, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T12:00:26Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:26Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:26Z Read PID: 3136
+2026-10-27T12:00:26Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-27T12:00:26Z Read server port
+2026-10-27T12:00:26Z Connecting: 39367
+2026-10-27T12:00:26Z runWithConnection (RPC): Launched(39367,Some(Socket[addr=localhost/127.0.0.1,port=39367,localport=45366]),OsProcess(3136))
+2026-10-27T12:00:26Z runWithConnection exit code: 1
+2026-10-27T12:00:41Z launchOrConnectToServer: mill.client.lock.Locks@78857dd3
+2026-10-27T12:00:41Z Acquiring the launcher lock: PidLock{@4a0ff425, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-10-27T12:00:41Z launchOrConnectToServer attempt
+2026-10-27T12:00:41Z Checking if the daemon lock is available: PidLock{@79065bde, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T12:00:41Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:00:41Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:00:41Z Read PID: 3136
+2026-10-27T12:00:41Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-27T12:00:41Z Read server port
+2026-10-27T12:00:41Z Connecting: 39367
+2026-10-27T12:00:41Z runWithConnection (RPC): Launched(39367,Some(Socket[addr=localhost/127.0.0.1,port=39367,localport=56872]),OsProcess(3136))
+2026-10-27T12:00:41Z runWithConnection exit code: 1
+2026-10-27T12:01:26Z launchOrConnectToServer: mill.client.lock.Locks@6c7ad723
+2026-10-27T12:01:26Z Acquiring the launcher lock: PidLock{@7bda2cb2, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-10-27T12:01:26Z launchOrConnectToServer attempt
+2026-10-27T12:01:26Z Checking if the daemon lock is available: PidLock{@6bb62a34, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T12:01:26Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:01:26Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:01:26Z Read PID: 3136
+2026-10-27T12:01:26Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-27T12:01:26Z Read server port
+2026-10-27T12:01:26Z Connecting: 39367
+2026-10-27T12:01:26Z runWithConnection (RPC): Launched(39367,Some(Socket[addr=localhost/127.0.0.1,port=39367,localport=39116]),OsProcess(3136))
+2026-10-27T12:01:26Z runWithConnection exit code: 0
+2026-10-27T12:01:31Z launchOrConnectToServer: mill.client.lock.Locks@13865e96
+2026-10-27T12:01:31Z Acquiring the launcher lock: PidLock{@3577b86, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-10-27T12:01:31Z launchOrConnectToServer attempt
+2026-10-27T12:01:31Z Checking if the daemon lock is available: PidLock{@1ea5d68e, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T12:01:31Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:01:31Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:01:31Z Read PID: 3136
+2026-10-27T12:01:31Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-27T12:01:31Z Read server port
+2026-10-27T12:01:31Z Connecting: 39367
+2026-10-27T12:01:31Z runWithConnection (RPC): Launched(39367,Some(Socket[addr=localhost/127.0.0.1,port=39367,localport=39124]),OsProcess(3136))
+2026-10-27T12:01:35Z runWithConnection exit code: 1
+2026-10-27T12:03:01Z launchOrConnectToServer: mill.client.lock.Locks@6bfdcc21
+2026-10-27T12:03:01Z Acquiring the launcher lock: PidLock{@7b468ca9, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-10-27T12:03:01Z launchOrConnectToServer attempt
+2026-10-27T12:03:01Z Checking if the daemon lock is available: PidLock{@394e334b, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T12:03:01Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:03:01Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:03:01Z Read PID: 3136
+2026-10-27T12:03:01Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-27T12:03:01Z Read server port
+2026-10-27T12:03:01Z Connecting: 39367
+2026-10-27T12:03:01Z runWithConnection (RPC): Launched(39367,Some(Socket[addr=localhost/127.0.0.1,port=39367,localport=54758]),OsProcess(3136))
+2026-10-27T12:03:01Z runWithConnection exit code: 1
+2026-10-27T12:03:06Z launchOrConnectToServer: mill.client.lock.Locks@692cb1e4
+2026-10-27T12:03:06Z Acquiring the launcher lock: PidLock{@76ff3a4e, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-10-27T12:03:06Z launchOrConnectToServer attempt
+2026-10-27T12:03:06Z Checking if the daemon lock is available: PidLock{@1a80f75c, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T12:03:06Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:03:06Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:03:06Z Read PID: 3136
+2026-10-27T12:03:06Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-27T12:03:06Z Read server port
+2026-10-27T12:03:06Z Connecting: 39367
+2026-10-27T12:03:06Z runWithConnection (RPC): Launched(39367,Some(Socket[addr=localhost/127.0.0.1,port=39367,localport=42004]),OsProcess(3136))
+2026-10-27T12:03:06Z runWithConnection exit code: 1
+2026-10-27T12:03:17Z launchOrConnectToServer: mill.client.lock.Locks@386ed02c
+2026-10-27T12:03:17Z Acquiring the launcher lock: PidLock{@196e1e1b, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-10-27T12:03:17Z launchOrConnectToServer attempt
+2026-10-27T12:03:17Z Checking if the daemon lock is available: PidLock{@77a867e2, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T12:03:17Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:03:17Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:03:17Z Read PID: 3136
+2026-10-27T12:03:17Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-27T12:03:17Z Read server port
+2026-10-27T12:03:17Z Connecting: 39367
+2026-10-27T12:03:17Z runWithConnection (RPC): Launched(39367,Some(Socket[addr=localhost/127.0.0.1,port=39367,localport=57384]),OsProcess(3136))
+2026-10-27T12:03:17Z runWithConnection exit code: 1
+2026-10-27T12:03:51Z launchOrConnectToServer: mill.client.lock.Locks@df7db9e
+2026-10-27T12:03:51Z Acquiring the launcher lock: PidLock{@55857f4a, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-10-27T12:03:51Z launchOrConnectToServer attempt
+2026-10-27T12:03:51Z Checking if the daemon lock is available: PidLock{@53a64aa2, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T12:03:51Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:03:51Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:03:51Z Read PID: 3136
+2026-10-27T12:03:51Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-27T12:03:51Z Read server port
+2026-10-27T12:03:51Z Connecting: 39367
+2026-10-27T12:03:51Z runWithConnection (RPC): Launched(39367,Some(Socket[addr=localhost/127.0.0.1,port=39367,localport=53704]),OsProcess(3136))
+2026-10-27T12:03:52Z runWithConnection exit code: 0
+2026-10-27T12:04:16Z launchOrConnectToServer: mill.client.lock.Locks@37dfd111
+2026-10-27T12:04:16Z Acquiring the launcher lock: PidLock{@5cd43a02, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-10-27T12:04:16Z launchOrConnectToServer attempt
+2026-10-27T12:04:16Z Checking if the daemon lock is available: PidLock{@3d517de7, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T12:04:16Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:04:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:04:16Z Read PID: 3136
+2026-10-27T12:04:16Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-27T12:04:16Z Read server port
+2026-10-27T12:04:16Z Connecting: 39367
+2026-10-27T12:04:16Z runWithConnection (RPC): Launched(39367,Some(Socket[addr=localhost/127.0.0.1,port=39367,localport=51102]),OsProcess(3136))
+2026-10-27T12:04:17Z runWithConnection exit code: 0
+2026-10-27T12:47:43Z launchOrConnectToServer: mill.client.lock.Locks@42f5b23d
+2026-10-27T12:47:43Z Acquiring the launcher lock: PidLock{@136a3921, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-10-27T12:47:43Z launchOrConnectToServer attempt
+2026-10-27T12:47:43Z Checking if the daemon lock is available: PidLock{@7b03ef23, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T12:47:43Z The daemon lock is available, starting the server.
+2026-10-27T12:47:43Z The server has started: OsProcess(8710)
+2026-10-27T12:47:43Z Waiting for the server to take the daemon lock: PidLock{@7b03ef23, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T12:47:43Z The server OsProcess(8710) has taken the daemon lock: PidLock{@7b03ef23, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T12:47:43Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-27T12:47:43Z launchOrConnectToServer attempt
+2026-10-27T12:47:43Z Checking if the daemon lock is available: PidLock{@7b03ef23, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 3136
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID exception
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 8710
+2026-10-27T12:47:43Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-27T12:47:43Z launchOrConnectToServer attempt
+2026-10-27T12:47:43Z Checking if the daemon lock is available: PidLock{@7b03ef23, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 8710
+2026-10-27T12:47:43Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-27T12:47:43Z launchOrConnectToServer attempt
+2026-10-27T12:47:43Z Checking if the daemon lock is available: PidLock{@7b03ef23, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T12:47:43Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:43Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:43Z Read PID: 8710
+2026-10-27T12:47:43Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-27T12:47:43Z Read server port
+2026-10-27T12:47:43Z Connecting: 34021
+2026-10-27T12:47:43Z runWithConnection (RPC): Launched(34021,Some(Socket[addr=localhost/127.0.0.1,port=34021,localport=45512]),OsProcess(8710))
+2026-10-27T12:47:44Z runWithConnection exit code: 1
+2026-10-27T12:47:48Z launchOrConnectToServer: mill.client.lock.Locks@792c3627
+2026-10-27T12:47:48Z Acquiring the launcher lock: PidLock{@df3a0e1, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-10-27T12:47:48Z launchOrConnectToServer attempt
+2026-10-27T12:47:48Z Checking if the daemon lock is available: PidLock{@383fdf86, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T12:47:48Z The daemon lock is not available, there is already a server running.
+2026-10-27T12:47:48Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T12:47:48Z Read PID: 8710
+2026-10-27T12:47:48Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-27T12:47:48Z Read server port
+2026-10-27T12:47:48Z Connecting: 34021
+2026-10-27T12:47:48Z runWithConnection (RPC): Launched(34021,Some(Socket[addr=localhost/127.0.0.1,port=34021,localport=45526]),OsProcess(8710))
+2026-10-27T12:47:49Z runWithConnection exit code: 0
+2026-10-27T13:05:44Z launchOrConnectToServer: mill.client.lock.Locks@64478a1f
+2026-10-27T13:05:44Z Acquiring the launcher lock: PidLock{@713d50b9, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-10-27T13:05:44Z launchOrConnectToServer attempt
+2026-10-27T13:05:44Z Checking if the daemon lock is available: PidLock{@33577a6a, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T13:05:44Z The daemon lock is not available, there is already a server running.
+2026-10-27T13:05:44Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T13:05:44Z Read PID: 8710
+2026-10-27T13:05:44Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-27T13:05:44Z Read server port
+2026-10-27T13:05:44Z Connecting: 34021
+2026-10-27T13:05:44Z runWithConnection (RPC): Launched(34021,Some(Socket[addr=localhost/127.0.0.1,port=34021,localport=57998]),OsProcess(8710))
+2026-10-27T13:05:44Z runWithConnection exit code: 0
+2026-10-27T13:08:18Z launchOrConnectToServer: mill.client.lock.Locks@2ccaf901
+2026-10-27T13:08:18Z Acquiring the launcher lock: PidLock{@30d9d5, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-10-27T13:08:18Z launchOrConnectToServer attempt
+2026-10-27T13:08:18Z Checking if the daemon lock is available: PidLock{@5874c52, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-10-27T13:08:18Z The daemon lock is not available, there is already a server running.
+2026-10-27T13:08:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-10-27T13:08:18Z Read PID: 8710
+2026-10-27T13:08:18Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-10-27T13:08:18Z Read server port
+2026-10-27T13:08:18Z Connecting: 34021
+2026-10-27T13:08:18Z runWithConnection (RPC): Launched(34021,Some(Socket[addr=localhost/127.0.0.1,port=34021,localport=35110]),OsProcess(8710))
+2026-10-27T13:08:18Z runWithConnection exit code: 0
+2026-11-03T07:44:15Z launchOrConnectToServer: mill.client.lock.Locks@58ac8366
+2026-11-03T07:44:15Z Acquiring the launcher lock: PidLock{@73037ecf, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-11-03T07:44:15Z launchOrConnectToServer attempt
+2026-11-03T07:44:15Z Checking if the daemon lock is available: PidLock{@49e4b48, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-03T07:44:15Z The daemon lock is available, starting the server.
+2026-11-03T07:44:15Z The server has started: OsProcess(9828)
+2026-11-03T07:44:15Z Waiting for the server to take the daemon lock: PidLock{@49e4b48, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-03T07:44:16Z The server OsProcess(9828) has taken the daemon lock: PidLock{@49e4b48, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-03T07:44:16Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-03T07:44:16Z Read server port
+2026-11-03T07:44:16Z Connecting: 34021
+2026-11-03T07:44:16Z launchOrConnectToServer attempt
+2026-11-03T07:44:16Z Checking if the daemon lock is available: PidLock{@49e4b48, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 8710
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 9828
+2026-11-03T07:44:16Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-03T07:44:16Z Read server port
+2026-11-03T07:44:16Z Connecting: 34021
+2026-11-03T07:44:16Z launchOrConnectToServer attempt
+2026-11-03T07:44:16Z Checking if the daemon lock is available: PidLock{@49e4b48, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 9828
+2026-11-03T07:44:16Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-03T07:44:16Z Read server port
+2026-11-03T07:44:16Z Connecting: 34021
+2026-11-03T07:44:16Z launchOrConnectToServer attempt
+2026-11-03T07:44:16Z Checking if the daemon lock is available: PidLock{@49e4b48, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-03T07:44:16Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:44:16Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:44:16Z Read PID: 9828
+2026-11-03T07:44:16Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-03T07:44:16Z Read server port
+2026-11-03T07:44:16Z Connecting: 45691
+2026-11-03T07:44:16Z runWithConnection (RPC): Launched(45691,Some(Socket[addr=localhost/127.0.0.1,port=45691,localport=49436]),OsProcess(9828))
+2026-11-03T07:44:30Z runWithConnection exit code: 0
+2026-11-03T07:45:35Z launchOrConnectToServer: mill.client.lock.Locks@2aa38163
+2026-11-03T07:45:35Z Acquiring the launcher lock: PidLock{@419c69ec, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-11-03T07:45:35Z launchOrConnectToServer attempt
+2026-11-03T07:45:35Z Checking if the daemon lock is available: PidLock{@646c7c55, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-03T07:45:35Z The daemon lock is not available, there is already a server running.
+2026-11-03T07:45:35Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T07:45:35Z Read PID: 9828
+2026-11-03T07:45:35Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-03T07:45:35Z Read server port
+2026-11-03T07:45:35Z Connecting: 45691
+2026-11-03T07:45:35Z runWithConnection (RPC): Launched(45691,Some(Socket[addr=localhost/127.0.0.1,port=45691,localport=47786]),OsProcess(9828))
+2026-11-03T07:45:36Z runWithConnection exit code: 0
+2026-11-03T08:05:58Z launchOrConnectToServer: mill.client.lock.Locks@32a7f310
+2026-11-03T08:05:58Z Acquiring the launcher lock: PidLock{@6f19e870, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-11-03T08:05:58Z launchOrConnectToServer attempt
+2026-11-03T08:05:58Z Checking if the daemon lock is available: PidLock{@47756636, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-03T08:05:58Z The daemon lock is not available, there is already a server running.
+2026-11-03T08:05:58Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T08:05:58Z Read PID: 9828
+2026-11-03T08:05:58Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-03T08:05:58Z Read server port
+2026-11-03T08:05:58Z Connecting: 45691
+2026-11-03T08:05:58Z runWithConnection (RPC): Launched(45691,Some(Socket[addr=localhost/127.0.0.1,port=45691,localport=54924]),OsProcess(9828))
+2026-11-03T08:06:04Z runWithConnection exit code: 1
+2026-11-03T08:06:15Z launchOrConnectToServer: mill.client.lock.Locks@593a13cf
+2026-11-03T08:06:15Z Acquiring the launcher lock: PidLock{@77129e03, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-11-03T08:06:15Z launchOrConnectToServer attempt
+2026-11-03T08:06:15Z Checking if the daemon lock is available: PidLock{@3a1e5834, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-03T08:06:15Z The daemon lock is not available, there is already a server running.
+2026-11-03T08:06:15Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T08:06:15Z Read PID: 9828
+2026-11-03T08:06:15Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-03T08:06:15Z Read server port
+2026-11-03T08:06:15Z Connecting: 45691
+2026-11-03T08:06:15Z runWithConnection (RPC): Launched(45691,Some(Socket[addr=localhost/127.0.0.1,port=45691,localport=38184]),OsProcess(9828))
+2026-11-03T08:06:17Z runWithConnection exit code: 0
+2026-11-03T08:08:11Z launchOrConnectToServer: mill.client.lock.Locks@7f91b14f
+2026-11-03T08:08:11Z Acquiring the launcher lock: PidLock{@51c323bd, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-11-03T08:08:11Z launchOrConnectToServer attempt
+2026-11-03T08:08:11Z Checking if the daemon lock is available: PidLock{@401c0b0e, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-03T08:08:11Z The daemon lock is not available, there is already a server running.
+2026-11-03T08:08:11Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T08:08:11Z Read PID: 9828
+2026-11-03T08:08:11Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-03T08:08:11Z Read server port
+2026-11-03T08:08:11Z Connecting: 45691
+2026-11-03T08:08:11Z runWithConnection (RPC): Launched(45691,Some(Socket[addr=localhost/127.0.0.1,port=45691,localport=45414]),OsProcess(9828))
+2026-11-03T08:08:12Z runWithConnection exit code: 0
+2026-11-03T08:08:53Z launchOrConnectToServer: mill.client.lock.Locks@7a3326b4
+2026-11-03T08:08:53Z Acquiring the launcher lock: PidLock{@17dcd5bb, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-11-03T08:08:53Z launchOrConnectToServer attempt
+2026-11-03T08:08:53Z Checking if the daemon lock is available: PidLock{@7fdacab4, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-03T08:08:53Z The daemon lock is not available, there is already a server running.
+2026-11-03T08:08:53Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T08:08:53Z Read PID: 9828
+2026-11-03T08:08:53Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-03T08:08:53Z Read server port
+2026-11-03T08:08:53Z Connecting: 45691
+2026-11-03T08:08:53Z runWithConnection (RPC): Launched(45691,Some(Socket[addr=localhost/127.0.0.1,port=45691,localport=51958]),OsProcess(9828))
+2026-11-03T08:08:54Z runWithConnection exit code: 0
+2026-11-03T08:18:51Z launchOrConnectToServer: mill.client.lock.Locks@51de867e
+2026-11-03T08:18:51Z Acquiring the launcher lock: PidLock{@4d0f58da, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-11-03T08:18:51Z launchOrConnectToServer attempt
+2026-11-03T08:18:51Z Checking if the daemon lock is available: PidLock{@68eb4b8a, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-03T08:18:51Z The daemon lock is not available, there is already a server running.
+2026-11-03T08:18:51Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T08:18:51Z Read PID: 9828
+2026-11-03T08:18:51Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-03T08:18:51Z Read server port
+2026-11-03T08:18:51Z Connecting: 45691
+2026-11-03T08:18:51Z runWithConnection (RPC): Launched(45691,Some(Socket[addr=localhost/127.0.0.1,port=45691,localport=57980]),OsProcess(9828))
+2026-11-03T08:18:52Z runWithConnection exit code: 0
+2026-11-03T12:59:18Z launchOrConnectToServer: mill.client.lock.Locks@2cae627f
+2026-11-03T12:59:18Z Acquiring the launcher lock: PidLock{@12452f3e, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-11-03T12:59:18Z launchOrConnectToServer attempt
+2026-11-03T12:59:18Z Checking if the daemon lock is available: PidLock{@6253272b, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-03T12:59:18Z The daemon lock is available, starting the server.
+2026-11-03T12:59:18Z The server has started: OsProcess(5109)
+2026-11-03T12:59:18Z Waiting for the server to take the daemon lock: PidLock{@6253272b, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-03T12:59:18Z The server OsProcess(5109) has taken the daemon lock: PidLock{@6253272b, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-03T12:59:18Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-03T12:59:18Z Read server port
+2026-11-03T12:59:18Z Connecting: 45691
+2026-11-03T12:59:18Z launchOrConnectToServer attempt
+2026-11-03T12:59:18Z Checking if the daemon lock is available: PidLock{@6253272b, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 9828
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID exception
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 5109
+2026-11-03T12:59:18Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-03T12:59:18Z Read server port
+2026-11-03T12:59:18Z Connecting: 45691
+2026-11-03T12:59:18Z launchOrConnectToServer attempt
+2026-11-03T12:59:18Z Checking if the daemon lock is available: PidLock{@6253272b, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 5109
+2026-11-03T12:59:18Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-03T12:59:18Z Read server port
+2026-11-03T12:59:18Z Connecting: 45691
+2026-11-03T12:59:18Z launchOrConnectToServer attempt
+2026-11-03T12:59:18Z Checking if the daemon lock is available: PidLock{@6253272b, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-03T12:59:18Z The daemon lock is not available, there is already a server running.
+2026-11-03T12:59:18Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T12:59:18Z Read PID: 5109
+2026-11-03T12:59:18Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-03T12:59:18Z Read server port
+2026-11-03T12:59:18Z Connecting: 43931
+2026-11-03T12:59:18Z runWithConnection (RPC): Launched(43931,Some(Socket[addr=localhost/127.0.0.1,port=43931,localport=48586]),OsProcess(5109))
+2026-11-03T12:59:20Z runWithConnection exit code: 1
+2026-11-03T13:00:00Z launchOrConnectToServer: mill.client.lock.Locks@77928adc
+2026-11-03T13:00:00Z Acquiring the launcher lock: PidLock{@1fd248b1, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-11-03T13:00:00Z launchOrConnectToServer attempt
+2026-11-03T13:00:00Z Checking if the daemon lock is available: PidLock{@5b15317d, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-03T13:00:00Z The daemon lock is not available, there is already a server running.
+2026-11-03T13:00:00Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T13:00:00Z Read PID: 5109
+2026-11-03T13:00:00Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-03T13:00:00Z Read server port
+2026-11-03T13:00:00Z Connecting: 43931
+2026-11-03T13:00:00Z runWithConnection (RPC): Launched(43931,Some(Socket[addr=localhost/127.0.0.1,port=43931,localport=46840]),OsProcess(5109))
+2026-11-03T13:00:04Z runWithConnection exit code: 0
+2026-11-03T13:00:47Z launchOrConnectToServer: mill.client.lock.Locks@61d9ed65
+2026-11-03T13:00:47Z Acquiring the launcher lock: PidLock{@2e08c0d3, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-11-03T13:00:47Z launchOrConnectToServer attempt
+2026-11-03T13:00:47Z Checking if the daemon lock is available: PidLock{@66f0547, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-03T13:00:47Z The daemon lock is not available, there is already a server running.
+2026-11-03T13:00:47Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T13:00:47Z Read PID: 5109
+2026-11-03T13:00:47Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-03T13:00:47Z Read server port
+2026-11-03T13:00:47Z Connecting: 43931
+2026-11-03T13:00:47Z runWithConnection (RPC): Launched(43931,Some(Socket[addr=localhost/127.0.0.1,port=43931,localport=52124]),OsProcess(5109))
+2026-11-03T13:00:48Z runWithConnection exit code: 0
+2026-11-03T13:00:52Z launchOrConnectToServer: mill.client.lock.Locks@54ddbe20
+2026-11-03T13:00:52Z Acquiring the launcher lock: PidLock{@40893c66, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-11-03T13:00:52Z launchOrConnectToServer attempt
+2026-11-03T13:00:52Z Checking if the daemon lock is available: PidLock{@13b60c2e, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-03T13:00:52Z The daemon lock is not available, there is already a server running.
+2026-11-03T13:00:52Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T13:00:52Z Read PID: 5109
+2026-11-03T13:00:52Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-03T13:00:52Z Read server port
+2026-11-03T13:00:52Z Connecting: 43931
+2026-11-03T13:00:52Z runWithConnection (RPC): Launched(43931,Some(Socket[addr=localhost/127.0.0.1,port=43931,localport=52132]),OsProcess(5109))
+2026-11-03T13:00:52Z runWithConnection exit code: 0
+2026-11-03T13:04:37Z launchOrConnectToServer: mill.client.lock.Locks@4e3bdad0
+2026-11-03T13:04:37Z Acquiring the launcher lock: PidLock{@ea10c02, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-11-03T13:04:37Z launchOrConnectToServer attempt
+2026-11-03T13:04:37Z Checking if the daemon lock is available: PidLock{@38fa882d, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-03T13:04:37Z The daemon lock is not available, there is already a server running.
+2026-11-03T13:04:37Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T13:04:37Z Read PID: 5109
+2026-11-03T13:04:37Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-03T13:04:37Z Read server port
+2026-11-03T13:04:37Z Connecting: 43931
+2026-11-03T13:04:37Z runWithConnection (RPC): Launched(43931,Some(Socket[addr=localhost/127.0.0.1,port=43931,localport=33100]),OsProcess(5109))
+2026-11-03T13:04:38Z runWithConnection exit code: 0
+2026-11-03T13:08:32Z launchOrConnectToServer: mill.client.lock.Locks@68515246
+2026-11-03T13:08:32Z Acquiring the launcher lock: PidLock{@76fe7141, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-11-03T13:08:33Z launchOrConnectToServer attempt
+2026-11-03T13:08:33Z Checking if the daemon lock is available: PidLock{@7b70a347, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-03T13:08:33Z The daemon lock is not available, there is already a server running.
+2026-11-03T13:08:33Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-03T13:08:33Z Read PID: 5109
+2026-11-03T13:08:33Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-03T13:08:33Z Read server port
+2026-11-03T13:08:33Z Connecting: 43931
+2026-11-03T13:08:33Z runWithConnection (RPC): Launched(43931,Some(Socket[addr=localhost/127.0.0.1,port=43931,localport=49686]),OsProcess(5109))
+2026-11-03T13:08:33Z runWithConnection exit code: 0
+2026-11-10T11:18:00Z launchOrConnectToServer: mill.client.lock.Locks@3a442887
+2026-11-10T11:18:00Z Acquiring the launcher lock: PidLock{@6bc64b84, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-11-10T11:18:00Z launchOrConnectToServer attempt
+2026-11-10T11:18:00Z Checking if the daemon lock is available: PidLock{@482a8966, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-10T11:18:00Z The daemon lock is available, starting the server.
+2026-11-10T11:18:00Z The server has started: OsProcess(5575)
+2026-11-10T11:18:00Z Waiting for the server to take the daemon lock: PidLock{@482a8966, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-10T11:18:01Z The server OsProcess(5575) has taken the daemon lock: PidLock{@482a8966, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-10T11:18:01Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-10T11:18:01Z Read server port
+2026-11-10T11:18:01Z Connecting: 43931
+2026-11-10T11:18:01Z launchOrConnectToServer attempt
+2026-11-10T11:18:01Z Checking if the daemon lock is available: PidLock{@482a8966, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-10T11:18:01Z The daemon lock is not available, there is already a server running.
+2026-11-10T11:18:01Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-10T11:18:01Z Read PID: 5109
+2026-11-10T11:18:01Z The daemon lock is not available, there is already a server running.
+2026-11-10T11:18:01Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-10T11:18:01Z Read PID: 5109
+2026-11-10T11:18:01Z The daemon lock is not available, there is already a server running.
+2026-11-10T11:18:01Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-10T11:18:01Z Read PID: 5109
+2026-11-10T11:18:01Z The daemon lock is not available, there is already a server running.
+2026-11-10T11:18:01Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-10T11:18:01Z Read PID: 5109
+2026-11-10T11:18:01Z The daemon lock is not available, there is already a server running.
+2026-11-10T11:18:01Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-10T11:18:01Z Read PID: 5109
+2026-11-10T11:18:01Z The daemon lock is not available, there is already a server running.
+2026-11-10T11:18:01Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-10T11:18:01Z Read PID: 5109
+2026-11-10T11:18:01Z The daemon lock is not available, there is already a server running.
+2026-11-10T11:18:01Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-10T11:18:01Z Read PID: 5109
+2026-11-10T11:18:01Z The daemon lock is not available, there is already a server running.
+2026-11-10T11:18:01Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-10T11:18:01Z Read PID: 5109
+2026-11-10T11:18:01Z The daemon lock is not available, there is already a server running.
+2026-11-10T11:18:01Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-10T11:18:01Z Read PID: 5109
+2026-11-10T11:18:01Z The daemon lock is not available, there is already a server running.
+2026-11-10T11:18:01Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-10T11:18:01Z Read PID: 5109
+2026-11-10T11:18:01Z The daemon lock is not available, there is already a server running.
+2026-11-10T11:18:01Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-10T11:18:01Z Read PID: 5109
+2026-11-10T11:18:01Z The daemon lock is not available, there is already a server running.
+2026-11-10T11:18:01Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-10T11:18:01Z Read PID: 5109
+2026-11-10T11:18:01Z The daemon lock is not available, there is already a server running.
+2026-11-10T11:18:01Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-10T11:18:01Z Read PID: 5109
+2026-11-10T11:18:01Z The daemon lock is not available, there is already a server running.
+2026-11-10T11:18:01Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-10T11:18:01Z Read PID: 5109
+2026-11-10T11:18:01Z The daemon lock is not available, there is already a server running.
+2026-11-10T11:18:01Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-10T11:18:01Z Read PID: 5109
+2026-11-10T11:18:01Z The daemon lock is not available, there is already a server running.
+2026-11-10T11:18:01Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-10T11:18:01Z Read PID: 5109
+2026-11-10T11:18:01Z The daemon lock is not available, there is already a server running.
+2026-11-10T11:18:01Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-10T11:18:01Z Read PID: 5109
+2026-11-10T11:18:01Z The daemon lock is not available, there is already a server running.
+2026-11-10T11:18:01Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-10T11:18:01Z Read PID: 5109
+2026-11-10T11:18:01Z The daemon lock is not available, there is already a server running.
+2026-11-10T11:18:01Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-10T11:18:01Z Read PID: 5109
+2026-11-10T11:18:01Z The daemon lock is not available, there is already a server running.
+2026-11-10T11:18:01Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-10T11:18:01Z Read PID: 5575
+2026-11-10T11:18:01Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-10T11:18:01Z Read server port
+2026-11-10T11:18:01Z Connecting: 43931
+2026-11-10T11:18:01Z launchOrConnectToServer attempt
+2026-11-10T11:18:01Z Checking if the daemon lock is available: PidLock{@482a8966, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-10T11:18:01Z The daemon lock is not available, there is already a server running.
+2026-11-10T11:18:01Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-10T11:18:01Z Read PID: 5575
+2026-11-10T11:18:01Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-10T11:18:01Z Read server port
+2026-11-10T11:18:01Z Connecting: 43931
+2026-11-10T11:18:01Z launchOrConnectToServer attempt
+2026-11-10T11:18:01Z Checking if the daemon lock is available: PidLock{@482a8966, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-10T11:18:01Z The daemon lock is not available, there is already a server running.
+2026-11-10T11:18:01Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-10T11:18:01Z Read PID: 5575
+2026-11-10T11:18:01Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-10T11:18:01Z Read server port
+2026-11-10T11:18:01Z Connecting: 39713
+2026-11-10T11:18:01Z runWithConnection (RPC): Launched(39713,Some(Socket[addr=localhost/127.0.0.1,port=39713,localport=35334]),OsProcess(5575))
+2026-11-10T11:18:13Z runWithConnection exit code: 1
+2026-11-10T11:18:27Z launchOrConnectToServer: mill.client.lock.Locks@1c671d28
+2026-11-10T11:18:27Z Acquiring the launcher lock: PidLock{@6ff51046, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-11-10T11:18:27Z launchOrConnectToServer attempt
+2026-11-10T11:18:27Z Checking if the daemon lock is available: PidLock{@1ecde74d, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-10T11:18:27Z The daemon lock is not available, there is already a server running.
+2026-11-10T11:18:27Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-10T11:18:27Z Read PID: 5575
+2026-11-10T11:18:27Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-10T11:18:27Z Read server port
+2026-11-10T11:18:27Z Connecting: 39713
+2026-11-10T11:18:27Z runWithConnection (RPC): Launched(39713,Some(Socket[addr=localhost/127.0.0.1,port=39713,localport=52592]),OsProcess(5575))
+2026-11-10T11:18:29Z runWithConnection exit code: 0
+2026-11-15T19:33:02Z launchOrConnectToServer: mill.client.lock.Locks@448cbde0
+2026-11-15T19:33:02Z Acquiring the launcher lock: PidLock{@36a216ab, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-11-15T19:33:02Z launchOrConnectToServer attempt
+2026-11-15T19:33:02Z Checking if the daemon lock is available: PidLock{@3d67918, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-15T19:33:02Z The daemon lock is available, starting the server.
+2026-11-15T19:33:02Z The server has started: OsProcess(8301)
+2026-11-15T19:33:02Z Waiting for the server to take the daemon lock: PidLock{@3d67918, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-15T19:33:02Z The server OsProcess(8301) has taken the daemon lock: PidLock{@3d67918, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-15T19:33:02Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-15T19:33:02Z Read server port
+2026-11-15T19:33:02Z Connecting: 39713
+2026-11-15T19:33:02Z launchOrConnectToServer attempt
+2026-11-15T19:33:02Z Checking if the daemon lock is available: PidLock{@3d67918, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 5575
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID exception
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 8301
+2026-11-15T19:33:02Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-15T19:33:02Z Read server port
+2026-11-15T19:33:02Z Connecting: 39713
+2026-11-15T19:33:02Z launchOrConnectToServer attempt
+2026-11-15T19:33:02Z Checking if the daemon lock is available: PidLock{@3d67918, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 8301
+2026-11-15T19:33:02Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-15T19:33:02Z Read server port
+2026-11-15T19:33:02Z Connecting: 39713
+2026-11-15T19:33:02Z launchOrConnectToServer attempt
+2026-11-15T19:33:02Z Checking if the daemon lock is available: PidLock{@3d67918, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-15T19:33:02Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:33:02Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:33:02Z Read PID: 8301
+2026-11-15T19:33:02Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-15T19:33:02Z Read server port
+2026-11-15T19:33:02Z Connecting: 38337
+2026-11-15T19:33:02Z runWithConnection (RPC): Launched(38337,Some(Socket[addr=localhost/127.0.0.1,port=38337,localport=52340]),OsProcess(8301))
+2026-11-15T19:33:08Z runWithConnection exit code: 1
+2026-11-15T19:37:12Z launchOrConnectToServer: mill.client.lock.Locks@73d50991
+2026-11-15T19:37:12Z Acquiring the launcher lock: PidLock{@419574ac, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-11-15T19:37:12Z launchOrConnectToServer attempt
+2026-11-15T19:37:12Z Checking if the daemon lock is available: PidLock{@7b507065, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-15T19:37:12Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:37:12Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:37:12Z Read PID: 8301
+2026-11-15T19:37:12Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-15T19:37:12Z Read server port
+2026-11-15T19:37:12Z Connecting: 38337
+2026-11-15T19:37:12Z runWithConnection (RPC): Launched(38337,Some(Socket[addr=localhost/127.0.0.1,port=38337,localport=37664]),OsProcess(8301))
+2026-11-15T19:37:13Z runWithConnection exit code: 1
+2026-11-15T19:37:17Z launchOrConnectToServer: mill.client.lock.Locks@11c83a23
+2026-11-15T19:37:17Z Acquiring the launcher lock: PidLock{@17ec1330, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-11-15T19:37:17Z launchOrConnectToServer attempt
+2026-11-15T19:37:17Z Checking if the daemon lock is available: PidLock{@69cc9d0f, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-15T19:37:17Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:37:17Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:37:17Z Read PID: 8301
+2026-11-15T19:37:17Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-15T19:37:17Z Read server port
+2026-11-15T19:37:17Z Connecting: 38337
+2026-11-15T19:37:17Z runWithConnection (RPC): Launched(38337,Some(Socket[addr=localhost/127.0.0.1,port=38337,localport=37670]),OsProcess(8301))
+2026-11-15T19:37:18Z runWithConnection exit code: 1
+2026-11-15T19:38:30Z launchOrConnectToServer: mill.client.lock.Locks@2712ed81
+2026-11-15T19:38:30Z Acquiring the launcher lock: PidLock{@5866bebc, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-11-15T19:38:30Z launchOrConnectToServer attempt
+2026-11-15T19:38:30Z Checking if the daemon lock is available: PidLock{@1872867b, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-15T19:38:30Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:38:30Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:38:30Z Read PID: 8301
+2026-11-15T19:38:30Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-15T19:38:30Z Read server port
+2026-11-15T19:38:30Z Connecting: 38337
+2026-11-15T19:38:30Z runWithConnection (RPC): Launched(38337,Some(Socket[addr=localhost/127.0.0.1,port=38337,localport=55242]),OsProcess(8301))
+2026-11-15T19:38:31Z runWithConnection exit code: 1
+2026-11-15T19:39:35Z launchOrConnectToServer: mill.client.lock.Locks@7fb9855e
+2026-11-15T19:39:35Z Acquiring the launcher lock: PidLock{@6cef3657, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-11-15T19:39:35Z launchOrConnectToServer attempt
+2026-11-15T19:39:35Z Checking if the daemon lock is available: PidLock{@35a5a8b8, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-15T19:39:35Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:39:35Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:39:35Z Read PID: 8301
+2026-11-15T19:39:35Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-15T19:39:35Z Read server port
+2026-11-15T19:39:35Z Connecting: 38337
+2026-11-15T19:39:35Z runWithConnection (RPC): Launched(38337,Some(Socket[addr=localhost/127.0.0.1,port=38337,localport=57512]),OsProcess(8301))
+2026-11-15T19:39:35Z runWithConnection exit code: 1
+2026-11-15T19:40:42Z launchOrConnectToServer: mill.client.lock.Locks@57de7c9a
+2026-11-15T19:40:42Z Acquiring the launcher lock: PidLock{@2d98229c, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/launcherLock'}
+2026-11-15T19:40:42Z launchOrConnectToServer attempt
+2026-11-15T19:40:42Z Checking if the daemon lock is available: PidLock{@327af52e, path='/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/daemonLock'}
+2026-11-15T19:40:42Z The daemon lock is not available, there is already a server running.
+2026-11-15T19:40:42Z Trying to read the process ID of a running daemon from /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon/processId
+2026-11-15T19:40:42Z Read PID: 8301
+2026-11-15T19:40:42Z Reading server port: /home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-daemon
+2026-11-15T19:40:42Z Read server port
+2026-11-15T19:40:42Z Connecting: 38337
+2026-11-15T19:40:42Z runWithConnection (RPC): Launched(38337,Some(Socket[addr=localhost/127.0.0.1,port=38337,localport=58772]),OsProcess(8301))
+2026-11-15T19:40:42Z runWithConnection exit code: 1

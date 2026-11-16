@@ -1,0 +1,13 @@
+{
+    "value": [
+        "qref:v1:b87d5459:/home/alex/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/3.9.0/scala-library-3.9.0.jar",
+        "ref:v0:c984eca8:/home/alex/Schreibtisch/Pt-1/ProgrammingI/src/main/scala/lecture05NumberByHand/compile-resources",
+        "ref:v0:c984eca8:/home/alex/Schreibtisch/Pt-1/ProgrammingI/src/main/scala/lecture05NumberByHand/resources",
+        "ref:v0:d0cf12d7:/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/numbers/compile.dest/classes"
+    ],
+    "valueHash": 438121060,
+    "inputsHash": 748953810,
+    "millVersion": "1.1.10",
+    "millJvmVersion": "21.0.10",
+    "classLoaderSigHash": -922733126
+}

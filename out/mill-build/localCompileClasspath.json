@@ -1,0 +1,10 @@
+{
+    "value": [
+        "ref:v0:c984eca8:/home/alex/Schreibtisch/Pt-1/ProgrammingI/mill-build/compile-resources"
+    ],
+    "valueHash": -99381290,
+    "inputsHash": -739745382,
+    "millVersion": "1.1.10",
+    "millJvmVersion": "21.0.10",
+    "classLoaderSigHash": -353824999
+}

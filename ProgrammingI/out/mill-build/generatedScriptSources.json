@@ -1,0 +1,24 @@
+{
+    "value": {
+        "wrapped": [
+            "ref:v0:7a4af879:/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-build/generatedScriptSources.dest/wrapped"
+        ],
+        "support": [
+            "ref:v0:c984eca8:/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-build/generatedScriptSources.dest/support"
+        ],
+        "resources": [
+            "ref:v0:e300b5ea:/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-build/generatedScriptSources.dest/resources"
+        ],
+        "mappings": [
+            {
+                "original": "ref:v0:a2107ac1:/home/alex/Schreibtisch/Pt-1/ProgrammingI/build.mill",
+                "generated": "ref:v0:1853ac38:/home/alex/Schreibtisch/Pt-1/ProgrammingI/out/mill-build/generatedScriptSources.dest/wrapped/build_/build.mill"
+            }
+        ]
+    },
+    "valueHash": -866294653,
+    "inputsHash": -447779155,
+    "millVersion": "1.1.10",
+    "millJvmVersion": "21.0.10",
+    "classLoaderSigHash": -353824999
+}
